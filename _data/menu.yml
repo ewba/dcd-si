@@ -1,0 +1,17 @@
+entries:
+  - title: Navodila za čiščenje
+    entries:
+      - title: E-pošta
+      - title: Datoteke
+        url: https://github.com/podstran
+      - title: Telefon
+
+  - title: Kako sodelujem?
+    entries:
+      - title: Posameznik
+      - title: Šola
+      - title: Podjetje
+        url: https://github.com/podstran
+      - title: Druge organizacije
+
+  - title: Ohranjanje dobrih navad

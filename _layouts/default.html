@@ -3,10 +3,29 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
+    {% if page.title %}
+      <title>{{ page.title }} - {{ site.title }}</title>
+    {% else %}
+      <title>{{ site.title }}</title>
+    {% endif %}
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
   <body>
-    {{ content }}
+    <nav class="navbar">
+      {% include mainmenu.html %}
+    </nav>
+
+    <div class="submitData">{{ site.data.text.submitResults }}</div>
+
+    <h1>{{ site.data.text.mainTitle }}</h1>
+
+    <div class="container">
+      {{ content }}
+    </div>
+
+    <img id="sedecko" src="{{ "/assets/img/sedecko.png" | relative_url }}" alt="sedeči mož" aria-hidden="true">
+    <footer>
+      {% include footer.html %}
+    </footer>
   </body>
 </html>

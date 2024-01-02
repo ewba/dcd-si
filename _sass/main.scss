@@ -2,8 +2,75 @@ $backgroundColor: #ffffff;
 $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 
+// vogali v originalnem mockupu, zakodirani spodaj v svg
+$violaTemna: rgba(59, 57, 145, 1); // #3b3991
+$viola: rgba(89, 88, 196, 1); // #5958c4
+$sivaSvetla: rgba(229, 231, 239, 1); //#e5e7ef
+$rdecaUstna: rgba(204, 106, 114, 1); // #cc6a72
+$rdecaZiva: #e52990;
+// polprosojni
+// $grada: 0.5;
+// $violaTemnaA: rgba(59, 57, 145, $grada);
+// $violaA: rgba(89, 88, 196, $grada);
+// $sivaSvetlaA: rgba(229, 231, 239, $grada);
+// $rdecaUstnaA: rgba(204, 106, 114, $grada);
+
 body {
-  background: $backgroundColor;
+  background-image: url("data:image/svg+xml;utf8,%3Csvg preserveAspectRatio='none' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='g'%3E%3Cstop offset='0' stop-color='%23fff' stop-opacity='0'%3E%3C/stop%3E%3Cstop offset='1' stop-color='%23fff' stop-opacity='1'%3E%3C/stop%3E%3C/linearGradient%3E%3Cmask id='m'%3E%3Crect x='0' y='0' width='1' height='1' fill='url(%23g)'%3E%3C/rect%3E%3C/mask%3E%3ClinearGradient id='a' gradientTransform='rotate(90)'%3E%3Cstop offset='0' stop-color='%23e5e7ef'%3E%3C/stop%3E%3Cstop offset='1' stop-color='%23cc6a72'%3E%3C/stop%3E%3C/linearGradient%3E%3ClinearGradient id='b' gradientTransform='rotate(90)'%3E%3Cstop offset='0' stop-color='%235958c4'%3E%3C/stop%3E%3Cstop offset='1' stop-color='%233b3991'%3E%3C/stop%3E%3C/linearGradient%3E%3C/defs%3E%3Crect x='0' y='0' width='1' height='1' fill='url(%23a)' mask='url(%23m)'%3E%3C/rect%3E%3Crect x='0' y='0' width='1' height='1' fill='url(%23b)' mask='url(%23m)' transform='translate(1,1) rotate(180)'%3E%3C/rect%3E%3C/svg%3E ");
+  background-size: 100% 100%;
   color: $bodyColor;
   font-family: $bodyFont;
 }
+
+.container{margin:0 20px;width:auto}
+@media(min-width:1310px){.container{margin:auto;width:1270px}}
+@media(max-width:870px){.row .col{width:100%}}
+
+@mixin blocker($mw) {
+  max-width: $mw;
+  margin: 0 auto 1em auto;
+  padding: 1.5em 3em;
+  border-radius: 45px;
+  background-color: $sivaSvetla;
+  box-shadow: 0px 3px 6px #00000029;
+}
+
+@import 'menu';
+
+.block {
+  @include blocker(1200px);
+}
+
+h1, h2, h3 {
+  color: $violaTemna;
+}
+h1 {
+  @include blocker(1250px);
+  padding: 0.75em 2em;
+}
+h2 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.submitData {
+  position: fixed;
+  top: 2em;
+  right: 2em;
+  padding: 1em;
+  background-color: $violaTemna;
+  color: $sivaSvetla;
+  font-size: 1.5em;
+  border: 2px solid $viola;
+  border-radius: 45px;
+  text-align: center;
+}
+
+cite {
+  margin-top: 1em;
+  float: right;
+}
+
+@import 'footer';
+
+

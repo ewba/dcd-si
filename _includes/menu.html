@@ -1,0 +1,18 @@
+<ul class="navbar-nav block">
+{%- for item in include.collection -%}
+  {%- if item.entries -%}
+    <li class="nav-item dropdown">
+      <a href="{{ item.url }}" class="nav-link dropdown-toggle" href="#" id="navbarDropdown6" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
+      <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
+      {%- for subitem in item.entries -%}
+        <a class="dropdown-item" href="{{ subitem.url }}">{{ subitem.title }}</a>
+      {%- endfor -%}
+      </div>
+  {%- else -%}
+    <li class="nav-item">
+      <a href="{{ item.url }}" class="nav-link">{{ item.title }}</a>
+  {%- endif -%}
+    </li>
+
+{%- endfor -%}
+</ul>
