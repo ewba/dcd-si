@@ -15,6 +15,19 @@ $rdecaZiva: #e52990;
 // $sivaSvetlaA: rgba(229, 231, 239, $grada);
 // $rdecaUstnaA: rgba(204, 106, 114, $grada);
 
+// dark mode inversion support
+// FIXME: the bg gradient is unaffected, override it
+@mixin dark-appearance {
+  filter: invert(1);
+  img {
+    filter: invert(1);
+    &.ioda { filter: invert(0); } // to disable add class="ioda"
+  }
+}
+@media (prefers-color-scheme: dark) {
+//  body[a="auto"] { @include dark-appearance; }
+}
+
 body {
   background-image: url("data:image/svg+xml;utf8,%3Csvg preserveAspectRatio='none' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='g'%3E%3Cstop offset='0' stop-color='%23fff' stop-opacity='0'%3E%3C/stop%3E%3Cstop offset='1' stop-color='%23fff' stop-opacity='1'%3E%3C/stop%3E%3C/linearGradient%3E%3Cmask id='m'%3E%3Crect x='0' y='0' width='1' height='1' fill='url(%23g)'%3E%3C/rect%3E%3C/mask%3E%3ClinearGradient id='a' gradientTransform='rotate(90)'%3E%3Cstop offset='0' stop-color='%23e5e7ef'%3E%3C/stop%3E%3Cstop offset='1' stop-color='%23cc6a72'%3E%3C/stop%3E%3C/linearGradient%3E%3ClinearGradient id='b' gradientTransform='rotate(90)'%3E%3Cstop offset='0' stop-color='%235958c4'%3E%3C/stop%3E%3Cstop offset='1' stop-color='%233b3991'%3E%3C/stop%3E%3C/linearGradient%3E%3C/defs%3E%3Crect x='0' y='0' width='1' height='1' fill='url(%23a)' mask='url(%23m)'%3E%3C/rect%3E%3Crect x='0' y='0' width='1' height='1' fill='url(%23b)' mask='url(%23m)' transform='translate(1,1) rotate(180)'%3E%3C/rect%3E%3C/svg%3E ");
   background-size: 100% 100%;
