@@ -1,16 +1,23 @@
-<ul class="navbar-nav block">
+{% comment %}
+ good overview source on a11y for menus: https://get-evinced.com/blog/a11y-nav-menus/
+{% endcomment %}
+
+<input type="checkbox" id="responsive-menu" onclick="updatemenu()"><label></label>
+<ul class="" role="menu">
 {%- for item in include.collection -%}
   {%- if item.entries -%}
-    <li class="nav-item dropdown">
-      <a href="{{ item.url }}" class="nav-link dropdown-toggle" href="#" id="navbarDropdown6" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
-      <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
+    <li role="none">
+      <a href="{{ item.url }}" class="dropdown-arrow" href="#" role="button" aria-haspopup="true" role="menuitem">{{ item.title }}</a>
+      <ul class="sub-menus">
       {%- for subitem in item.entries -%}
-        <a class="dropdown-item" href="{{ subitem.url }}">{{ subitem.title }}</a>
+        <li>
+          <a href="{{ subitem.url }}" role="menuitem">{{ subitem.title }}</a>
+        </li>
       {%- endfor -%}
-      </div>
+      </ul>
   {%- else -%}
-    <li class="nav-item">
-      <a href="{{ item.url }}" class="nav-link">{{ item.title }}</a>
+    <li role="none">
+      <a href="{{ item.url }}" role="menuitem">{{ item.title }}</a>
   {%- endif -%}
     </li>
 

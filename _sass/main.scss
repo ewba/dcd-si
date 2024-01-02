@@ -26,13 +26,16 @@ body {
 @media(min-width:1310px){.container{margin:auto;width:1270px}}
 @media(max-width:870px){.row .col{width:100%}}
 
+@mixin curvyEdge() {
+  border-radius: 45px;
+  box-shadow: 0px 3px 6px #00000029;
+}
 @mixin blocker($mw) {
   max-width: $mw;
   margin: 0 auto 1em auto;
   padding: 1.5em 3em;
-  border-radius: 45px;
   background-color: $sivaSvetla;
-  box-shadow: 0px 3px 6px #00000029;
+  @include curvyEdge();
 }
 
 @import 'menu';
@@ -61,8 +64,8 @@ h2 {
   background-color: $violaTemna;
   color: $sivaSvetla;
   font-size: 1.5em;
+  @include curvyEdge();
   border: 2px solid $viola;
-  border-radius: 45px;
   text-align: center;
 }
 
