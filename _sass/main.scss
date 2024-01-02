@@ -67,6 +67,10 @@ h2 {
   @include curvyEdge();
   border: 2px solid $viola;
   text-align: center;
+  a {
+    color: $sivaSvetla;
+    text-decoration: none;
+  }
 }
 
 cite {
