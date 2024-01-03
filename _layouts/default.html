@@ -22,9 +22,11 @@
 
     <h1>{{ site.data.text.mainTitle }}</h1>
 
-    <div class="container">
-      {{ content }}
-    </div>
+    <main aria-label="Content">
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
 
     <img id="sedecko" src="{{ "/assets/img/sedecko.png" | relative_url }}" alt="sedeči mož" aria-hidden="true">
     <footer>
