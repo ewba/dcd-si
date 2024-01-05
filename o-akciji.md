@@ -10,11 +10,11 @@ Ogljični odtis se nanaša na količino toplogrednih plinov, zlasti ogljikovega 
 
 Ogljični odtis digitalnih aktivnosti se nanaša na količino toplogrednih plinov, ki jih povzročajo dejavnosti na internetu, vključno z brskanjem po spletu, pošiljanjem e-pošte, uporabo socialnih omrežij, prenosom datotek, gledanjem spletnih videoposnetkov itd. Digitalne storitve in infrastruktura, kot so podatkovni centri, omrežja in strežniki, zahtevajo veliko električne energije, kar povečuje njihov ogljični odtis.
 
-- Poraba električne energije: Podatkovni centri, kjer se shranjuje in obdeluje velika količina spletnih podatkov, zahtevajo veliko električne energije za delovanje strojne opreme, hlajenje in vzdrževanje.
-- Podatkovna povezljivost: Prehod podatkov prek omrežij, zlasti preko brezžičnih omrežij, zahteva električno energijo. Večji podatkovni promet pomeni večjo porabo energije.
-- Algoritmi in obdelava podatkov: Zapleteni algoritmi in obdelava velike količine podatkov zahtevajo zmogljive računalniške sisteme, ki porabijo več energije.
-- Zasnova programskih rešitev: neučinkovitost pomeni višjo porabo naravnih virov ter večjo potrebo po in hitrejše trošenje strojne opreme.
-- Vzorci uporabe: različni načini uporabe enih in istih digitalnih rešitev imajo lahko zelo različne ogljične odtise.
+- <strong>Poraba električne energije</strong>: Podatkovni centri, kjer se shranjuje in obdeluje velika količina spletnih podatkov, zahtevajo veliko električne energije za delovanje strojne opreme, hlajenje in vzdrževanje.
+- <strong>Podatkovna povezljivost</strong>: Prehod podatkov prek omrežij, zlasti preko brezžičnih omrežij, zahteva električno energijo. Večji podatkovni promet pomeni večjo porabo energije.
+- <strong>Algoritmi in obdelava podatkov</strong>: Zapleteni algoritmi in obdelava velike količine podatkov zahtevajo zmogljive računalniške sisteme, ki porabijo več energije.
+- <strong>Zasnova programskih rešitev</strong>: neučinkovitost pomeni višjo porabo naravnih virov ter večjo potrebo po in hitrejše trošenje strojne opreme.
+- <strong>Vzorci uporabe</strong>: različni načini uporabe enih in istih digitalnih rešitev imajo lahko zelo različne ogljične odtise.
 
 Po nekaterih ocenah naj bi digitalne tehnologije, vključno z informacijsko tehnologijo in komunikacijskimi omrežji, prispevale k približno 2-3% svetovnih izpustov toplogrednih plinov. To je podobno količini izpustov, ki jih proizvede letalski promet.
 
