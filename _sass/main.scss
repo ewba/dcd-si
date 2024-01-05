@@ -56,6 +56,18 @@ p, .para {
   background-color: $sivaSvetla;
   @include curvyEdge();
 }
+@mixin button() {
+  padding: 1em;
+  background-color: $violaTemna;
+  color: $sivaSvetla;
+  @include curvyEdge();
+  border: 2px solid $viola;
+  text-align: center;
+  a {
+    color: $sivaSvetla;
+    text-decoration: none;
+  }
+}
 
 @import 'menu';
 
@@ -79,19 +91,15 @@ h2 {
   position: fixed;
   top: 2em;
   right: 2em;
-  padding: 1em;
-  background-color: $violaTemna;
-  color: $sivaSvetla;
+  @include button();
   font-size: 1.5em;
-  @include curvyEdge();
-  border: 2px solid $viola;
-  text-align: center;
-  a {
-    color: $sivaSvetla;
-    text-decoration: none;
-  }
 }
 
+button {
+  @include button();
+}
+
+// we could load this conditionally only on the one page that needs it (or inline it)
 cite {
   margin-top: 1em;
   float: right;
