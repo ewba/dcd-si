@@ -43,6 +43,7 @@ footer {
     padding-right: 1rem;
     margin-left: -2rem;
     font-size: 1.1rem;
+    font-weight: 500;
     background-color: $rdecaZiva;
     color: $sivaSvetla;
     cursor: pointer;
@@ -51,6 +52,17 @@ footer {
 }
 .subfooter {
   padding-bottom: 2em;
+}
+.smicons {
+  margin-bottom: 1.5rem;
+  display: flex;
+  justify-content: space-around;
+  a {
+    background: transparent 0% 0% no-repeat padding-box;
+    display: inline-block;
+    width: 53px;
+    height: 53px;
+  }
 }
 
 #sedecko {
