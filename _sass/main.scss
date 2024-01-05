@@ -1,6 +1,7 @@
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
-$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+//$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$bodyFont: "Barlow",sans-serif;
 
 // vogali v originalnem mockupu, zakodirani spodaj v svg
 $violaTemna: rgba(59, 57, 145, 1); // #3b3991
@@ -33,6 +34,7 @@ body {
   background-size: 100% 100%;
   color: $bodyColor;
   font-family: $bodyFont;
+  font-size: 18px;
 }
 
 p, .para {
