@@ -2,7 +2,7 @@
  good overview source on a11y for menus: https://get-evinced.com/blog/a11y-nav-menus/
 {% endcomment %}
 
-<input type="checkbox" id="responsive-menu" onclick="updatemenu()"><label></label>
+<input type="checkbox" id="responsive-menu" onclick="updatemenu()" aria-hidden="true"><label></label>
 <ul class="" role="menu">
 {%- for item in include.collection -%}
   {%- if item.entries -%}

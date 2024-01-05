@@ -4,7 +4,7 @@ layout: default
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin-bottom: 1em">
 	<div style="">
-		<img src="assets/img/sedecko.webp" alt="key visual projekta" aria-hidden="true">
+		<img src="assets/img/sedecko.webp" width="95" height="174" alt="key visual projekta" aria-hidden="true">
 	</div>
 	<div style="baorder: 1px solid green; max-width: 40%">
 		<h2>Odklikaj digitalne odpadke!</h2>

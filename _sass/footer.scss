@@ -44,8 +44,8 @@ footer {
     margin-left: -2rem;
     font-size: 1.1rem;
     font-weight: 500;
-    background-color: $rdecaZiva;
-    color: $sivaSvetla;
+    background-color: #cd1e87; // darker $rdecaZiva;
+    color: white; // $sivaSvetla results in too low contrast
     cursor: pointer;
     min-height: 53px;
   }

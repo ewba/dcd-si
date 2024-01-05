@@ -7,7 +7,6 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Barlow&display=swap" rel="stylesheet">
 
     <link rel="icon" href="favicon.ico" sizes="48x48" >
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
@@ -24,6 +23,7 @@
       <title>{{ site.title }}</title>
     {% endif %}
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link href="https://fonts.googleapis.com/css2?family=Barlow&display=swap" rel="stylesheet">
   </head>
   <body a="auto">
     <nav id="menu">
@@ -42,7 +42,7 @@
       </div>
     </main>
 
-    <img id="sedecko" src="{{ "/assets/img/sedecko.webp" | relative_url }}" alt="sedeči mož" aria-hidden="true">
+    <img id="sedecko" src="{{ "/assets/img/sedecko.webp" | relative_url }}" width="95" height="174" alt="sedeči mož" aria-hidden="true">
     <footer>
       {%- include footer.html -%}
     </footer>
