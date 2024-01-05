@@ -63,6 +63,10 @@ p, .para {
     color: $sivaSvetla;
     text-decoration: none;
   }
+  &:hover {
+    background-color: $viola;
+    color: white;
+  }
 }
 
 @import 'menu';
