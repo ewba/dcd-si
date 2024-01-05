@@ -9,12 +9,6 @@ $viola: rgba(89, 88, 196, 1); // #5958c4
 $sivaSvetla: rgba(229, 231, 239, 1); //#e5e7ef
 $rdecaUstna: rgba(204, 106, 114, 1); // #cc6a72
 $rdecaZiva: #e52990;
-// polprosojni
-// $grada: 0.5;
-// $violaTemnaA: rgba(59, 57, 145, $grada);
-// $violaA: rgba(89, 88, 196, $grada);
-// $sivaSvetlaA: rgba(229, 231, 239, $grada);
-// $rdecaUstnaA: rgba(204, 106, 114, $grada);
 
 // dark mode inversion support
 // FIXME: the bg gradient is unaffected, override it
@@ -42,7 +36,7 @@ p, .para {
 }
 
 .container{margin:0 20px;width:auto}
-@media(min-width:1310px){.container{margin:auto;width:1270px}}
+@media(min-width:1210px){.container{margin:auto;width:1140px}}
 @media(max-width:870px){.row .col{width:100%}}
 
 @mixin curvyEdge() {
@@ -58,11 +52,13 @@ p, .para {
 }
 @mixin button() {
   padding: 1em;
+  margin-bottom: 0.5em;
   background-color: $violaTemna;
   color: $sivaSvetla;
   @include curvyEdge();
   border: 2px solid $viola;
   text-align: center;
+  cursor: pointer;
   a {
     color: $sivaSvetla;
     text-decoration: none;
@@ -72,14 +68,15 @@ p, .para {
 @import 'menu';
 
 .block {
-  @include blocker(1200px);
+  @include blocker(1000px);
+  margin-bottom: 2em;
 }
 
 h1, h2, h3 {
   color: $violaTemna;
 }
 h1 {
-  @include blocker(1250px);
+  @include blocker(1150px);
   padding: 0.75em 2em;
 }
 h2 {
@@ -87,16 +84,22 @@ h2 {
   text-align: center;
 }
 
+ol > li::marker {
+  font-weight: bold;
+}
+
 .submitData {
   position: fixed;
   top: 2em;
   right: 2em;
   @include button();
-  font-size: 1.5em;
+  font-size: 1.5rem;
 }
 
 button {
   @include button();
+  min-width: 10em;
+  font-size: 1.2rem;
 }
 
 // we could load this conditionally only on the one page that needs it (or inline it)

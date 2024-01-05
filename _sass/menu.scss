@@ -5,7 +5,8 @@ $height: 65px;
 	background: $sivaSvetla;
 	height: $height;
 	border-radius: 45px;
-	margin: 2em 0;
+	margin: 2em auto;
+	max-width: 90%;
 }
 #menu ul, #menu li {
 	margin: 0 auto;
@@ -85,7 +86,7 @@ $height: 65px;
 }
 // hover added by Jaka - force screen readers to the burger menu, so kb navigation works for subitems
 @media screen and (max-width: 800px), (hover: none) {
-	#menu {position:relative}
+	#menu {position:relative;max-width: 100%;}
 	#menu a {color:$sivaSvetla}
 	#menu ul {background:$viola;position:absolute;top:100%;right:0;left:0;z-index:3;height:auto;display:none;text-align:left;}
 	#menu ul.sub-menus {width:100%;position:static;display:block;}

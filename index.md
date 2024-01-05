@@ -17,7 +17,7 @@ layout: default
 <div class="block" markdown="1">
 ## Kako sodeluješ?
 
-Uradni dan digitalnega čiščenja bo 16. marec 2024! Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistite že od februarja naprej.
+Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistite že od februarja naprej.
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin-bottom: 1em">
 	<button>Posamezniki</button> <button>Podjetja</button> <button>Šole</button> <button>Druge organizacije</button>
@@ -32,10 +32,10 @@ Uradni dan digitalnega čiščenja bo 16. marec 2024! Ker pa se spremembe ne dog
 <div class="block para" markdown="1">
 ## Cilji akcije
 
-1. Do zaključka akcije (16. marec 2024) počistiti čim ve odvečnih gigabajtov in okolje razbremeniti digitalnih odpadkov.
-2. Poskrbeti za nacionalno ozaveščenost o trajnostnem življenju s poudarkom na digitalnih odpadkih.
-3. Posameznike opolnomočiti, da bodo lahko v prihodnosti s pomočjo preventivnih ukrepov preprečili kopičenje digitalnih odpadkov.
-4. Navdihniti Slovence, da svoje skrbno ravnanje do okolja prenesejo iz fizičnega v digitalni svet, za to navdušijo svoje družine, prijatelje, znance, poslovne partnerje in druge, ki jih obkrožajo ter s svojim zgledom navdihujejo vse generacije, ki jim sledijo!
+1. Do zaključka akcije (16. marec 2024) **počistiti čim več odvečnih gigabajtov** in okolje razbremeniti digitalnih odpadkov.
+2. Poskrbeti za nacionalno **ozaveščenost** o trajnostnem življenju **s poudarkom na digitalnih odpadkih**.
+3. Posameznike opolnomočiti, da bodo lahko s pomočjo **preprečili kopičenje digitalnih odpadkov**.
+4. **Navdihniti Slovence**, da svoje skrbno ravnanje do okolja prenesejo iz fizičnega v digitalni svet, za to navdušijo svoje družine, prijatelje, znance, poslovne partnerje in druge, ki jih obkrožajo ter s svojim zgledom navdihujejo vse generacije, ki jim sledijo!
 
 </div>
 
