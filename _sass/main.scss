@@ -107,6 +107,11 @@ button {
 }
 
 // we could load this conditionally only on the one page that needs it (or inline it)
+blockquote {
+  border-left: 3px solid $violaTemna;
+  padding-left: 0.5rem;
+  font-size: 90%;
+}
 cite {
   margin-top: 1em;
   float: right;
