@@ -98,6 +98,9 @@
   counter-reset: item;
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
+
+  border-radius: 45px;
+  box-shadow: 0px 3px 6px #00000029;
   ol {
     display: flex;
     align-items: center;
@@ -108,7 +111,7 @@
   position: relative;
   flex: 0 0 100%;
   width: 100%;
-  background-color: #f99;
+  background-color: #e5e7ef; // alternating color
   counter-increment: item;
 
   display: table;
@@ -121,7 +124,7 @@
 }
 
 .carousel__slide:nth-child(even) {
-  background-color: #99f;
+  background-color: #e5e7ef; // alternating color2
 }
 
 .carousel__slide:before {
