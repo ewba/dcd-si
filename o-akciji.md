@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O akciji
+css: carousel.css
 ---
 
 <div class="block" markdown="1">
@@ -25,7 +26,84 @@ Po nekaterih ocenah naj bi digitalne tehnologije, vključno z informacijsko tehn
 </div>
 
 ## Zakaj digitalno čiščenje?
-/neka animacija ali slideshow, ki menjava med zanimivimi dejstvi/
+
+<section class="carousel" aria-label="Gallery">
+  <ol class="carousel__viewport">
+    <li id="carousel__slide1"
+        tabindex="0"
+        class="carousel__slide">
+        <span  markdown="1">
+          Vsako leto internet in njegovi podporni sistemi proizvedejo [900 milijonov ton CO<sub>2</sub>](https://digital.worldcleanupday.org/) in nekatere študije ocenjujejo, da bo v desetletju internetno omrežje porabilo 20 % odstotkov celotne svetovne energije.
+        </span>
+      <div class="carousel__snapper">
+        <a href="#carousel__slide4"
+           class="carousel__prev">eee</a>
+        <a href="#carousel__slide2"
+           class="carousel__next">ddd</a>
+      </div>
+    </li>
+    <li id="carousel__slide2"
+        tabindex="0"
+        class="carousel__slide">
+        <span  markdown="1">
+          Za izravnavo onesnaževanja, ki ga povzroča približno 1,9 bilijona letnih iskanj na Googlu, bi bilo treba posaditi [16 milijonov dreves](https://gerrymcgovern.com/books/world-wide-waste/).
+        </span>
+      <div class="carousel__snapper"></div>
+      <a href="#carousel__slide1"
+         class="carousel__prev">aaa</a>
+      <a href="#carousel__slide3"
+         class="carousel__next">ddd</a>
+    </li>
+    <li id="carousel__slide3"
+        tabindex="0"
+        class="carousel__slide">
+        <span  markdown="1">
+[90 % digitalnih podatkov](https://gerrymcgovern.com/books/world-wide-waste/) se ne uporablja:
+
+- Do približno 90 % podatkov tri mesece po prvem shranjevanju nikoli več ne dostopamo.
+
+- Podjetja običajno analizirajo le okoli 10 % podatkov, ki jih zberejo.
+        </span>
+      <div class="carousel__snapper"></div>
+      <a href="#carousel__slide2"
+         class="carousel__prev">aaa</a>
+      <a href="#carousel__slide4"
+         class="carousel__next">ddd</a>
+    </li>
+    <li id="carousel__slide4"
+        tabindex="0"
+        class="carousel__slide">
+        <span  markdown="1">
+Povprečna aplikacija izgubi [77 % uporabnikov](https://gerrymcgovern.com/books/world-wide-waste/) v prvih treh dneh po namestitvi, 90 % v prvih 30 dneh in 95 % v prvih 90 dneh.
+        </span>
+      <div class="carousel__snapper"></div>
+      <a href="#carousel__slide3"
+         class="carousel__prev">aaa</a>
+      <a href="#carousel__slide1"
+         class="carousel__next">bbb</a>
+    </li>
+  </ol>
+  <aside class="carousel__navigation">
+    <ol class="carousel__navigation-list">
+      <li class="carousel__navigation-item">
+        <a href="#carousel__slide1"
+           class="carousel__navigation-button">ccc1</a>
+      </li>
+      <li class="carousel__navigation-item">
+        <a href="#carousel__slide2"
+           class="carousel__navigation-button">ccc2</a>
+      </li>
+      <li class="carousel__navigation-item">
+        <a href="#carousel__slide3"
+           class="carousel__navigation-button">ccc3</a>
+      </li>
+      <li class="carousel__navigation-item">
+        <a href="#carousel__slide4"
+           class="carousel__navigation-button">ccc4</a>
+      </li>
+    </ol>
+  </aside>
+</section>
 
 - Vsako leto internet in njegovi podporni sistemi proizvedejo [900 milijonov ton CO<sub>2</sub>](https://digital.worldcleanupday.org/) in nekatere študije ocenjujejo, da bo v desetletju internetno omrežje porabilo 20 % odstotkov celotne svetovne energije.
 - Za izravnavo onesnaževanja, ki ga povzroča približno 1,9 bilijona letnih iskanj na Googlu, bi bilo treba posaditi [16 milijonov dreves](https://gerrymcgovern.com/books/world-wide-waste/).
