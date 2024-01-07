@@ -23,6 +23,9 @@
       <title>{{ site.title }}</title>
     {% endif %}
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    {% if page.css %}
+      <link rel="stylesheet" href="{{ "/assets/css/" | append: page.css | relative_url }}">
+    {% endif %}
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Barlow&display=swap" onload="this.rel='stylesheet'" />
     <noscript><link href="https://fonts.googleapis.com/css2?family=Barlow&display=swap" rel="stylesheet"></noscript>
 
