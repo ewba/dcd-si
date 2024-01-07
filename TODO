@@ -1,0 +1,15 @@
+- grep for TODO
+- naveti carousel??
+- prijava na čen / ločen seznam?
+- footer sm icons
+- footer logo(ti)
+- povsod podloga al ne? Enobarvni bg?
+- prijavi se / doniraj?
+- navodila - na podstrani, ko bo več vsebine
+- gumb prenesi gradiva na šolska gradiva
+- zabeleži rezultate
+
+
+_config na koncu:
+sass:
+  style: compressed
