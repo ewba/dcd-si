@@ -35,8 +35,8 @@ p, .para {
   line-height: 1.4em;
 }
 
-.container{margin:0 20px;width:auto}
-@media(min-width:1210px){.container{margin:auto;width:1140px}}
+.container{margin:0 20px;width:0 auto}
+@media(min-width:1210px){.container{margin:0 auto;width:1140px}}
 @media(max-width:870px){.row .col{width:100%}}
 
 @mixin curvyEdge() {
@@ -111,6 +111,7 @@ blockquote {
   border-left: 3px solid $violaTemna;
   padding-left: 0.5rem;
   font-size: 90%;
+  line-height: 130%;
 }
 cite {
   margin-top: 1em;
