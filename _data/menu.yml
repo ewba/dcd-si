@@ -2,18 +2,26 @@ entries:
   - title: O akciji
     url: o-akciji.html
   - title: Navodila za čiščenje
+    url: navodila-za-ciscenje.html
     entries:
       - title: E-pošta
+        url: navodila-za-ciscenje.html#e-posta
       - title: Datoteke
-        url: https://github.com/podstran
+        url: navodila-za-ciscenje.html#datoteke
       - title: Telefon
+        url: navodila-za-ciscenje.html#telefon
 
   - title: Kako sodelujem?
+    url: kako-sodelujem.html
     entries:
       - title: Posameznik
+        url: posameznik.html
       - title: Šola
+        url: sola.html
       - title: Podjetje
-        url: https://github.com/podstran
+        url: podjetje.html
       - title: Druge organizacije
+        url: druge-organizacije.html
 
   - title: Ohranjanje dobrih navad
+    url: ohranjanje-dobrih-navad.html

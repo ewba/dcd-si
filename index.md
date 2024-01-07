@@ -19,9 +19,8 @@ layout: default
 
 Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistite že od februarja naprej.
 
-<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin-bottom: 1em">
-	<button>Posamezniki</button> <button>Podjetja</button> <button>Šole</button> <button>Druge organizacije</button>
-</div>
+{% include sodeluj.html %}
+
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin-bottom: 1em">
 	<button>Prijavi se</button> <button>Doniraj</button>
 </div>
