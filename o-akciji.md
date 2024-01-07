@@ -57,12 +57,12 @@ Po nekaterih ocenah naj bi digitalne tehnologije, vključno z informacijsko tehn
     <li id="carousel__slide3"
         tabindex="0"
         class="carousel__slide">
-        <span  markdown="1">
-[90 % digitalnih podatkov](https://gerrymcgovern.com/books/world-wide-waste/) se ne uporablja:
-
-- Do približno 90 % podatkov tri mesece po prvem shranjevanju nikoli več ne dostopamo.
-
-- Podjetja običajno analizirajo le okoli 10 % podatkov, ki jih zberejo.
+        <span>
+<a href="https://gerrymcgovern.com/books/world-wide-waste/" target="_blank" rel="noopener">90 % digitalnih podatkov</a> se ne uporablja:<br>
+<ul>
+  <li>Do približno 90 % podatkov tri mesece po prvem shranjevanju nikoli več ne dostopamo.</li>
+  <li>Podjetja običajno analizirajo le okoli 10 % podatkov, ki jih zberejo.</li>
+</ul>
         </span>
       <div class="carousel__snapper"></div>
       <a href="#carousel__slide2"
