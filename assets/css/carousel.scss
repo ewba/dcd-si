@@ -110,9 +110,13 @@
   width: 100%;
   background-color: #f99;
   counter-increment: item;
+
+  display: table;
   span {
     display: block;
-    padding: 15% 5rem;
+    padding: 0 5rem;
+    display: table-cell;
+    vertical-align: middle;
   }
 }
 
