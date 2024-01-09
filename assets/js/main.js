@@ -8,8 +8,8 @@ function updatemenu() {
   }
 }
 
-// carousel vertical scroll prevention based on Markus Oberlehner's snippet
 window.addEventListener("load", (ev) => {
+  // carousel vertical scroll prevention based on Markus Oberlehner's snippet
   let els = document.querySelectorAll(".carousel__navigation, .carousel__prev, .carousel__next");
   for (let el of els) {
     el.addEventListener("click", (event) => {
@@ -20,4 +20,12 @@ window.addEventListener("load", (ev) => {
       $slide.scrollIntoView({ block: "nearest" });
     });
   }
+
+  // email subscription
+  let form = document.getElementById("subs");
+  form.addEventListener("submit", function(ev) {
+    ev.preventDefault();
+    let data = new FormData(form);
+    fetch("https://ebm.si/civi-signup.php", { method: "post", body: data });
+  });
 });
