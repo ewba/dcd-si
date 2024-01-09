@@ -1,14 +1,25 @@
-- grep for TODO
-- naveti carousel??
-- prijava na čen / ločen seznam?
-- footer sm icons
-- footer logo(ti)
-- povsod podloga al ne? Enobarvni bg?
-- prijavi se / doniraj?
+- povsod podloga: ne? Enobarvni bg: ne
+- zabeleži rezultate
+  - polepšaj
+  - zagotovi, da je meni breakpoint dovolj velik
+  - zagotovi, da je dovolj nizko na vseh breakpointih
+- en močan fakt na prvo stran
+- naša politika gdpr + nekam daj
+- bolj krepki naslovi
+- dark mode?
+- carousel unclickable links?
+
+
+Čaka na vsebino:
 - navodila - na podstrani, ko bo več vsebine
 - gumb prenesi gradiva na šolska gradiva
-- zabeleži rezultate
+- footer logo(ti)
+- footer sm icons
 
+
+
+Na koncu:
+- drobni tisk z odtisom: dodaj številko
 
 _config na koncu:
 sass:

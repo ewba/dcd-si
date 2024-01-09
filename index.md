@@ -21,10 +21,6 @@ Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se
 
 {% include sodeluj.html %}
 
-<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin-bottom: 1em">
-	<button>Prijavi se</button> <button>Doniraj</button>
-</div>
-
 </div>
 
 
@@ -38,11 +34,8 @@ Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se
 
 </div>
 
-## Aktualno dogajanje
-
-Spletkarimo in pletemo za splet.
-
-
+<div class="block para" markdown="1">
 ## Podporniki projekta
 
 /skupek logotipov/
+</div>

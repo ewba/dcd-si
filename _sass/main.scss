@@ -87,7 +87,7 @@ h2 {
   display: none;
   position: absolute;
   top: 37px;
-} // bljak
+} // bljak, lepše z ::before?
 @media screen and (min-width: 1000px) {
   #logoglav {
     display: block;
@@ -98,6 +98,12 @@ h2 {
   #logoglav {
     left: 152px;
   }
+}
+
+#postfoot {
+  text-align: center;
+  color: $sivaSvetla;
+  font-size: 1rem;
 }
 
 ol > li::marker {
