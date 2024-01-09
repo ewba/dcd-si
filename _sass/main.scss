@@ -3,12 +3,7 @@ $bodyColor: #000000;
 //$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 $bodyFont: "Barlow",sans-serif;
 
-// vogali v originalnem mockupu, zakodirani spodaj v svg
-$violaTemna: rgba(59, 57, 145, 1); // #3b3991
-$viola: rgba(89, 88, 196, 1); // #5958c4
-$sivaSvetla: rgba(229, 231, 239, 1); //#e5e7ef
-$rdecaUstna: rgba(204, 106, 114, 1); // #cc6a72
-$rdecaZiva: #e52990;
+@import 'vars';
 
 // dark mode inversion support
 // FIXME: the bg gradient is unaffected, override it

@@ -1,5 +1,7 @@
 ---
 ---
+@import 'vars';
+
 @keyframes tonext {
   75% {
     left: 0;
@@ -107,11 +109,23 @@
   }
 }
 
+.carousel h2 {
+  position: relative;
+  z-index: 1;
+  top: 1em; 
+  color: $sivaSvetla;
+}
+
+.carousel li span a {
+  color: $sivaSvetla;
+}
+
 .carousel__slide {
   position: relative;
   flex: 0 0 100%;
   width: 100%;
-  background-color: #e5e7ef; // alternating color
+  background-color: $viola; // alternating color
+  color: $sivaSvetla;
   counter-increment: item;
 
   display: table;
@@ -124,7 +138,7 @@
 }
 
 .carousel__slide:nth-child(even) {
-  background-color: #e5e7ef; // alternating color2
+  background-color: $violaTemna; // alternating color2
 }
 
 .carousel__slide:before {
@@ -150,7 +164,7 @@
   .carousel__snapper {
     animation-name: tonext, snap;
     animation-timing-function: ease;
-    animation-duration: 6s;
+    animation-duration: 4s;
     animation-iteration-count: infinite;
   }
 
@@ -189,7 +203,7 @@
   display: inline-block;
   width: 1.5rem;
   height: 1.5rem;
-  background-color: #333;
+  background-color: $sivaSvetla;
   background-clip: content-box;
   border: 0.25rem solid transparent;
   border-radius: 50%;
@@ -226,11 +240,11 @@
 .carousel::after {
   content: '';
   z-index: 1;
-  background-color: #333;
+  background-color: $rdecaUstna;
   background-size: 1.5rem 1.5rem;
   background-repeat: no-repeat;
   background-position: center center;
-  color: #fff;
+  color: #000;
   font-size: 2.5rem;
   line-height: 4rem;
   text-align: center;

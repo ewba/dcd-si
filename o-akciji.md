@@ -25,9 +25,8 @@ Po nekaterih ocenah naj bi digitalne tehnologije, vključno z informacijsko tehn
 </blockquote>
 </div>
 
-## Zakaj digitalno čiščenje?
-
 <section class="carousel" aria-label="Gallery">
+  <h2>Zakaj digitalno čiščenje?</h2>
   <ol class="carousel__viewport">
     <li id="carousel__slide1"
         tabindex="0"
@@ -37,9 +36,9 @@ Po nekaterih ocenah naj bi digitalne tehnologije, vključno z informacijsko tehn
         </span>
       <div class="carousel__snapper">
         <a href="#carousel__slide4"
-           class="carousel__prev">eee</a>
+           class="carousel__prev">nazaj</a>
         <a href="#carousel__slide2"
-           class="carousel__next">ddd</a>
+           class="carousel__next">naprej</a>
       </div>
     </li>
     <li id="carousel__slide2"
@@ -50,9 +49,9 @@ Po nekaterih ocenah naj bi digitalne tehnologije, vključno z informacijsko tehn
         </span>
       <div class="carousel__snapper"></div>
       <a href="#carousel__slide1"
-         class="carousel__prev">aaa</a>
+         class="carousel__prev">nazaj</a>
       <a href="#carousel__slide3"
-         class="carousel__next">ddd</a>
+         class="carousel__next">naprej</a>
     </li>
     <li id="carousel__slide3"
         tabindex="0"
@@ -66,9 +65,9 @@ Po nekaterih ocenah naj bi digitalne tehnologije, vključno z informacijsko tehn
         </span>
       <div class="carousel__snapper"></div>
       <a href="#carousel__slide2"
-         class="carousel__prev">aaa</a>
+         class="carousel__prev">nazaj</a>
       <a href="#carousel__slide4"
-         class="carousel__next">ddd</a>
+         class="carousel__next">naprej</a>
     </li>
     <li id="carousel__slide4"
         tabindex="0"
@@ -78,41 +77,75 @@ Povprečna aplikacija izgubi [77 % uporabnikov](https://gerrymcgovern.com/books/
         </span>
       <div class="carousel__snapper"></div>
       <a href="#carousel__slide3"
-         class="carousel__prev">aaa</a>
+         class="carousel__prev">nazaj</a>
+      <a href="#carousel__slide5"
+         class="carousel__next">naprej</a>
+    </li>
+    <li id="carousel__slide5"
+        tabindex="0"
+        class="carousel__slide">
+        <span  markdown="1">
+Za shranjevanje trenutne količine podatkov potrebujemo približno [70 milijonov strežnikov](https://gerrymcgovern.com/99-of-data-has-been-produced-in-the-last-ten-years/). Proizvodnja vsakega strežnika je povzročila od ene do dveh ton izpustov CO<sub>2</sub>, še preden upoštevamo ogromne količine energije za njihovo delovanje in še večje količine vode za njihovo hlajenje.
+        </span>
+      <div class="carousel__snapper"></div>
+      <a href="#carousel__slide4"
+         class="carousel__prev">nazaj</a>
+      <a href="#carousel__slide6"
+         class="carousel__next">naprej</a>
+    </li>
+    <li id="carousel__slide6"
+        tabindex="0"
+        class="carousel__slide">
+        <span  markdown="1">
+Povprečno iskanje v Googlu povzroči [0,192 g CO<sub>2</sub>](https://gerrymcgovern.com/the-environmental-cost-of-search/).
+        </span>
+      <div class="carousel__snapper"></div>
+      <a href="#carousel__slide5"
+         class="carousel__prev">nazaj</a>
       <a href="#carousel__slide1"
-         class="carousel__next">bbb</a>
+         class="carousel__next">naprej</a>
     </li>
   </ol>
   <aside class="carousel__navigation">
     <ol class="carousel__navigation-list">
       <li class="carousel__navigation-item">
         <a href="#carousel__slide1"
-           class="carousel__navigation-button">ccc1</a>
+           class="carousel__navigation-button">citat1</a>
       </li>
       <li class="carousel__navigation-item">
         <a href="#carousel__slide2"
-           class="carousel__navigation-button">ccc2</a>
+           class="carousel__navigation-button">citat2</a>
       </li>
       <li class="carousel__navigation-item">
         <a href="#carousel__slide3"
-           class="carousel__navigation-button">ccc3</a>
+           class="carousel__navigation-button">citat3</a>
       </li>
       <li class="carousel__navigation-item">
         <a href="#carousel__slide4"
-           class="carousel__navigation-button">ccc4</a>
+           class="carousel__navigation-button">citat4</a>
+      </li>
+      <li class="carousel__navigation-item">
+        <a href="#carousel__slide5"
+           class="carousel__navigation-button">citat5</a>
+      </li>
+      <li class="carousel__navigation-item">
+        <a href="#carousel__slide6"
+           class="carousel__navigation-button">citat6</a>
       </li>
     </ol>
   </aside>
 </section>
 
+{% comment %}
 - Vsako leto internet in njegovi podporni sistemi proizvedejo [900 milijonov ton CO<sub>2</sub>](https://digital.worldcleanupday.org/) in nekatere študije ocenjujejo, da bo v desetletju internetno omrežje porabilo 20 % odstotkov celotne svetovne energije.
 - Za izravnavo onesnaževanja, ki ga povzroča približno 1,9 bilijona letnih iskanj na Googlu, bi bilo treba posaditi [16 milijonov dreves](https://gerrymcgovern.com/books/world-wide-waste/).
 - [90 % digitalnih podatkov](https://gerrymcgovern.com/books/world-wide-waste/) se ne uporablja:
   - Do približno 90 % podatkov tri mesece po prvem shranjevanju nikoli več ne dostopamo.
   - Podjetja običajno analizirajo le okoli 10 % podatkov, ki jih zberejo.
 - Povprečna aplikacija izgubi [77 % uporabnikov](https://gerrymcgovern.com/books/world-wide-waste/) v prvih treh dneh po namestitvi, 90 % v prvih 30 dneh in 95 % v prvih 90 dneh.
+
 - Za shranjevanje trenutne količine podatkov potrebujemo približno [70 milijonov strežnikov](https://gerrymcgovern.com/99-of-data-has-been-produced-in-the-last-ten-years/). Proizvodnja vsakega strežnika je povzročila od ene do dveh ton izpustov CO<sub>2</sub>, še preden upoštevamo ogromne količine energije za njihovo delovanje in še večje količine vode za njihovo hlajenje.
-- Proizvodnja podatkov narašča za približno [25 % na leto](https://gerrymcgovern.com/keeping-all-data-is-no-longer-an-option/). Leta 2020 smo ljudje ustvarili približno 60 zettabajtov podatkov, Statista pa ocenjuje, da bomo do leta 2035 ustvarili več kot 2.000 zettabajtov podatkov.
-- Po podatkih revije Eolas lahko podatkovni center porabi od [500.000 do 5 milijonov litrov vode](https://gerrymcgovern.com/why-is-water-such-a-low-priority-for-data-centers/) na dan oziroma od 182 milijonov do 1,8 milijarde litrov na leto. Po podatkih podjetja CloudScene je bilo leta 2022 na svetu približno 8 500 velikih podatkovnih centrov. To je od 1,5 do 15 bilijonov litrov vode na leto ali toliko, da bi lahko napolnili od 600.000 do 6 milijonov olimpijskih bazenov.
+//- Proizvodnja podatkov narašča za približno [25 % na leto](https://gerrymcgovern.com/keeping-all-data-is-no-longer-an-option/). Leta 2020 smo ljudje ustvarili približno 60 zetabajtov (1000 milijard gigabajtov) podatkov, Statista pa ocenjuje, da bomo do leta 2035 ustvarili več kot 2.000 zetabajtov podatkov.
+//- Po podatkih revije Eolas lahko podatkovni center porabi od [500.000 do 5 milijonov litrov vode](https://gerrymcgovern.com/why-is-water-such-a-low-priority-for-data-centers/) na dan oziroma od 182 milijonov do 1,8 milijarde litrov na leto. Po podatkih podjetja CloudScene je bilo leta 2022 na svetu približno 8500 velikih podatkovnih centrov. To je od 1,5 do 15 bilijonov litrov vode na leto ali toliko, da bi lahko napolnili od 600.000 do 6 milijonov olimpijskih bazenov.
 - Povprečno iskanje v Googlu povzroči [0,192 g CO<sub>2</sub>](https://gerrymcgovern.com/the-environmental-cost-of-search/).
-{: .block }
+{% endcomment %}
