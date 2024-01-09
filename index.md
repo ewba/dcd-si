@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin-bottom: 1em">
+<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center; margin-bottom: 1em">
 	<div style="">
 		<img src="assets/img/sedecko.webp" width="95" height="174" alt="key visual projekta" aria-hidden="true">
 	</div>
-	<div style="baorder: 1px solid green; max-width: 40%">
-		<h2>Odklikaj digitalne odpadke!</h2>
+	<div style="baorder: 1px solid green; max-width: 40%; color:white">
+		<h2 style="color:white">Internet proizvede več emisij kot letalstvo!</h2>
 		<p>
 			Dobrodošli v digitalni različici akcije Očistimo Slovenijo, kjer bomo skupaj ustvarjali trajnostno digitalno prihodnost. Stopite korak naprej, očistite svoje digitalne naprave, zmanjšajte ogljični odtis in skupaj z nami oblikujte bolj trajnosten digitalni svet!
 		</p>

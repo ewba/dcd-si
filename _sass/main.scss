@@ -32,7 +32,6 @@ p, .para {
 
 .container{margin:0 20px;width:0 auto}
 @media(min-width:1210px){.container{margin:0 auto;width:1140px}}
-@media(max-width:870px){.row .col{width:100%}}
 
 @mixin curvyEdge() {
   border-radius: 45px;
