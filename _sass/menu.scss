@@ -84,7 +84,11 @@ $height: 65px;
 	background: $rdecaUstna;
 	color: $viola;
 }
+#menu li:nth-child(1) {
+	display: none;
+}
 // hover added by Jaka - force screen readers to the burger menu, so kb navigation works for subitems
+// also unhide the first menu entry
 @media screen and (max-width: 800px), (hover: none) {
 	#menu {position:relative;max-width: 100%;}
 	#menu a {color:$sivaSvetla}
@@ -97,4 +101,5 @@ $height: 65px;
 	#menu input:checked + label {color:$sivaSvetla}
 	#menu input:checked + label:before {content:"\00d7"}
 	#menu input:checked ~ ul {display:block}
+	#menu li:nth-child(1) {display: block;}
 }

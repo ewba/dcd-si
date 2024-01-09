@@ -1,7 +1,9 @@
 entries:
+  - title: Prva stran
+    url: index.html
   - title: O akciji
     url: o-akciji.html
-  - title: Navodila za čiščenje
+  - title: Navodila
     url: navodila-za-ciscenje.html
     entries:
       - title: E-pošta

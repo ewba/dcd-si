@@ -88,6 +88,23 @@ h2 {
   text-align: center;
 }
 
+#logoglav {
+  display: none;
+  position: absolute;
+  top: 37px;
+} // bljak
+@media screen and (min-width: 1000px) {
+  #logoglav {
+    display: block;
+    left: 95px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  #logoglav {
+    left: 152px;
+  }
+}
+
 ol > li::marker {
   font-weight: bold;
 }
