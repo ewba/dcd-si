@@ -87,14 +87,9 @@ h2 {
   position: absolute;
   top: 37px;
 } // bljak, lepše z ::before?
-@media screen and (min-width: 1000px) {
-  #logoglav {
-    display: block;
-    left: 95px;
-  }
-}
 @media screen and (min-width: 1200px) {
   #logoglav {
+    display: block;
     left: 152px;
   }
 }
