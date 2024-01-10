@@ -137,13 +137,14 @@ Povprečno iskanje v Googlu povzroči [0,192 g CO<sub>2</sub>](https://gerrymcgo
 </section>
 
 {% comment %}
+daj kot navaden blok, ampak samo za screen readerje?
+
 - Vsako leto internet in njegovi podporni sistemi proizvedejo [900 milijonov ton CO<sub>2</sub>](https://digital.worldcleanupday.org/) in nekatere študije ocenjujejo, da bo v desetletju internetno omrežje porabilo 20 % odstotkov celotne svetovne energije.
 - Za izravnavo onesnaževanja, ki ga povzroča približno 1,9 bilijona letnih iskanj na Googlu, bi bilo treba posaditi [16 milijonov dreves](https://gerrymcgovern.com/books/world-wide-waste/).
 - [90 % digitalnih podatkov](https://gerrymcgovern.com/books/world-wide-waste/) se ne uporablja:
   - Do približno 90 % podatkov tri mesece po prvem shranjevanju nikoli več ne dostopamo.
   - Podjetja običajno analizirajo le okoli 10 % podatkov, ki jih zberejo.
 - Povprečna aplikacija izgubi [77 % uporabnikov](https://gerrymcgovern.com/books/world-wide-waste/) v prvih treh dneh po namestitvi, 90 % v prvih 30 dneh in 95 % v prvih 90 dneh.
-
 - Za shranjevanje trenutne količine podatkov potrebujemo približno [70 milijonov strežnikov](https://gerrymcgovern.com/99-of-data-has-been-produced-in-the-last-ten-years/). Proizvodnja vsakega strežnika je povzročila od ene do dveh ton izpustov CO<sub>2</sub>, še preden upoštevamo ogromne količine energije za njihovo delovanje in še večje količine vode za njihovo hlajenje.
 //- Proizvodnja podatkov narašča za približno [25 % na leto](https://gerrymcgovern.com/keeping-all-data-is-no-longer-an-option/). Leta 2020 smo ljudje ustvarili približno 60 zetabajtov (1000 milijard gigabajtov) podatkov, Statista pa ocenjuje, da bomo do leta 2035 ustvarili več kot 2.000 zetabajtov podatkov.
 //- Po podatkih revije Eolas lahko podatkovni center porabi od [500.000 do 5 milijonov litrov vode](https://gerrymcgovern.com/why-is-water-such-a-low-priority-for-data-centers/) na dan oziroma od 182 milijonov do 1,8 milijarde litrov na leto. Po podatkih podjetja CloudScene je bilo leta 2022 na svetu približno 8500 velikih podatkovnih centrov. To je od 1,5 do 15 bilijonov litrov vode na leto ali toliko, da bi lahko napolnili od 600.000 do 6 milijonov olimpijskih bazenov.
