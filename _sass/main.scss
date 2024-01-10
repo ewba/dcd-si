@@ -47,11 +47,12 @@ p, .para {
 @mixin button() {
   padding: 1em;
   margin-bottom: 0.5em;
-  background-color: $violaTemna;
+  background-color: $rdecaZiva;
   color: $sivaSvetla;
   @include curvyEdge();
-  border: 2px solid $viola;
+  border: 0px solid $viola;
   text-align: center;
+  font-weight: 500;
   cursor: pointer;
   a {
     color: $sivaSvetla;

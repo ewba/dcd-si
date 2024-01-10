@@ -35,7 +35,7 @@ $height: 65px;
 }
 #menu li a:hover {
 	color: $sivaSvetla;
-	background: $rdecaUstna;
+	background: $rdecaZiva;
 }
 #menu input {
 	display: none;
@@ -81,7 +81,7 @@ $height: 65px;
 	display: block
 }
 #menu ul.sub-menus a:hover{
-	background: $rdecaUstna;
+	background: $rdecaZiva;
 	color: $viola;
 }
 // hover added by Jaka - force screen readers to the burger menu, so kb navigation works for subitems
