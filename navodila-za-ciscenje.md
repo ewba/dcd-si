@@ -24,13 +24,15 @@ Več o čiščenju inbox ana uradni podpori ponudnikov:
 - Microsoft Outlook: ([Clean up your inbox](https://support.microsoft.com/en-us/office/clean-up-your-inbox-2fb652e5-b387-4147-9fff-25f2e32dfda9))
 - Gmail: [Delete Gmail messages or restore deleted messages ]([url](https://support.google.com/mail/answer/7401?hl=en&co=GENIE.Platform%3DDesktop))
 - Apple Icloud: [Delete emails in Mail on iCloud ]([url](https://support.apple.com/sl-si/guide/icloud/mm6b1a7ab7/icloud))
+
 #### Omejite količino nezaželenih e-mail sporočil, ki jih prejemate 
 Ne prebirate številnih newsletterjev, na katere ste se prijavili? Odjavite se! Na dnu vsakega newslettra lahko najdete povezavo za odjavo, običajno na besedah “unsubscribe” / “odjava”. Preverite, ali se vam ob kliku odpre še odjavni obrazec, ki ga morate včasih izpolniti, da dokončate odjavo. Če pri procesu identificirate neznane ali nezaželene pošiljatelje, jih blokirajte s klikom na gumb “report as spam”. 
 
 ### Datoteke
 #### Organizirajte svoje datoteke 
 Organiziranje datotek vam bo pomagalo prepoznati datoteke, ki so za vas resnično uporabne. Razvrstite jih lahko po časovnem obdobju, projektu, vrsti datoteke ali katerem koli drugem kriteriju, ki je za vas relevanten. Če ste v službi, ne pozabite spoštovati veljavnih pravil o hrambi dokumentov ali skupaj s sodelavci ocenite administrativni oziroma zgodovinski pomen dokumenta. Pred izbrisom posamezne datoteke, jo odprite in se vprašajte, če je za vas koristna. Če ni, jo izbrišite. 
-
+#### Izbrišite nepotrebne fotografije, videoposnetke in zvočne datoteke 
+Pri pregledovanju fotografij, videoposnetkov in avdioposnetkov vas zanimajo podvojene in zamegljene fotografije in neuspeli videoposnetki, ki po nepotrebnem zasedajo  prostor. Izbrišite jih. 
 
 ### Telefon
 
