@@ -120,6 +120,11 @@
   color: $sivaSvetla;
 }
 
+.carousel li span ul {
+  text-align: left;
+  list-style: disc;
+}
+
 .carousel__slide {
   position: relative;
   flex: 0 0 100%;
