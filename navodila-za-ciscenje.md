@@ -13,6 +13,7 @@ title: Navodila za čiščenje
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mAvlvPXs96I?si=BUdokPlau8kuTo6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zy-7h-kRVRo?si=CjpfHUlSkyejuMKq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 #### Filtrirajte svoja e-mail sporočila 
 Uporabite različne **filtre**, da identificirate sporočila, ki zavzemajo **največ prostora** v vašem inboxu, **najstarejša sporočila**, sporočila določenih prejemnikov ali z vsebino “FYI”, “noreply”, “newsletter” ali “OK”, “hvala”. 
