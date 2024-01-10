@@ -6,14 +6,12 @@ title: Navodila za čiščenje
 <div class="block" markdown="1">
 ## {{ page.title }}
 
-Čiščenje digitalnih odpadkov je kot vsako drugo — vedno malo drugače. Zato smo pripravili paket navodil, ki vam bodo pomagala počistiti prav vsak “kotiček” vaših naprav.
+Čiščenje digitalnih odpadkov je kot vsako drugo — vedno malo drugače. Zato smo pripravili paket navodil, ki vam bodo pomagala počistiti prav vsak “kotiček” vaših naprav. Preden začnete, morate ugotoviti **izhodiščno stanje**, da boste po koncu procesa vedeli, koliko ste izbrisali. 
 
 
 ### E-pošta
 
-https://youtu.be/mAvlvPXs96I?si=KnsyqLdpeygPzX6t 
-#### Preverite izhodiščno stanje
-Preden začnete, morate ugotoviti **izhodiščno stanje**, da boste po koncu procesa vedeli, koliko ste izbrisali. 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mAvlvPXs96I?si=BUdokPlau8kuTo6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 #### Filtrirajte svoja e-mail sporočila 
 Uporabite različne **filtre**, da identificirate sporočila, ki zavzemajo **največ prostora** v vašem inboxu, **najstarejša sporočila**, sporočila določenih prejemnikov ali z vsebino “FYI”, “noreply”, “newsletter” ali “OK”, “hvala”. 
 #### Izbrišite filtrirana e-mail sporočila in dolge pogovore 
@@ -28,12 +26,8 @@ Več o čiščenju inbox ana uradni podpori ponudnikov:
 Ne prebirate številnih newsletterjev, na katere ste se prijavili? Odjavite se! Na dnu vsakega newslettra lahko najdete povezavo za odjavo, običajno na besedah “unsubscribe” / “odjava”. Preverite, ali se vam ob kliku odpre še odjavni obrazec, ki ga morate včasih izpolniti, da dokončate odjavo. Če pri procesu identificirate neznane ali nezaželene pošiljatelje, jih blokirajte s klikom na gumb “report as spam”. 
 
 ### Datoteke
-
-Ste vedeli, da izdelava strojne opreme prispeva kar k 78 % ogljičnega odtisa?
-
-V sodobnem digitalnem svetu so datoteke nepogrešljiv del vsakdana, saj predstavljajo osnovno gradivo na naših računalnikih.  Velikokrat se zgodi, da na stare datoteke pozabimo in jih ne zbrišemo. Vse kar je shranjeno na računalniku porablja pomnilnik in energijo, datoteke upočasnijo delovanje na računalniku, še posebej, če so shranjene na namizju. 
-
-Z razvrščanjem, urejanjem in brisanjem boste osvobodili prostor na računalniku in izboljšali njegovo učinkovitost. Bodite pripravljeni, da boste na računalniku odkrili res neverjetne stvari!
+#### Organizirajte svoje datoteke 
+Organiziranje datotek vam bo pomagalo prepoznati datoteke, ki so za vas resnično uporabne. Razvrstite jih lahko po časovnem obdobju, projektu, vrsti datoteke ali katerem koli drugem kriteriju, ki je za vas relevanten. Če ste v službi, ne pozabite spoštovati veljavnih pravil o hrambi dokumentov ali skupaj s sodelavci ocenite administrativni oziroma zgodovinski pomen dokumenta. Pred izbrisom posamezne datoteke, jo odprite in se vprašajte, če je za vas koristna. Če ni, jo izbrišite. 
 
 
 ### Telefon
