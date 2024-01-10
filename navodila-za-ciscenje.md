@@ -11,6 +11,7 @@ title: Navodila za čiščenje
 
 ### E-pošta
 
+https://youtu.be/mAvlvPXs96I?si=KnsyqLdpeygPzX6t 
 #### Preverite izhodiščno stanje
 Preden začnete, morate ugotoviti **izhodiščno stanje**, da boste po koncu procesa vedeli, koliko ste izbrisali. 
 #### Filtrirajte svoja e-mail sporočila 
@@ -20,7 +21,7 @@ Ko ste končali s filtriranjem, izberite, kaj lahko izbrišete. Pri dolgih pogov
 #### Izpraznite koš 
 Izbrisali ste kar nekaj e-mail sporočil, ki so zdaj v vašem košu oziroma zavihku izbrisana sporočila. Ne pozabite na koncu še izprazniti koša.
 Več o čiščenju inbox ana uradni podpori ponudnikov: 
-- Microsoft Outlook: [Clean up your inbox ]([url](https://support.microsoft.com/en-us/office/clean-up-your-inbox-2fb652e5-b387-4147-9fff-25f2e32dfda9))
+- Microsoft Outlook: ([Clean up your inbox](https://support.microsoft.com/en-us/office/clean-up-your-inbox-2fb652e5-b387-4147-9fff-25f2e32dfda9))
 - Gmail: [Delete Gmail messages or restore deleted messages ]([url](https://support.google.com/mail/answer/7401?hl=en&co=GENIE.Platform%3DDesktop))
 - Apple Icloud: [Delete emails in Mail on iCloud ]([url](https://support.apple.com/sl-si/guide/icloud/mm6b1a7ab7/icloud))
 #### Omejite količino nezaželenih e-mail sporočil, ki jih prejemate 
