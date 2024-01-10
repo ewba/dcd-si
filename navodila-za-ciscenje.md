@@ -11,16 +11,12 @@ title: Navodila za čiščenje
 
 ### E-pošta
 
-E-pošta predstavlja pomembno sredstvo komunikacije, kjer s hitrostjo in globalnim prenosom omogoča takojšnjo povezljivost. Postala je nepogrešljiv del našega vsakdana, ki ga lahko z učinkovitim upravljanjem izkoristimo v polni meri. 
-
-Ali ste vedeli? 
-
-- Vsako neželeno elektronsko sporočilo v ozračje sprosti približno [0,3 grama CO<sub>2</sub>](https://en.reset.org/blog/save-planet-clean-your-inbox-12242015). E-poštno sporočilo s priponko sprosti v ozračje 50 gramov CO<sub>2</sub>.
-- Vsak dan se po vsem svetu pošlje in prejme [281 milijard e-poštnih sporočil](https://www.statista.com/chart/20189/the-carbon-footprint-of-thank-you-emails/). Pošiljanje enega elektronskega sporočila naj bi proizvedlo 0,000001 tone ekvivalenta CO<sub>2</sub>. To je 281 ton CO<sub>2</sub> na dan!
-- Vsakodnevna dostava milijard neželene elektronske pošte ustvari toliko toplogrednih plinov kot [3 milijoni avtomobilov](https://ourworld.unu.edu/en/a-growing-digital-waste-cloud).
-- Za izravnavo onesnaževanja, ki ga povzroča neželena elektronska pošta, bi bilo treba posaditi [1,6 milijarde dreves](https://gerrymcgovern.com/books/world-wide-waste/).
-
-**[Oglejte si podrobna navodila](https://ebm.si/m/Navodila_email.pdf)**
+#### Preverite izhodiščno stanje
+Preden začnete, morate ugotoviti **izhodiščno stanje**, da boste po koncu procesa vedeli, koliko ste izbrisali. 
+#### Filtrirajte svoja e-mail sporočila 
+Uporabite različne **filtre**, da identificirate sporočila, ki zavzemajo **največ prostora** v vašem inboxu, **najstarejša sporočila**, sporočila določenih prejemnikov ali z vsebino “FYI”, “noreply”, “newsletter” ali “OK”, “hvala”. 
+#### Izbrišite filtrirana e-mail sporočila in dolge pogovore 
+Ko ste končali s filtriranjem, izberite, kaj lahko izbrišete. Pri dolgih pogovorih izbrišite **starejši del pogovorov** in obdržite nekaj najnovejših sporočil. Če uporabljate email lokalno, izbrišite dvojnike, povezane s sinhronizacijo. 
 
 
 ### Datoteke
