@@ -36,10 +36,14 @@ Organiziranje datotek vam bo pomagalo prepoznati datoteke, ki so za vas resničn
 Pri pregledovanju fotografij, videoposnetkov in avdioposnetkov vas zanimajo podvojene in zamegljene fotografije in neuspeli videoposnetki, ki po nepotrebnem zasedajo  prostor. Izbrišite jih. 
 
 ### Telefon
-
-Telefon predstavlja našega zvestega sopotnika kamorkoli gremo. Omogoča nam vrsto funkcij in zmožnosti, na njemu shranjujemo slike, datoteke, sporočila in aplikacije, ampak, ali res potrebujemo vse, kar shranimo in naložimo?
-
-Bodimo iskreni in odločni in izbrišimo vse, kar bremeni naš telefon. Vredno je imeti le tiste aplikacije in spomnine, ki res štejejo. 
+#### Izbrišite aplikacije, ki jih ne uporabljate več 
+Katerih aplikacij ne uporabljate več, ste pozabili nanje ali ste jih uporabili le nekajkrat? Izbrišite jih! Imate več aplikacij z enako funkcijo? Obdržite le tisto, ki jo uporabljate najbolj pogosto. Če obstajajo, izberite lažje različice aplikacij (npr. Facebook Lite). Redno posodabljajte aplikacije, saj s tem tudi zmanjšate porabo virov. 
+#### Izpraznite predpomnilnik 
+Začasne datoteke omogočajo vašim aplikacijam hitrejše delovanje, a hkrati zasedejo prostor in upočasnijo sistem, zato razmislite o čiščenju predpomnilnika svojih aplikacij.
+#### Izbrišite nepotrebne datoteke
+Telefoni in tablice so naši redni spremljevalci, zato se na njih nabira tudi zajeten kup različnih datotek: fotografije, videoposnetki, avdioposnetki, ki zasedajo prostor na vašem telefonu. Izbrišite podvojene in zamegljene fotografije ter neuspele video- in avdioposnetke, druge pa shranite na zunanji trdi disk. Mogoče se vam na telefonu nabirajo tudi dokumenti, filmi, glasba, podcasti in e-knjige, ki ste jih nekoč prenesli. Če jih ne uporabljate več, jih izbrišite. 
+#### Izbrišite nepotrebna sporočila
+Izbrišite zastarele pogovore, vsiljena (spam) in sponzorirana sporočila, sporočila kot so »V redu«, »Sem doma« ali »Srečno novo leto 2024«. Ne pozabite tudi na druge klepetalnike, kot so Whatsapp, Telegram, Signal in podobni. 
 
 
 </div>
