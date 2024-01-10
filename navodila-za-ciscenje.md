@@ -17,6 +17,12 @@ Preden začnete, morate ugotoviti **izhodiščno stanje**, da boste po koncu pro
 Uporabite različne **filtre**, da identificirate sporočila, ki zavzemajo **največ prostora** v vašem inboxu, **najstarejša sporočila**, sporočila določenih prejemnikov ali z vsebino “FYI”, “noreply”, “newsletter” ali “OK”, “hvala”. 
 #### Izbrišite filtrirana e-mail sporočila in dolge pogovore 
 Ko ste končali s filtriranjem, izberite, kaj lahko izbrišete. Pri dolgih pogovorih izbrišite **starejši del pogovorov** in obdržite nekaj najnovejših sporočil. Če uporabljate email lokalno, izbrišite dvojnike, povezane s sinhronizacijo. 
+#### Izpraznite koš 
+Izbrisali ste kar nekaj e-mail sporočil, ki so zdaj v vašem košu oziroma zavihku izbrisana sporočila. Ne pozabite na koncu še izprazniti koša.
+Več o čiščenju inbox ana uradni podpori ponudnikov: 
+- Microsoft Outlook: [Clean up your inbox ]([url](https://support.microsoft.com/en-us/office/clean-up-your-inbox-2fb652e5-b387-4147-9fff-25f2e32dfda9))
+- Gmail: [Delete Gmail messages or restore deleted messages ]([url](https://support.google.com/mail/answer/7401?hl=en&co=GENIE.Platform%3DDesktop))
+- Apple Icloud: [Delete emails in Mail on iCloud ]([url](https://support.apple.com/sl-si/guide/icloud/mm6b1a7ab7/icloud))
 
 
 ### Datoteke
