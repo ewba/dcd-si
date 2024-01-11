@@ -38,6 +38,7 @@ Ne prebirate številnih newsletterjev, na katere ste se prijavili? Odjavite se! 
 
 
 ### Datoteke
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_rI7ZG0s74A?si=C5mG6NUQ4gA23Q_t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 #### Organizirajte svoje datoteke 
 Organiziranje datotek vam bo pomagalo prepoznati datoteke, ki so za vas resnično uporabne. Razvrstite jih lahko po časovnem obdobju, projektu, vrsti datoteke ali katerem koli drugem kriteriju, ki je za vas relevanten. Če ste v službi, ne pozabite spoštovati veljavnih pravil o hrambi dokumentov ali skupaj s sodelavci ocenite administrativni oziroma zgodovinski pomen dokumenta. Pred izbrisom posamezne datoteke, jo odprite in se vprašajte, če je za vas koristna. Če ni, jo izbrišite. 
 
@@ -46,6 +47,7 @@ Pri pregledovanju fotografij, videoposnetkov in avdioposnetkov vas zanimajo podv
 
 
 ### Telefon
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jVWOHHSK9l0?si=bILqGV2gdz4Y5d97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 #### Izbrišite aplikacije, ki jih ne uporabljate več 
 Katerih aplikacij ne uporabljate več, ste pozabili nanje ali ste jih uporabili le nekajkrat? Izbrišite jih! Imate več aplikacij z enako funkcijo? Obdržite le tisto, ki jo uporabljate najbolj pogosto. Če obstajajo, izberite lažje različice aplikacij (npr. Facebook Lite). Redno posodabljajte aplikacije, saj s tem tudi zmanjšate porabo virov. 
 
