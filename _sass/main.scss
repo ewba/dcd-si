@@ -117,6 +117,11 @@ ol > li::marker {
   @include button();
   font-size: 1.5rem;
 }
+@media screen and (min-width: 1000px) and (max-width: 1300px) {
+  .submitData {
+    top: 4em;
+  }
+}
 
 button {
   @include button();
