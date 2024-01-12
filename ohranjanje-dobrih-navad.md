@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ohranjanje dobrih navad
+co2: x
 ---
 
 <div class="block" markdown="1">

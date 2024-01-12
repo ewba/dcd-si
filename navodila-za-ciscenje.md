@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Navodila za čiščenje
+co2: x
 ---
 
 <div class="block" markdown="1">

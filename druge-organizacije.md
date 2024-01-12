@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Druge organizacije
+co2: x
 ---
 
 <div class="block" markdown="1">

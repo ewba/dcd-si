@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kako sodelujem?
+co2: x
 ---
 
 <div class="block" markdown="1">

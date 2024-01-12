@@ -2,6 +2,7 @@
 layout: default
 title: O akciji
 css: carousel.css
+co2: x
 ---
 
 <div class="block" markdown="1">
