@@ -1,10 +1,11 @@
 // just some inherited eye-candy that can probably be done via newer css selectors directly
 function updatemenu() {
+  let el = document.getElementById('menu');
   if (document.getElementById('responsive-menu').checked == true) {
-    document.getElementById('menu').style.borderBottomRightRadius = '0';
-    document.getElementById('menu').style.borderBottomLeftRadius = '0';
+    el.style.borderBottomRightRadius = '0';
+    el.style.borderBottomLeftRadius = '0';
   } else {
-    document.getElementById('menu').style.borderRadius = '45px';
+    el.style.borderRadius = '45px';
   }
 }
 
