@@ -5,7 +5,7 @@ co2: x
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center; margin-bottom: 1em">
 	<div style="">
-		<img src="assets/img/sedecko.webp" width="95" height="174" alt="key visual projekta" aria-hidden="true">
+		<img src="assets/img/dcd-si-kv.webp" width="306" height="230" alt="key visual projekta" aria-hidden="true">
 	</div>
 	<div style="baorder: 1px solid green; max-width: 40%; color:white">
 		<h2 style="color:white">Internet proizvede več emisij kot letalstvo!</h2>
