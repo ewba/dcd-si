@@ -27,8 +27,8 @@ Uporabi **filtre**, da identificiraš sporočila, ki zavzemajo **največ prostor
 - Gmail: Na vrhu poštnega predala poišči iskalno okence (vsebuje ikono lupe in napis "Iščite po pošti") ter klikni na ikono "Prikaži možnosti iskanja" na desni strani. V polju "Velikost" vpiši poljubno vrednost (npr. večje od 20 MB) in klikni modri gumb "Iskanje". Posamezno sporočilo izbrišeš s klikom na ikono "Izbriši" na desni strani sporočila ali pa izbereš več sporočil s klikom na kvadratek "Izberi" na levi strani in jih izbrišeš z ikono "izbriši" v orodni vrstici.
 - Outlook: Na vrhu poštnega predala poišči ikono filtra ter klikni na "Razvrsti" > "Velikost". Posamezno sporočilo izbrišeš s klikom na ikono "Izbriši" na desni strani sporočila ali pa izbereš več sporočil s klikom na kvadratek "Izberi" na levi strani in jih izbrišeš z ikono "izbriši" v orodni vrstici.
 
-#### 3: Pri identifikaciji velikih sporočil si lahko pomagaš z orodji  
-- Gmail: Klikni povezavo: https://one.google.com/storage/management?g1_landing_page=2, preglej predlagane predloge pod razdelkom "Čiščenje predlaganih elementov" in izbriši e-poštna sporočila z veliki priponkami. Do predlogov lahko prideš tudi, če se na povezavi https://www.google.com/settings/storage pomakneš do razdelka "Sprostite prostor" in klikneš "Sprostite prostor za shranjevanje v računu". 
+#### 3: Uporabi sistemska priporočila  
+- Gmail: Klikni povezavo: https://one.google.com/storage/management?g1_landing_page=2, preglej predlagane predloge pod razdelkom "Čiščenje predlaganih elementov" in izbriši e-poštna sporočila z velikimi priponkami. Sistem te vodi čez brisanje velikih datotek in priponk, vsiljene e-pošte in sporočil v smetnjaku. Do predlogov lahko prideš tudi, če se na povezavi https://www.google.com/settings/storage pomakneš do razdelka "Sprostite prostor" in klikneš "Sprostite prostor za shranjevanje v računu". 
 - Outlook: Klikni na ikono koleščka v zgornjem desnem kotu > Nastavitve > "Splošno" > "Shramba".
 
 #### 4: Izbriši dolge pogovore 
@@ -67,11 +67,42 @@ Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
 
 ### Datoteke
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_rI7ZG0s74A?si=C5mG6NUQ4gA23Q_t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-#### Organizirajte svoje datoteke 
-Organiziranje datotek vam bo pomagalo prepoznati datoteke, ki so za vas resnično uporabne. Razvrstite jih lahko po časovnem obdobju, projektu, vrsti datoteke ali katerem koli drugem kriteriju, ki je za vas relevanten. Če ste v službi, ne pozabite spoštovati veljavnih pravil o hrambi dokumentov ali skupaj s sodelavci ocenite administrativni oziroma zgodovinski pomen dokumenta. Pred izbrisom posamezne datoteke, jo odprite in se vprašajte, če je za vas koristna. Če ni, jo izbrišite. 
 
-#### Izbrišite nepotrebne fotografije, videoposnetke in zvočne datoteke 
-Pri pregledovanju fotografij, videoposnetkov in avdioposnetkov vas zanimajo podvojene in zamegljene fotografije in neuspeli videoposnetki, ki po nepotrebnem zasedajo  prostor. Izbrišite jih. 
+#### 1: Ugotovi in si zapiši izhodiščno stanje
+Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa vedel/a, koliko si izbrisal/a.
+- Windows 10: Klikni na ”Začetek” in ikonico koleščka: “Nastavitve”. V meniju izberi možnost “Sistem” > “Prostor za shranjevanje”. Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Uporabljeno 123 GB"
+- Mac: Klikni na "Apple” > “System settings” > “General”. Izberi "Storage" na desni strani in nato "All volumes". Izpiši podatek poleg grafičnega prikaza zapolnjenosti "123 GB of 500 GB used"
+- OneDrive: Klikni na “Nastavitve” > "Možnosti" in “Upravljanje shrambe”. Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Skupaj uporabljeno 1 GB / 5 GB"
+- Google Drive: Izhodiščno stanje ugotoviš prek klika na povezavo https://drive.google.com/u/0/settings/storage ali prek klika na profilno fotografijo v zgornjem desnem kotu poštnega predala > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Izpiši podatek poleg kategorije Google Drive.
+
+#### 2: Uporabi sistemska priporočila
+- Windows: Klikni na ”Začetek” in ikonico koleščka: “Nastavitve”. V meniju izberi možnost “Sistem” > “Prostor za shranjevanje” in "Priporočila za čiščenje". Sistem te vodi čez brisanje velikih in neuporabljenih datotek in aplikacij, začasnih datotek in sihronizacijo z oblakom.
+- Mac: Klikni na "Apple” > “System settings” > “General”. Izberi "Storage" na desni strani in nato "All volumes". 
+- OneDrive: Klikni na “Nastavitve” > "Možnosti" > “Upravljanje shrambe” > "Sprosti prostor". Sistem te vodi čez praznjenje koša in brisanje velikih datotek.
+- Google Drive: Klikni povezavo: https://one.google.com/u/2/storage/management in preglej predlagane predloge pod razdelkom "Čiščenje predlaganih elementov". Sistem te vodi čez brisanje velikih datotek in datotek v smetnjaku.
+
+#### 3: Očisti začasne datoteke (lokalno)
+V večini računalnikov številni programi uporabljajo in ustvarjajo začasne podatke. Za čiščenje teh datotek lahko uporabite orodja, ki jih predlaga sistem, npr. "Čiščenje diska".
+
+#### 4: Organiziraj svoje datoteke 
+Organiziranje datotek ti bo pomagalo prepoznati datoteke, ki so zate resnično uporabne. Razvrstiš jih lahko po časovnem obdobju, projektu, vrsti datoteke ali katerem koli drugem kriteriju, ki je zate relevanten. Če si v službi, ne pozabi spoštovati veljavnih pravil o hrambi dokumentov ali skupaj s sodelavci oceni administrativni oziroma zgodovinski pomen dokumenta. Pred izbrisom posamezne datoteke, jo odpri in se vprašaj, če je zate koristna. Če ni, jo izbriši. 
+
+#### 5: Izbriši nepotrebne fotografije, videoposnetke in zvočne datoteke 
+Pri pregledovanju fotografij, videoposnetkov in avdioposnetkov te zanimajo podvojene in zamegljene fotografije in neuspeli videoposnetki, ki po nepotrebnem zasedajo prostor. Izbriši jih. 
+
+#### 6: Izprazni koš 
+Izbrisal/a si kar nekaj datotek, ki so zdaj v tvojem košu. Ne pozabi na koncu še izprazniti koša.
+- Windows: Na namizju poišči ikono koša in jo odpri. Klikni "Orodja" in "Izprazni koš" ter potrdi pojavno okno za trajni izbris več elementov.
+- Mac: Na namizju poišči ikono koša in jo odpri. Klikni "Orodja" in "Izprazni koš" ter potrdi pojavno okno za trajni izbris več elementov.
+- OneDrive: V meniju izberi možnost "Koš", v meniju levo na vrhu stran klikni "Izprazni koš" ter potrdi pojavno okno za trajni izbris.
+- Google Drive: V meniju izberi možnost "Smetnjak", v obvestilu na vrhu stran klikni "Izprazni smetnjak" ter potrdi pojavno okno "Dokončno izbriši"  za trajni izbris.
+
+#### 7: Ugotovi in si zapiši končno stanje
+Preden končaš, moraš ugotoviti končno stanje.
+- Windows 10: Klikni na ”Začetek” in ikonico koleščka: “Nastavitve”. V meniju izberi možnost “Sistem” > “Prostor za shranjevanje”. Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Uporabljeno 123 GB"
+- Mac: Klikni na "Apple” > “System settings” > “General”. Izberi "Storage" na desni strani in nato "All volumes". Izpiši podatek poleg grafičnega prikaza zapolnjenosti "123 GB of 500 GB used"
+- OneDrive: Klikni na “Nastavitve” > "Možnosti" in “Upravljanje shrambe”. Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Skupaj uporabljeno 1 GB / 5 GB"
+- Google Drive: Izhodiščno stanje ugotoviš prek klika na povezavo https://drive.google.com/u/0/settings/storage ali prek klika na profilno fotografijo v zgornjem desnem kotu poštnega predala > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Izpiši podatek poleg kategorije Google Drive.
 
 
 ### Telefon
