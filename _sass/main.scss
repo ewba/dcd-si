@@ -30,6 +30,13 @@ p, .para {
   line-height: 1.4em;
 }
 
+a {
+  color: $violaTemna;
+  &:hover {
+    color: $rdecaZiva;
+  }
+}
+
 .container{margin:0 20px;width:0 auto}
 @media(min-width:1210px){.container{margin:0 auto;width:1140px}}
 
@@ -57,6 +64,9 @@ p, .para {
   a {
     color: $sivaSvetla;
     text-decoration: none;
+    &:hover {
+      color: $sivaSvetla;
+    }
   }
   &:hover {
     background-color: $viola;
