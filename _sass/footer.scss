@@ -81,6 +81,9 @@ footer {
   a {
     color: white;
   }
+  &:hover {
+    display: block;
+  }
 }
 
 form:focus-within + #gdpr {
