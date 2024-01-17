@@ -13,7 +13,3 @@
 
 Na koncu:
 - drobni tisk z odtisom: dodaj številko
-
-_config na koncu:
-sass:
-  style: compressed
