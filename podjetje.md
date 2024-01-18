@@ -7,10 +7,17 @@ co2: x
 <div class="block" markdown="1">
 ## {{ page.title }}
 
-V digitalnem svetu je, podobno kot v našem okolju, ogromno odpadkov. Digitalni odpadki so nepotrebna e-pošta, datoteke, aplikacije, dvojniki fotografij in videoposnetkov.
+### Zakaj bi se udeležili dneva digitalnega čiščenja?
+Ker je to **enostaven ukrep**, s katerim lahko **okrepite svoja trajnostna prizadevanja**, **ozaveščate zaposlene**, **izboljšate svoje procese** in **učinkovitost** ter **zmanjšate stroške shranjevanja** in **podaljšate življenjsko dobo elektronske opreme**. Več o vplivu digitalnih aktivnosti: https://ewba.github.io/dcd-si/o-akciji.html.
 
-Četudi smo na te stare digitalne odpadke že zdavnaj pozabili, njihove varnostne kopije na strežnikih še vedno porabljajo energijo. Vsako leto internet in njegovi podporni sistemi proizvedejo 900 milijonov ton CO<sub>2</sub>, kar je več kot letna proizvodnja celotne Nemčije. Nekatere študije ocenjujejo, da bo internetno omrežje čez desetletje porabilo 20 odstotkov celotne svetovne energije.
+### Kako točno sodelujemo?
+- Ko se v podjetju odločite za sodelovanje, **določite koordinatorja**, ki bo organiziral podrobnosti akcije in bo tudi kontaktna oseba za nas.
+- **Prijavite udeležbo vašega podjetja:** https://docs.google.com/forms/d/e/1FAIpQLSfiXjBaKTUFIcxyFzyItF_W5thrnq_cFoCVBJF72FZeEIkLiQ/viewform, da boste zagotovo obveščeni o vseh aktivnostih akcije.
 
-Vsa e-sporočila, vse datoteke, aplikacije, videoposnetki, fotografije prebenijo naše okolje. Z izbrisom vseh digitalnih odpadkov prihranimo ogormno količine CO2 in podaljšujemo življenjsko dobo svojih pripomočkov. Pri vsem tem pa se počutimo bolj uravnotežene, ustvarimo nove digitalne navade, bolj smo učinkoviti in zadovoljni. 
+### Odločite se za obseg sodelovanja: navodila za koordinatorje
+- **Samostojno čiščenje zaposlenih**: Boste zaposlene pozvali k samostojnemu čiščenju njihovih naprav? **Pošljite jim navodila za čiščenje** ter vsakega sodelujočega pozovite k **vpisu svojih rezultatov**. Zbrane rezultate za vaše podjetje nam sporočite **najkasneje do 16. marca do 15.00 ure**, da izveste, koliko ste z izbrisanimi  datotekami privarčevali  CO<sub>2</sub> ter kaj številke pomenijo v malo bolj oprijemljivih primerjavah (npr. koliko kilometrov z avtom bi lahko prepotovali za takšen okoljski odtis).
+- **Vključitev IT oddelka:** Želite iti pri čiščenju korak dlje in se lotiti tudi strežnikov podjetja, sistemskih datotek in kanalov komuniciranja podjetja? Vključite vse zaposlene, ki jih tovrstno čiščenje vključuje, predvsem **vodjo IT oddelka**, **vodjo komuniciranja** ter **vodstvo podjetja**. Če se boste odločili za poglobljeno čiščenje, ne pozabite podatkov o količini zbrisanih datotek prišteti zbranim rezultatom čiščenja zaposlenih, ki nam jih boste sporočili. Če želite pri tem strokovno pomoč, kontaktirajte Ekologe brez meja.
+- **Interno in eksterno ozaveščanje:** Želite čiščenje nadgraditi z ozaveščevalnimi aktivnostmi za vaše **zaposlene, poslovne partnerje, stranke in druge**? Pripravili smo predlog komunikacije za vaše zaposlene: https://docs.google.com/spreadsheets/d/1YNslM6mvKHePyWdHkZnVqA0bkTkHzSlvYEKD_fVs1vA/edit?usp=sharing in za vaše digitalne kanale komuniciranja: https://docs.google.com/spreadsheets/d/1v25yggszoY1FQ26QoC93yvLMM5yup816TiR9873DRhE/edit?usp=sharing ter paket vizualnih elementov: https://drive.google.com/drive/folders/1U7UQMXgAQMiEbfDXLzpHmhtRKz7bpdHz?usp=drive_link. Če želite pri ozaveščanju strokovno pomoč, personalizirano potrebam vašega podjetja ali bi želeli zaposlene ozaveščati prek predavanja v živo, kontaktirajte Ekologe brez meja.
+- **Podpora akcije s finančnimi sredstvi**: Vidite v zgodbi digitalnega čiščenja sinergije in bi nas želeli finančno podpreti, da bomo lahko pri dosegu naših ciljev še bolj glasni? Sporočite nam in skupaj bomo poiskali način sodelovanja, ki bo ustrezal vsem.
 
 </div>
