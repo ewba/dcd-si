@@ -25,4 +25,7 @@ Seveda! **Več kot nas bo čistilo, bolje bo** in lažje bomo dosegli cilje. Če
 - Šole https://ewba.github.io/dcd-si/sola.html
 - Podjetja https://ewba.github.io/dcd-si/podjetje.html
 - Druge organizacije https://ewba.github.io/dcd-si/druge-organizacije.html
+
+### Kako lahko pomagam pri širjenju besede?
+Širi besedo med prijatelji in znanci ter deli naše vsebine na družbenih omrežjih z uporabo ključnika #odklikaj in #DigitalCleanupDay. 
 </div>
