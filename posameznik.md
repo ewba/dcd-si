@@ -13,7 +13,7 @@ Ne ostani ujet/a v digitalnem labirintu nepotrebnih aplikacij in datotek, saj la
 Ker je to enostaven ukrep, s katerim naredim konkreten korak k manjšim emisijam CO<sub>2</sub>, podaljšam življenjsko dobo elektronskih naprav ter širim ozaveščenost o digitalnem onesnaževanju in okoljskem vplivu digitalnih tehnologij. Več o vplivu digitalnih aktivnosti: https://ewba.github.io/dcd-si/o-akciji.html. 
 
 ### Kako točno sodelujem?
-Sodeluješ tako, da se lotiš čistilne akcije na svojih elektronskih napravah. Podrobna navodila za to smo ti pripravili na spodnjih povezavah: 
+Sodeluješ tako, da se lotiš čistilne akcije na svojih elektronskih napravah. Podrobna tekstovna in video navodila za to smo ti pripravili na spodnjih povezavah: 
 - E-poštna sporočila https://ewba.github.io/dcd-si/navodila-za-ciscenje.html#e-posta
 - Datoteke na računalniku ali Drivu https://ewba.github.io/dcd-si/navodila-za-ciscenje.html#datoteke
 - Telefon https://ewba.github.io/dcd-si/navodila-za-ciscenje.html#telefon
