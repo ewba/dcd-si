@@ -115,7 +115,7 @@ Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa 
 
 #### 2: Uporabi sistemska priporočila
 - Android: Pojdi pod "Nastavitve" > "Pomnilnik" / "Shramba" in izberi gumb "Počisti" / "Sprostite prostor", ki ti prikaže sistemska priporočila za izbris velikih datotek, dvojnikov fotografij in zamegljenih fotografij, starih posnetkov zaslona, neuporabljenih aplikacij, prenesenih datotek, varnostnih kopij in podobno. 
-- iPhone: Klikni "Settings" > "General" > “IphoneStorage”. 
+- iPhone: Klikni "Settings" > "General" > “IphoneStorage”. Pod razdelkom "Recommendations" ti telefon predlaga izbris velikih video datotek in fotografij in albuma "Recently deleted".
 
 #### 3: Izbriši aplikacije, ki jih ne uporabljaš 
 Katerih aplikacij ne uporabljaš, si pozabil/a nanje ali si jih uporabil/a le nekajkrat? Izbriši jih! Imaš več aplikacij z enako funkcijo? Obdrži le tisto, ki jo uporabljaš najbolj pogosto. Če obstajajo, izberi lažje različice aplikacij (npr. Facebook Lite). Redno posodabljaj aplikacije, saj s tem tudi zmanjšaš porabo virov.
@@ -125,7 +125,6 @@ Katerih aplikacij ne uporabljaš, si pozabil/a nanje ali si jih uporabil/a le ne
 #### 4: Izprazni predpomnilnik 
 Začasne datoteke omogočajo tvojim aplikacijam hitrejše delovanje, a hkrati zasedejo prostor in upočasnijo sistem, zato razmisli o čiščenju predpomnilnika svojih aplikacij.
 - Android: Pojdi pod "Nastavitve" > "Pomnilnik" / "Shramba". Med priporočili za čiščenje izberi čiščenje za "Neželene datoteke", "Predpomnilnik" ali podobno, odvisno od modela telefona. Predpomnilnik lahko izbrišeš tudi točno določeni aplikaciji: sledi korakom iz točke 3, le da na koncu namesto izbrisa aplikacije izbereš možnost "Počisti predpomnilnik".
-- iPhone: Klikni "Settings" > "General" > “IphoneStorage”. Izpiši podatek poleg grafičnega prikaza zapolnjenosti "123 GB of 128 GB used".
 
 #### 5: Izbriši nepotrebne datoteke
 Telefoni in tablice so naši redni spremljevalci, zato se na njih nabira tudi zajeten kup različnih datotek: fotografije, videoposnetki, avdioposnetki, ki zasedajo prostor na tvojem telefonu. Izbriši podvojene in zamegljene fotografije ter neuspele video- in avdioposnetke, druge pa shrani na zunanji trdi disk. Mogoče se ti na telefonu nabirajo tudi dokumenti, filmi, glasba, podcasti in e-knjige, ki si jih nekoč prenesel/a. Če jih ne uporabljaš več, jih izbriši. 
