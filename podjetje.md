@@ -11,12 +11,10 @@ co2: x
 Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanja, ozaveščate zaposlene, izboljšate svoje procese in učinkovitost ter zmanjšate stroške shranjevanja in podaljšate življenjsko dobo elektronske opreme. Več o [vplivu digitalnih aktivnosti](https://ewba.github.io/dcd-si/o-akciji.html).
 
 ### Kako točno sodelujemo?
-- Ko se v podjetju odločite za sodelovanje, določite koordinatorja, ki bo organiziral podrobnosti akcije in bo tudi kontaktna oseba za nas.
+- Ko se v podjetju odločite za sodelovanje, določite koordinatorja, ki bo organiziral podrobnosti akcije in bo tudi kontaktna oseba za nas. 
 <button>
-		<a href="[podjetje.html](https://docs.google.com/forms/d/e/1FAIpQLSfiXjBaKTUFIcxyFzyItF_W5thrnq_cFoCVBJF72FZeEIkLiQ/viewform)">Podjetja</a>
-	</button>
-
-- **[Prijavite udeležbo vašega podjetja]**, da boste zagotovo obveščeni o vseh aktivnostih akcije.
+		<a href="[podjetje.html](https://docs.google.com/forms/d/e/1FAIpQLSfiXjBaKTUFIcxyFzyItF_W5thrnq_cFoCVBJF72FZeEIkLiQ/viewform)">Prijavite udeležbo vašega podjetja</a>
+</button>
 
 ### Odločite se za obseg sodelovanja: navodila za koordinatorje
 - **Samostojno čiščenje zaposlenih**: Boste zaposlene pozvali k samostojnemu čiščenju njihovih naprav? Pošljite jim navodila za čiščenje ter vsakega sodelujočega pozovite k vpisu svojih rezultatov. Zbrane rezultate za vaše podjetje nam sporočite najkasneje do 16. marca do 16.00 ure, da izveste, koliko ste z izbrisanimi  datotekami privarčevali  CO<sub>2</sub> ter kaj številke pomenijo v malo bolj oprijemljivih primerjavah (npr. koliko kilometrov z avtom bi lahko prepotovali za takšen okoljski odtis).
