@@ -7,11 +7,11 @@ entries:
     url: navodila-za-ciscenje.html
     entries:
       - title: E-pošta
-        url: navodila-za-ciscenje.html#e-posta
+        url: eposta.html
       - title: Datoteke
-        url: navodila-za-ciscenje.html#datoteke
+        url: datoteke.html
       - title: Telefon
-        url: navodila-za-ciscenje.html#telefon
+        url: telefon.html
 
   - title: Kako sodelujem?
     url: kako-sodelujem.html
