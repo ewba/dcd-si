@@ -11,7 +11,7 @@ co2: x
 Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanja, ozaveščate zaposlene, izboljšate svoje procese in učinkovitost ter zmanjšate stroške shranjevanja in podaljšate življenjsko dobo elektronske opreme. Več o [vplivu digitalnih aktivnosti](https://ewba.github.io/dcd-si/o-akciji.html).
 
 ### Kako točno sodelujemo?
-- Ko se v podjetju odločite za sodelovanje, določite koordinatorja, ki bo organiziral podrobnosti akcije in bo tudi kontaktna oseba za nas.
+- Ko se v podjetju odločite za sodelovanje, določite koordinatorja, ki bo organiziral podrobnosti akcije in bo tudi kontaktna oseba za nas. Koordinator naj preveri interes za sodelovanje pri akciji in prijavi udeležbo vašega podjetja. 
 
 <button>
 		<a href="https://docs.google.com/forms/d/e/1FAIpQLSfiXjBaKTUFIcxyFzyItF_W5thrnq_cFoCVBJF72FZeEIkLiQ/viewform">Prijavite udeležbo vašega podjetja</a>
