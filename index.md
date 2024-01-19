@@ -10,7 +10,7 @@ co2: x
 	<div style="baorder: 1px solid green; max-width: 40%; color:white">
 		<h2 style="color:white">Internet proizvede več emisij kot letalstvo!</h2>
 		<p>
-			Dobrodošli v digitalni različici akcije Očistimo Slovenijo, kjer bomo skupaj ustvarjali trajnostno digitalno prihodnost. Stopite korak naprej, očistite svoje digitalne naprave, zmanjšajte ogljični odtis in skupaj z nami oblikujte bolj trajnosten digitalni svet!
+			Dobrodošel/a v digitalni različici akcije Očistimo Slovenijo, kjer bomo skupaj ustvarjali trajnostno digitalno prihodnost. Stopi korak naprej, očisti svoje digitalne naprave, zmanjšaj ogljični odtis in skupaj z nami oblikuj bolj trajnosten digitalni svet!
 		</p>
 	</div>
 </div>
@@ -18,7 +18,7 @@ co2: x
 <div class="block" markdown="1">
 ## Kako sodeluješ?
 
-Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistite že od februarja naprej.
+Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistiš že od februarja naprej.
 
 {% include sodeluj.html %}
 
