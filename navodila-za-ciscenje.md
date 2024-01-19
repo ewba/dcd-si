@@ -19,7 +19,7 @@ co2: x
 
 #### 1: Ugotovi in si zapiši izhodiščno stanje
 Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa vedel/a, koliko si izbrisal/a.
-- Gmail: Klikni povezavo: https://www.google.com/settings/storage in pod menijem "Podrobnosti o prostoru za shranjevanje" izpiši podatek poleg kategorije Gmail. Do podatka lahko dostopaš tudi prek klika na bližnjico (Uporabljeno **12** GB od 15 GB) na dnu poštnega predala ali prek klika na profilno fotografijo v zgornjem desnem kotu > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Če uporabljaš deljene diske, lahko do podatka dostopaš prek klika na povezavo: https://drive.google.com/drive/u/0/quota. 
+- Gmail: [Klikni povezavo](https://www.google.com/settings/storage) in pod menijem "Podrobnosti o prostoru za shranjevanje" izpiši podatek poleg kategorije Gmail. Do podatka lahko dostopaš tudi prek klika na bližnjico (Uporabljeno **12** GB od 15 GB) na dnu poštnega predala ali prek klika na profilno fotografijo v zgornjem desnem kotu > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Če uporabljaš deljene diske, lahko do podatka dostopaš prek klika na povezavo: https://drive.google.com/drive/u/0/quota. 
 - Outlook: Klikni na ikono koleščka v zgornjem desnem kotu > Nastavitve > "Splošno" > "Shramba". Izpiši podatek (Uporabljeno **--** GB od 15 GB). Če uporabljaš Outlook aplikacijo na računalniku, klikni na: “Datoteka” in izpiši podatek pod razdelkom “Orodja” (**12** GB nezasedenega prostora od 15 GB)
   
 #### 2: Filtriraj in izbriši največja sporočila 
