@@ -38,7 +38,7 @@ V mapah "Družabno" in "Promocije" / "Drugo" se pogosto skriva cel kup nesnage.
 - Gmail: Izberi vsa sporočila v posameznem predalu s klikom na ikono kvadratka v orodni vrstici in klikom na napis "Izberi vse pogovore (1234) v Družabno / Promocije". Izbrišeš jih z ikono "izbriši" v orodni vrstici ter potrditvijo gumba "Vredu" na pojavnem oknu "Potrdite množično dejanje", ki se pojavi.
 - Outlook: Izberi in izbriši vsa sporočila v posameznem predalu s klikom na ikono kvadratka v orodni vrstici in klikom na napis "Izprazni mapo "Drugo"". 
 
-#### 7: Izprazni koš 
+### 7: Izprazni koš 
 Izbrisal/a si kar nekaj e-mail sporočil, ki so zdaj v tvojem košu oziroma zavihku izbrisana sporočila. Ne pozabi na koncu še izprazniti koša.
 - Gmail: V meniju na levi strani (pod mapama Prejeto in Poslano) klikni "Več" in "Smetnjak". Na vrhu poštnih sporočil izberi možnost "Izprazni smetnjak" in potrdi brisanje sporočil s klikom na gumb "Vredu" na pojavnem oknu "Potrditev brisanja sporočil", ki se pojavi.
 - Outlook: V meniju na levi strani klikni "Izbrisano", nato na vrhu poštnih sporočil v orodni vrstici izberi možnost "Izprazni mapo" in potrdi brisanje sporočil s klikom na gumb "Delete all" na pojavnem oknu, ki se pojavi.
@@ -47,12 +47,12 @@ Več o čiščenju inbox na uradni podpori ponudnikov:
 - Gmail: [Delete Gmail messages or restore deleted messages](https://support.google.com/mail/answer/7401?hl=en&co=GENIE.Platform%3DDesktop)
 - Apple Icloud: [Delete emails in Mail on iCloud](https://support.apple.com/sl-si/guide/icloud/mm6b1a7ab7/icloud)
 
-#### 8: Omeji količino nezaželenih e-mail sporočil, ki jih prejemaš 
+### 8: Omeji količino nezaželenih e-mail sporočil, ki jih prejemaš 
 Ne prebiraš številnih newsletterjev, na katere si se prijavil/a? Odjavi se! 
 - Gmail: Na dnu vsakega newslettra najdeš povezavo za odjavo, običajno na besedah “unsubscribe” / “odjava”. Preveri, ali se ti ob kliku odpre še odjavni obrazec, ki ga moraš včasih izpolniti, da dokončaš odjavo. Če pri procesu identificiraš neznane ali nezaželene pošiljatelje, jih blokiraš s klikom na gumb “report as spam”. 
 - Outlook: Na dnu vsakega newslettra najdeš povezavo za odjavo, običajno na besedah “unsubscribe” / “odjava”. Preveri, ali se ti ob kliku odpre še odjavni obrazec, ki ga moraš včasih izpolniti, da dokončaš odjavo. Če pri procesu identificiraš neznane ali nezaželene pošiljatelje, jih blokiraš s klikom na gumb “report as spam”.
 
-#### 9: Ugotovi in si zapiši končno stanje
+### 9: Ugotovi in si zapiši končno stanje
 Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
 - Gmail: Klikni [povezavo](https://www.google.com/settings/storage) in pod menijem "Podrobnosti o prostoru za shranjevanje" izpiši podatek poleg kategorije Gmail. Do podatka lahko dostopaš tudi prek klika na bližnjico (Uporabljeno **10** GB od 15 GB) na dnu poštnega predala ali prek klika na profilno fotografijo v zgornjem desnem kotu > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Če uporabljaš deljene diske, lahko do podatka dostopaš prek klika na [povezavo](https://drive.google.com/drive/u/0/quota). 
 - Outlook: Klikni na ikono koleščka v zgornjem desnem kotu > Nastavitve > "Splošno" > "Shramba". Izpiši podatek (Uporabljeno **--** GB od 15 GB). Če uporabljaš Outlook aplikacijo na računalniku, klikni na: “Datoteka” in izpiši podatek pod razdelkom “Orodja” (**10** GB nezasedenega prostora od 15 GB)
