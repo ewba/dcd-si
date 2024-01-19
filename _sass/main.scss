@@ -114,6 +114,9 @@ h2 {
   text-align: center;
   color: $sivaSvetla;
   font-size: 1rem;
+  & a {
+    color: $sivaSvetla;
+  }
 }
 
 ol > li::marker {

@@ -3,6 +3,11 @@ entries:
     url: index.html
   - title: O akciji
     url: o-akciji.html
+    entries:
+      - title: Pogosta vprašanja
+        url: faq.html
+      - title: Odtis spletne strani
+        url: stran.html
   - title: Navodila
     url: navodila-za-ciscenje.html
     entries:
