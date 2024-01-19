@@ -14,18 +14,18 @@ Ker je to enostaven ukrep, s katerim narediš konkreten korak k manjšim emisija
 
 ### Kako točno sodelujem?
 Sodeluješ tako, da se lotiš čistilne akcije na svojih elektronskih napravah. Podrobna tekstovna in video navodila za to smo ti pripravili na spodnjih povezavah: 
-- [E-poštna sporočila](https://ewba.github.io/dcd-si/navodila-za-ciscenje.html#e-posta)
-- [Datoteke na računalniku ali Drivu](https://ewba.github.io/dcd-si/navodila-za-ciscenje.html#datoteke)
-- [Telefon](https://ewba.github.io/dcd-si/navodila-za-ciscenje.html#telefon)
+- [E-poštna sporočila](eposta.html)
+- [Datoteke na računalniku ali Drivu](datoteke.html)
+- [Telefon](telefon.html)
 - Družbena omrežja
 
 Ko končaš, nam najkasneje do **16. marca 2024** **sporoči rezultate**, da izveš, kaj pomenijo tvoji prihranki CO<sub>2</sub> v malo bolj oprijemljivih primerjavah (npr. koliko kilometrov z avtom bi lahko prepotoval/a za takšen okoljski odtis). Ter da lahko Slovenija s tvojo pomočjo pri čistilnih akcijah ponovno prevzame primat in postavi tudi digitalni rekord.
 
 ### Ali lahko vključim tudi družino, prijatelje ali sodelavce?
 Seveda! Več kot nas bo čistilo, bolje bo in lažje bomo dosegli cilje. Če želiš v čiščenje vključiti svoje drage, si poglej tudi posebna navodila, ki smo jih pripravili za:
-- [Šole](https://ewba.github.io/dcd-si/sola.html)
-- [Podjetja](https://ewba.github.io/dcd-si/podjetje.html)
-- [Druge organizacije](https://ewba.github.io/dcd-si/druge-organizacije.html)
+- [Šole](sola.html)
+- [Podjetja](podjetje.html)
+- [Druge organizacije](druge-organizacije.html)
 
 ### Kako lahko pomagam pri širjenju besede?
 Širi besedo med prijatelji in znanci ter deli naše vsebine na družbenih omrežjih z uporabo ključnika #odklikaj in #DigitalCleanupDay. 
