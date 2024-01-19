@@ -10,7 +10,7 @@ co2: x
 Ne ostani ujet/a v digitalnem labirintu nepotrebnih aplikacij in datotek, saj lahko stopiš korak naprej in se pridružiš digitalnemu čiščenju!
 
 ### Zakaj bi se udeležil/a dneva digitalnega čiščenja?
-Ker je to enostaven ukrep, s katerim naredim konkreten korak k manjšim emisijam CO<sub>2</sub>, podaljšam življenjsko dobo elektronskih naprav ter širim ozaveščenost o digitalnem onesnaževanju in okoljskem vplivu digitalnih tehnologij. Več o [vplivu digitalnih aktivnosti](https://ewba.github.io/dcd-si/o-akciji.html). 
+Ker je to enostaven ukrep, s katerim narediš konkreten korak k manjšim emisijam CO<sub>2</sub>, podaljšaš življenjsko dobo elektronskih naprav ter širiš ozaveščenost o digitalnem onesnaževanju in okoljskem vplivu digitalnih tehnologij. Več o [vplivu digitalnih aktivnosti](https://ewba.github.io/dcd-si/o-akciji.html). 
 
 ### Kako točno sodelujem?
 Sodeluješ tako, da se lotiš čistilne akcije na svojih elektronskih napravah. Podrobna tekstovna in video navodila za to smo ti pripravili na spodnjih povezavah: 
@@ -18,6 +18,7 @@ Sodeluješ tako, da se lotiš čistilne akcije na svojih elektronskih napravah. 
 - [Datoteke na računalniku ali Drivu](https://ewba.github.io/dcd-si/navodila-za-ciscenje.html#datoteke)
 - [Telefon](https://ewba.github.io/dcd-si/navodila-za-ciscenje.html#telefon)
 - Družbena omrežja
+
 Ko končaš, nam najkasneje do **16. marca 2024** **sporoči rezultate**, da izveš, kaj pomenijo tvoji prihranki CO<sub>2</sub> v malo bolj oprijemljivih primerjavah (npr. koliko kilometrov z avtom bi lahko prepotoval/a za takšen okoljski odtis). Ter da lahko Slovenija s tvojo pomočjo pri čistilnih akcijah ponovno **prevzame primat in postavi tudi digitalni rekord.**
 
 ### Ali lahko vključim tudi družino, prijatelje ali sodelavce?
