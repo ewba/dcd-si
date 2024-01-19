@@ -24,21 +24,42 @@ Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se
 
 </div>
 
-<div class="block para" markdown="1" style="text-align: center;">
-## Cilji akcije
+<div class="block para" style="padding-bottom: 2.5rem">
+<h2>Cilji akcije</h2>
 
-### Odstraniti čim več odvečnih podatkov
-Do zaključka akcije 16. marca 2024 **počistiti čim več odvečnih gigabajtov** in okolje razbremeniti digitalnih odpadkov.
+<div style="display:grid; justify-content: center; gap: 1rem 2rem; grid-template-columns: repeat(2, 1fr); width: 85%">
+	<div style="justify-self: end; align-self: center;margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px;">
+		<img src="assets/img/ff/png.webp" alt="okras seznama" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
+	</div>
+	<div style="justify-self: start">
+		<h3>Odstraniti čim več odvečnih podatkov</h3>
+		Do zaključka akcije 16. marca 2024 <strong>počistiti čim več odvečnih gigabajtov</strong> in okolje razbremeniti digitalnih odpadkov.
+	</div>
 
-### Dvigniti ozaveščenost
-Poskrbeti za nacionalno **ozaveščenost** o trajnostnem življenju **s poudarkom na digitalnih odpadkih**.
+	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
+		<img src="assets/img/ff/jpg.webp" alt="okras seznama" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
+	</div>
+	<div style="justify-self: start">
+		<h3>Dvigniti ozaveščenost</h3>
+		Poskrbeti za nacionalno <strong>ozaveščenost</strong> o trajnostnem življenju <strong>s poudarkom na digitalnih odpadkih</strong>.
+	</div>
 
-### Preprečili kopičenje digitalnih odpadkov
-Posameznike opolnomočiti, da bodo lahko **preprečili kopičenje digitalnih odpadkov**.
+	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
+		<img src="assets/img/ff/eml.webp" alt="okras seznama" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
+	</div>
+	<div style="justify-self: start">
+		<h3>Preprečili kopičenje digitalnih odpadkov</h3>
+		Posameznike opolnomočiti, da bodo lahko <strong>preprečili kopičenje digitalnih odpadkov</strong>.
+	</div>
 
-### Navdihniti Slovence
-**Navdihniti Slovence**, da svoje skrbno ravnanje do okolja prenesejo iz fizičnega v digitalni svet, za to navdušijo svoje družine, prijatelje, znance, poslovne partnerje in druge, ki jih obkrožajo ter s svojim zgledom navdihujejo vse generacije, ki jim sledijo!
-
+	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
+		<img src="assets/img/ff/png.webp" alt="okras seznama" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
+	</div>
+	<div style="justify-self: start">
+		<h3>Navdihniti Slovence</h3>
+		<strong>Navdihniti Slovence</strong>, da svoje skrbno ravnanje do okolja prenesejo iz fizičnega v digitalni svet, za to navdušijo svoje družine, prijatelje, znance, poslovne partnerje in druge, ki jih obkrožajo ter s svojim zgledom navdihujejo vse generacije, ki jim sledijo!
+	</div>
+</div>
 
 </div>
 
