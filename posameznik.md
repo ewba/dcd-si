@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: single-page
 title: Posameznik
 co2: x
 ---
-
-<div class="block" markdown="1">
-## {{ page.title }}
 
 Ne ostani ujet/a v digitalnem labirintu nepotrebnih aplikacij in datotek, saj lahko stopiš korak naprej in se pridružiš digitalnemu čiščenju!
 
@@ -29,4 +26,3 @@ Seveda! Več kot nas bo čistilo, bolje bo in lažje bomo dosegli cilje. Če že
 
 ### Kako lahko pomagam pri širjenju besede?
 Širi besedo med prijatelji in znanci ter deli naše vsebine na družbenih omrežjih z uporabo ključnika #odklikaj in #DigitalCleanupDay. 
-</div>
