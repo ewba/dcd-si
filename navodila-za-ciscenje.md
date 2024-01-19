@@ -19,7 +19,7 @@ co2: x
 
 #### 1: Ugotovi in si zapiši izhodiščno stanje
 Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa vedel/a, koliko si izbrisal/a.
-- Gmail: [Klikni povezavo](https://www.google.com/settings/storage) in pod menijem "Podrobnosti o prostoru za shranjevanje" izpiši podatek poleg kategorije Gmail. Do podatka lahko dostopaš tudi prek klika na bližnjico (Uporabljeno **12** GB od 15 GB) na dnu poštnega predala ali prek klika na profilno fotografijo v zgornjem desnem kotu > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Če uporabljaš deljene diske, lahko do podatka dostopaš prek klika na povezavo: https://drive.google.com/drive/u/0/quota. 
+- Gmail: [Klikni povezavo](https://www.google.com/settings/storage) in pod menijem "Podrobnosti o prostoru za shranjevanje" izpiši podatek poleg kategorije Gmail. Do podatka lahko dostopaš tudi prek klika na bližnjico (Uporabljeno **12** GB od 15 GB) na dnu poštnega predala ali prek klika na profilno fotografijo v zgornjem desnem kotu > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Če uporabljaš deljene diske, lahko do podatka dostopaš prek klika na [povezavo](https://drive.google.com/drive/u/0/quota). 
 - Outlook: Klikni na ikono koleščka v zgornjem desnem kotu > Nastavitve > "Splošno" > "Shramba". Izpiši podatek (Uporabljeno **--** GB od 15 GB). Če uporabljaš Outlook aplikacijo na računalniku, klikni na: “Datoteka” in izpiši podatek pod razdelkom “Orodja” (**12** GB nezasedenega prostora od 15 GB)
   
 #### 2: Filtriraj in izbriši največja sporočila 
@@ -28,7 +28,7 @@ Uporabi **filtre**, da identificiraš sporočila, ki zavzemajo **največ prostor
 - Outlook: Na vrhu poštnega predala poišči ikono filtra ter klikni na "Razvrsti" > "Velikost". Posamezno sporočilo izbrišeš s klikom na ikono "Izbriši" na desni strani sporočila ali pa izbereš več sporočil in jih izbrišeš z ikono "izbriši" v orodni vrstici.
 
 #### 3: Uporabi sistemska priporočila  
-- Gmail: Klikni povezavo: https://one.google.com/storage/management?g1_landing_page=2, preglej predlagane predloge pod razdelkom "Čiščenje predlaganih elementov" in izbriši e-poštna sporočila z velikimi priponkami. Sistem te vodi čez brisanje velikih datotek in priponk, vsiljene e-pošte in sporočil v smetnjaku. Do predlogov lahko prideš tudi, če se na povezavi https://www.google.com/settings/storage pomakneš do razdelka "Sprostite prostor" in klikneš "Sprostite prostor za shranjevanje v računu". 
+- Gmail: Klikni [povezavo](https://one.google.com/storage/management?g1_landing_page=2), preglej predlagane predloge pod razdelkom "Čiščenje predlaganih elementov" in izbriši e-poštna sporočila z velikimi priponkami. Sistem te vodi čez brisanje velikih datotek in priponk, vsiljene e-pošte in sporočil v smetnjaku. Do predlogov lahko prideš tudi, če se na [povezavi](https://www.google.com/settings/storage) pomakneš do razdelka "Sprostite prostor" in klikneš "Sprostite prostor za shranjevanje v računu". 
 - Outlook: Klikni na ikono koleščka v zgornjem desnem kotu > Nastavitve > "Splošno" > "Shramba" in preglej predlagane predloge pod razdelkom "Upravljanje shrambe". Če uporabljaš Outlook aplikacijo na računalniku, najdeš predloge pod: “Datoteka” in "Orodja". Sistem te vodi čez čiščenje nabiralnika, praznjenje mape "Izbrisano" in čiščenje starih elementov. 
 
 #### 4: Izbriši dolge pogovore 
@@ -62,7 +62,7 @@ Ne prebiraš številnih newsletterjev, na katere si se prijavil/a? Odjavi se!
 
 #### 9: Ugotovi in si zapiši končno stanje
 Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
-- Gmail: Klikni povezavo: https://www.google.com/settings/storage in pod menijem "Podrobnosti o prostoru za shranjevanje" izpiši podatek poleg kategorije Gmail. Do podatka lahko dostopaš tudi prek klika na bližnjico (Uporabljeno **10** GB od 15 GB) na dnu poštnega predala ali prek klika na profilno fotografijo v zgornjem desnem kotu > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Če uporabljaš deljene diske, lahko do podatka dostopaš prek klika na povezavo: https://drive.google.com/drive/u/0/quota. 
+- Gmail: Klikni [povezavo](https://www.google.com/settings/storage) in pod menijem "Podrobnosti o prostoru za shranjevanje" izpiši podatek poleg kategorije Gmail. Do podatka lahko dostopaš tudi prek klika na bližnjico (Uporabljeno **10** GB od 15 GB) na dnu poštnega predala ali prek klika na profilno fotografijo v zgornjem desnem kotu > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Če uporabljaš deljene diske, lahko do podatka dostopaš prek klika na [povezavo](https://drive.google.com/drive/u/0/quota). 
 - Outlook: Klikni na ikono koleščka v zgornjem desnem kotu > Nastavitve > "Splošno" > "Shramba". Izpiši podatek (Uporabljeno **--** GB od 15 GB). Če uporabljaš Outlook aplikacijo na računalniku, klikni na: “Datoteka” in izpiši podatek pod razdelkom “Orodja” (**10** GB nezasedenega prostora od 15 GB)
 
 ### Datoteke
@@ -73,13 +73,13 @@ Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa 
 - Windows 10: Klikni na ”Začetek” in ikonico koleščka: “Nastavitve”. V meniju izberi možnost “Sistem” > “Prostor za shranjevanje”. Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Uporabljeno 123 GB".
 - Mac: Klikni na "Apple” > “System settings” > “General”. Izberi "Storage" in na desni strani izpiši podatek poleg grafičnega prikaza zapolnjenosti “123 GB of 500 GB used”.
 - OneDrive: Klikni na “Nastavitve” > "Možnosti" in “Upravljanje shrambe”. Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Skupaj uporabljeno 2 GB / 5 GB".
-- Google Drive: Izhodiščno stanje ugotoviš prek klika na povezavo https://drive.google.com/u/0/settings/storage ali prek klika na profilno fotografijo v zgornjem desnem kotu poštnega predala > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Izpiši podatek poleg kategorije Google Drive.
+- Google Drive: Izhodiščno stanje ugotoviš prek klika na [povezavo](https://drive.google.com/u/0/settings/storage) ali prek klika na profilno fotografijo v zgornjem desnem kotu poštnega predala > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Izpiši podatek poleg kategorije Google Drive.
 
 #### 2: Uporabi sistemska priporočila
 - Windows: Klikni na ”Začetek” in ikonico koleščka: “Nastavitve”. V meniju izberi možnost “Sistem” > “Prostor za shranjevanje” in "Priporočila za čiščenje". Sistem te vodi čez brisanje velikih in neuporabljenih datotek in aplikacij, začasnih datotek in sihronizacijo z oblakom.
 - Mac: Odpri “System settings” > “General”. Izberi “Storage”, pod grafičnim prikazom je razdelek Recommendation. Sistem te vodi čez avtomatično brisanje datotek iz koša, sihronizacijo z oblakom ter optimiziranje prostora prek brisanja filmov in serij, ki si jih že pogledal/a iz naprave. 
 - OneDrive: Klikni na “Nastavitve” > "Možnosti" > “Upravljanje shrambe” > "Sprosti prostor". Sistem te vodi čez praznjenje koša in brisanje velikih datotek.
-- Google Drive: Klikni povezavo: https://one.google.com/u/2/storage/management in preglej predlagane predloge pod razdelkom "Čiščenje predlaganih elementov". Sistem te vodi čez brisanje velikih datotek in datotek v smetnjaku.
+- Google Drive: Klikni [povezavo](https://one.google.com/u/2/storage/management) in preglej predlagane predloge pod razdelkom "Čiščenje predlaganih elementov". Sistem te vodi čez brisanje velikih datotek in datotek v smetnjaku.
 
 #### 3: Očisti začasne datoteke (lokalno)
 V večini računalnikov številni programi uporabljajo in ustvarjajo začasne podatke. Za čiščenje teh datotek lahko uporabite orodja, ki jih predlaga sistem, npr. "Čiščenje diska".
@@ -102,7 +102,7 @@ Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
 - Windows 10: Klikni na ”Začetek” in ikonico koleščka: “Nastavitve”. V meniju izberi možnost “Sistem” > “Prostor za shranjevanje”. Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Uporabljeno 100 GB".
 - Mac: Klikni na "Apple” > “System settings” > “General”. Izberi "Storage" in na desni strani izpiši podatek poleg grafičnega prikaza zapolnjenosti “100 GB of 500 GB used”.
 - OneDrive: Klikni na “Nastavitve” > "Možnosti" in “Upravljanje shrambe”. Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Skupaj uporabljeno 1 GB / 5 GB".
-- Google Drive: Izhodiščno stanje ugotoviš prek klika na povezavo https://drive.google.com/u/0/settings/storage ali prek klika na profilno fotografijo v zgornjem desnem kotu poštnega predala > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Izpiši podatek poleg kategorije Google Drive.
+- Google Drive: Izhodiščno stanje ugotoviš prek klika na [povezavo](https://drive.google.com/u/0/settings/storage) ali prek klika na profilno fotografijo v zgornjem desnem kotu poštnega predala > "Upravljanje računa Google" > “Plačila in naročnine" > "Upravljaj shrambo". Izpiši podatek poleg kategorije Google Drive.
 
 
 ### Telefon
@@ -136,4 +136,7 @@ Izbriši zastarele pogovore, vsiljena (spam) in sponzorirana sporočila, sporoč
 Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
 - Android: Pojdi pod "Nastavitve" > "Pomnilnik" / "Shramba". Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Uporabljeno 30 GB / 64 GB".
 - iPhone: Klikni "Settings" > "General" > “IphoneStorage”. Izpiši podatek poleg grafičnega prikaza zapolnjenosti "100 GB of 128 GB used".
+
+### Viri
+Navodila smo zasnovali na podlagi gradiv [Institute of Sustainable IT](https://institutnr.org/) in [World Cleanup Day France](https://digital-cleanup-day.fr/).
 </div>
