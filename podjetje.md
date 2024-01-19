@@ -14,7 +14,7 @@ Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanj
 - Ko se v podjetju odločite za sodelovanje, določite koordinatorja, ki bo organiziral podrobnosti akcije in bo tudi kontaktna oseba za nas.
 
 <button>
-		<a href="[podjetje.html](https://docs.google.com/forms/d/e/1FAIpQLSfiXjBaKTUFIcxyFzyItF_W5thrnq_cFoCVBJF72FZeEIkLiQ/viewform)">Prijavite udeležbo vašega podjetja</a>
+		<a href="(https://docs.google.com/forms/d/e/1FAIpQLSfiXjBaKTUFIcxyFzyItF_W5thrnq_cFoCVBJF72FZeEIkLiQ/viewform)">Prijavite udeležbo vašega podjetja</a>
 </button>
 
 ### Odločite se za obseg sodelovanja: navodila za koordinatorje
