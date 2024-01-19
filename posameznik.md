@@ -19,10 +19,10 @@ Sodeluješ tako, da se lotiš čistilne akcije na svojih elektronskih napravah. 
 - [Telefon](https://ewba.github.io/dcd-si/navodila-za-ciscenje.html#telefon)
 - Družbena omrežja
 
-Ko končaš, nam najkasneje do **16. marca 2024** **sporoči rezultate**, da izveš, kaj pomenijo tvoji prihranki CO<sub>2</sub> v malo bolj oprijemljivih primerjavah (npr. koliko kilometrov z avtom bi lahko prepotoval/a za takšen okoljski odtis). Ter da lahko Slovenija s tvojo pomočjo pri čistilnih akcijah ponovno **prevzame primat in postavi tudi digitalni rekord.**
+Ko končaš, nam najkasneje do **16. marca 2024** **sporoči rezultate**, da izveš, kaj pomenijo tvoji prihranki CO<sub>2</sub> v malo bolj oprijemljivih primerjavah (npr. koliko kilometrov z avtom bi lahko prepotoval/a za takšen okoljski odtis). Ter da lahko Slovenija s tvojo pomočjo pri čistilnih akcijah ponovno prevzame primat in postavi tudi digitalni rekord.
 
 ### Ali lahko vključim tudi družino, prijatelje ali sodelavce?
-Seveda! **Več kot nas bo čistilo, bolje bo** in lažje bomo dosegli cilje. Če želiš v čiščenje vključiti svoje drage, si poglej tudi posebna navodila, ki smo jih pripravili za:
+Seveda! Več kot nas bo čistilo, bolje bo in lažje bomo dosegli cilje. Če želiš v čiščenje vključiti svoje drage, si poglej tudi posebna navodila, ki smo jih pripravili za:
 - [Šole](https://ewba.github.io/dcd-si/sola.html)
 - [Podjetja](https://ewba.github.io/dcd-si/podjetje.html)
 - [Druge organizacije](https://ewba.github.io/dcd-si/druge-organizacije.html)
