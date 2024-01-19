@@ -4,6 +4,7 @@ title: O akciji
 css: carousel.css
 co2: x
 ---
+
 <div class="block" markdown="1">
 ## Kaj je akcija Očistimo Slovenija digitalnih odpadkov?
 Ekologi brez meja smo leta 2018 akciji Očistimo Slovenijo rekli ‘še zadnjič’. Takrat smo lahko zgolj slutili, da nam bodo v prihodnjih letih preglavice povzročali tudi nevidni odpadki v obliki datotek, aplikacij, e-sporočil in druge digitalne nesnage.

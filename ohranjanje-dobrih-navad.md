@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: single-page
 title: Ohranjanje dobrih navad
 co2: x
 ---
-
-<div class="block" markdown="1">
-## {{ page.title }}
 
 V hitrem življenjskem tempu je digitalna prisotnost ključna za naše vsakodnevne dejavnosti. Pomembno je, da naše digitalno okolje redno čistimo, saj le tako ohranimo življenjsko dobo naših elektronskih naprav, znižamo stroške shranjevanja podatkov na strežnikih in izboljšamo svoje procese ter dosegamo večjo učinovitost.
 
@@ -29,5 +26,3 @@ V hitrem življenjskem tempu je digitalna prisotnost ključna za naše vsakodnev
 - **Glej** svojo najljubšo serijo ali videoposnetek **v standardni kakovosti**, saj pretakanje v visoki ločjivosti **porabi 86 % več energije**. 
 - Namesto **iskanja spletnih strani**, ki jih pogosto uporabljate, jih shranite **med zaznamke**, saj velik del spletnih iskalcev ni usmerjen v iskanje novih informacij, temveč nas vrača na spletne strani, ki smo jih že iskali in s tem **vsako novo iskanje povzroči emisije CO<sub>2</sub>**. 
 - Življenje velikokrat ni črno-belo, ampak **vklop ‘temnega’ načina** bo za vaše elektronske naprave pravi balzam. 
-
-</div>

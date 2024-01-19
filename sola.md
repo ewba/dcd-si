@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: single-page
 title: Šola
 co2: x
 ---
-
-<div class="block" markdown="1">
-## {{ page.title }}
 
 Digitalna doba je pomembno vplivala na učne procese v šolah. Posledično prihaja do vse več digitalnih odpadkov, ki onesnažujejo okolje in bremenijo sisteme, zato postaja potreba po čistem in urejenem digitalnem okolju nujna. 
 
@@ -32,5 +29,3 @@ Naučimo jih, kaj so takšni odpadki, kje jih najdemo in kako vplivajo na okolje
 - Starostna skupina: Učenci od 4. do vključno 9. razreda osnovne šole
 - Pridobljene veščine: Okoljska digitalna ozaveščenost, kritično razmišljanje. 
 
-
-</div>
