@@ -1,7 +1,7 @@
 ---
 layout: single-page
 title: Posameznik
-co2: x
+co2: 0,02
 ---
 
 Ne ostani ujet/a v digitalnem labirintu nepotrebnih aplikacij in datotek, saj lahko stopiš korak naprej in se pridružiš digitalnemu čiščenju!

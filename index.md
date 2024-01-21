@@ -1,6 +1,6 @@
 ---
 layout: default
-co2: x
+co2: 0,03
 ---
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center; margin-bottom: 1em">
