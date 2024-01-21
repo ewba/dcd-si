@@ -15,8 +15,8 @@ co2: 0,03
 	</div>
 </div>
 
-<div class="block" markdown="1">
-## Kako sodeluješ?
+<div class="block">
+<h2>Kako sodeluješ?</h2>
 
 Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistiš že od februarja naprej.
 
@@ -63,8 +63,8 @@ Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se
 
 </div>
 
-<div class="block para" markdown="1">
-## Podporniki projekta
+<div class="block para">
+<h2>Podporniki projekta</h2>
 
 /skupek logotipov/
 </div>

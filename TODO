@@ -1,10 +1,11 @@
-- dark mode?
-- nov layout za vse te osnovne strani, da ni noter diva?
+- domene
+- testiraj a je boljši rezultat pri nas al na ghp
 
+- v mapi sponzorji je mapa Logotipi
+- 360px @media, leftovers v main.scss, daj breakpointe v spremenljivke
 
 
 Čaka na vsebino:
-- navodila - na podstrani, ko bo več vsebine
 - gumb prenesi gradiva na šolska gradiva
 - zabeleži rezultate - povezava
   - podstrani
@@ -13,3 +14,10 @@
 
 Na koncu:
 - drobni tisk z odtisom: dodaj številko
+  - preveri, če so dovoljšnje razlike med podstranmi v odtisu, sicer uporabi globalno vrednost
+  - drugače pa določi kategorije, da bo naslednjič dovolj ocenit samo par strani (main: 0,03, posameznik: 0,02, eposta: 0,57, datoteke: [0,29])
+
+
+
+Kasneje:
+- dark mode
