@@ -23,15 +23,21 @@ Nižji digitalni odtis spletne strani ne pomeni nujno odrekanja lepoti in funkci
 Skozi čas postaja zavedanje in delo na nižanju odtisa lažje. Brskalniki se vedno bolj strinjajo glede funkcionalnosti, na voljo je vedno več namenskih orodij in nastajajo celo formalne [smernice za trajnostne strani](https://w3c.github.io/sustyweb/). Hkrati se še vedno viša zapletenost osnovnih tehnologij in ni redko, da spletne strani porabijo na stotine megabajtov pomnilnika (in več) za delovanje, kar zlahka upočasni celoten računalnik. Glede na primerjalno enostavnost spletnih strani in aplikacij napram navadnim namiznim, je to skoraj nerazumljivo. Pod črto ostaja še veliko dela na optimizaciji po celotni programski (in strojni!) vrednostni verigi.
 
 
-### Zgodba naše strani
+## Strojna oprema in podatkovni centri
+
+Odtis spletnih strani ni odvisen samo od njihove zasnove in dodatne progamske opreme, ki je potrebna, da lahko dostopamo do njih. Računalniki (strežniki) in oprema, preko katerih so strani na voljo Internetu, s svojimi izpusti povezani s porabo energije in hlajenjem predstavljajo pomemben del digitalnega odtisa. Ker so s tem povezani tudi znatni stroški, obstaja veliko [kazalcev učinkovitosti](https://knowledge.sdialliance.org/data-center-metrics) podatkovnih centrov.
+
+Starejše (2011) ocene sektorja so presenetljive: **skoraj vsak tretji** strežnik priklopljen na Internet naj ne bi bil v rabi, **izkoristek** strojne opreme pa **le okoli petinski**. Z napredkom virtualizacije, kjer na enem fizičnem računalniku teče več virtualnih, se je izkoristek zagotovo izboljšal, a osnovni problem še vedno ostaja. Veliko podjetij in drugih organizacij uporablja lastno infrastrukturo, kar pogosto pomeni slabo izkoriščenost. To povečuje potrebo po strojni opremi, kar znatno vpliva na ogljični odtis. Ocena Siddik in Sehab (2021) je, da je razlika v ogljični intenzivnosti med lastnim strežnikom in kolociranim trikratna, v velepodatkovnih ("hyperscale") centrih pa še 60% nižja od tega!
+
+
+## Zgodba naše strani
 
 Ekologi brez meja verjamemo v vodenje z zgledom, zato smo že od začetka zasnovali to spletno stran z mislijo na nizek digitalni odtis in dostopnost. Ocena je na voljo v nogi posamezne strani, giblje pa se med 0,02 in 0,03 g CO2<sub>eq</sub> na obisk. To pomeni, da se uvršča v [razred učinkovitosti A+](https://sustainablewebdesign.org/digital-carbon-ratings/#toc-3) in je nižja od 95 % spletnih strani (v našem primeru 97 %).
 
-gostovanje?
 
-#### Tehnične podrobnosti
+### Tehnične podrobnosti
 
-Stran je zgrajena s pomočjo Jekylla, kar pomeni, da so podstrani zgenerirane enkrat in neposredno postrežene uporabnikom. Tako odpadejo dodatni vmesni strežniki (npr. php in mysql za CMS), kar izboljša hitrost in učinkovitost. Markdown pomeni tudi lažje urejanje napram čistemu HTML-ju. Za grafične elemente sta uporabljena WEBP in SVG formata, čeprav ju ne podpirajo prav čisto vsi brskalniki. Oblikovanje je spisano iz nule, dodatni CSS pa je naložen po potrebi prek oznake v frontmatter.
+Stran je zgrajena s pomočjo Jekylla, kar pomeni, da so podstrani zgenerirane enkrat in neposredno postrežene uporabnikom. Tako odpadejo dodatni vmesni strežniki (npr. PHP in MySQL za CMS), kar izboljša hitrost in učinkovitost. Markdown pomeni tudi lažje urejanje napram čistemu HTML-ju. Za grafične elemente sta uporabljena WEBP in SVG formata, čeprav ju ne podpirajo prav čisto vsi brskalniki. Oblikovanje je spisano iz nule, dodatni CSS pa je naložen po potrebi prek oznake v frontmatter. Preverjanje učinkovitosti je potekalo z Lighthouse.
 
 yt
 
