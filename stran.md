@@ -39,7 +39,7 @@ Ekologi brez meja verjamemo v vodenje z zgledom, zato smo že od začetka zasnov
 
 Stran je zgrajena s pomočjo Jekylla, kar pomeni, da so podstrani zgenerirane enkrat in neposredno postrežene uporabnikom. Tako odpadejo dodatni vmesni strežniki (npr. PHP in MySQL za CMS), kar izboljša hitrost in učinkovitost. Markdown pomeni tudi lažje urejanje napram čistemu HTML-ju. Za grafične elemente sta uporabljena WEBP in SVG formata, čeprav ju ne podpirajo prav čisto vsi brskalniki. Oblikovanje je spisano iz nule, dodatni CSS pa je naložen po potrebi prek oznake v frontmatter. Preverjanje učinkovitosti je potekalo z Lighthouse.
 
-yt
+Za video predvajalnik je uporabljen trik: prvotno je prikazana le slika in ponarejen gumb za predvajanje. Šele ob kliku se naloži predvajalnik, video pa sam zažene, tako da uporabnik niti ne opazi razlike. Na strani z enim videom je to velikost zmanjšalo iz 1311 kB na 146 kB (za 89 %), pri dveh pa iz 2437 kB na 167 kB (za 93 %). Z vidika odtisa to izmerjeno pomeni zdesetkanje in približno zdvajsetkanje!
 
 {%comment%}
 https://www.labnol.org/internet/light-youtube-embeds/27941/

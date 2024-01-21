@@ -1,7 +1,7 @@
 ---
 layout: single-page
 title: Navodila za čiščenje&#58; telefon
-co2: x
+co2: 0,03
 css: yt.css
 ---
 

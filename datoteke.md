@@ -1,7 +1,7 @@
 ---
 layout: single-page
 title: Navodila za čiščenje&#58; datoteke
-co2: 0,29 / 3.77 MB / 1.28 MB transferred
+co2: 0,03
 css: yt.css
 ---
 

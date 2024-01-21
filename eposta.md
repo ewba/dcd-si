@@ -1,7 +1,7 @@
 ---
 layout: single-page
 title: Navodila za čiščenje&#58; e-pošta
-co2: 0,57 / 7.05 MB / 2.38 MB transferred
+co2: 0,03
 css: yt.css
 ---
 
