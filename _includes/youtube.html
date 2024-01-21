@@ -1,0 +1,13 @@
+{% assign two = include.two | default: false %}
+{% if two %} 
+	{% assign stil = "height:315px" %}
+{% else %}
+	{% assign stil = "width:460px;margin: 0 auto" %}
+{% endif %}
+
+<div class="youtube-player" style="{{ stil }}">
+	<div data-id="{{ include.video }}" onclick="labnolIframe(this)">
+		<img src="https://i.ytimg.com/vi/{{ include.video }}/hqdefault.jpg" alt="Youtube player">
+		<div class="play"></div>
+	</div>
+</div>

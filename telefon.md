@@ -2,9 +2,10 @@
 layout: single-page
 title: Navodila za čiščenje&#58; telefon
 co2: x
+css: yt.css
 ---
 
-<iframe width="560" height="315" style="margin: 0 auto; display: block;" src="https://www.youtube-nocookie.com/embed/jVWOHHSK9l0?si=bILqGV2gdz4Y5d97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include youtube.html video="jVWOHHSK9l0" %}
 
 ### 1: Ugotovi in si zapiši izhodiščno stanje
 Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa vedel/a, koliko si izbrisal/a.

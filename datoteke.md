@@ -1,10 +1,11 @@
 ---
 layout: single-page
 title: Navodila za čiščenje&#58; datoteke
-co2: x
+co2: 0,29 / 3.77 MB / 1.28 MB transferred
+css: yt.css
 ---
 
-<iframe width="560" height="315" style="margin: 0 auto; display: block;" src="https://www.youtube-nocookie.com/embed/_rI7ZG0s74A?si=C5mG6NUQ4gA23Q_t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include youtube.html video="_rI7ZG0s74A" %}
 
 ### 1: Ugotovi in si zapiši izhodiščno stanje
 Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa vedel/a, koliko si izbrisal/a.

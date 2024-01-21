@@ -1,12 +1,13 @@
 ---
 layout: single-page
 title: Navodila za čiščenje&#58; e-pošta
-co2: x
+co2: 0,57 / 7.05 MB / 2.38 MB transferred
+css: yt.css
 ---
 
 <div style="display:flex;flex-wrap: wrap;justify-content: space-around;">
-	<iframe width="460" height="315" src="https://www.youtube-nocookie.com/embed/mAvlvPXs96I?si=BUdokPlau8kuTo6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-	<iframe width="460" height="315" src="https://www.youtube-nocookie.com/embed/zy-7h-kRVRo?si=CjpfHUlSkyejuMKq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	{% include youtube.html video="mAvlvPXs96I" %}
+	{% include youtube.html video="zy-7h-kRVRo" %}
 </div>
 
 ### 1: Ugotovi in si zapiši izhodiščno stanje
