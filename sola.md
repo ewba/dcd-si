@@ -24,7 +24,7 @@ Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanj
 - Učenci spoznajo, kako digitalne odpadke pobrisati na različnih napravah;
 - Učenci spoznajo kako digitalne odpadke preprečiti;
 
-**Pomembne podrobnosti izobraževanja**
+  **Pomembne podrobnosti izobraževanja**
 - Trajanje izobraževanja: 2 šolski uri
 - Starostna skupina: Učenci od 4. do vključno 9. razreda osnovne šole
 - Pridobljene veščine: Okoljska digitalna ozaveščenost, kritično razmišljanje.
