@@ -19,6 +19,13 @@ Tipične napake:
 - **Videi**, ki začnejo avtomatsko igrati ob prikazu strani lahko porabijo ogromno podatkov; že sam Youtoubov predvajalnik je vreden slabi megabajt, skoraj polovico povprečne velikosti spletnih strani v letu 2022. Način, kako se jih vgrajuje v spletne strani pomeni, da ta se ta strošek ponovi z vsakim dodatnim videom.
 - Uporaba **neoptimizirane kode in ogrodij**. Večina spletnih strani v ozadju vsebuje precej balasta za redke vrste sistemov, redko obiskane podstrani, redke grafične elemente in redke interakcije. Ko ti deli niso naloženi po potrebi, le višajo odtis strani.
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="max-width:285px">
+		<img height="200" src="assets/img/ytplay.svg" alt="Primer SVG slike">
+		<div style="font-size:0.9rem; font-style:italic;text-align: center;">Vektorske slike zavzamejo enako količino prostora na disku ne glede na dimenzije</div>
+	</div>
+</div>
+
 Nižji digitalni odtis spletne strani ne pomeni nujno odrekanja lepoti in funkcionalnosti. Podobno kot spletna varnost obstaja na spektru, kjer so na eni strani peresno lahke dvobarvne strani, na drugi pa pošasti, ki samo za drobno [ikono za brskalnik porabijo več megabajtov](https://iconmap.io/blog#speed-file-size--resolution). Vmes je polje, kjer se sprašujemo kakšno vrsto tehnologije uporabljati, koliko se nam mudi in ali sploh poznamo gradnike, s katerimi delamo.
 
 Skozi čas postaja zavedanje in delo na nižanju odtisa lažje. Brskalniki se vedno bolj strinjajo glede funkcionalnosti, na voljo je vedno več namenskih orodij in nastajajo celo formalne [smernice za trajnostne strani](https://w3c.github.io/sustyweb/). Hkrati se še vedno viša zapletenost osnovnih tehnologij in ni redko, da spletne strani porabijo na stotine megabajtov pomnilnika (in več) za delovanje, kar zlahka upočasni celoten računalnik. Glede na primerjalno enostavnost spletnih strani in aplikacij napram navadnim namiznim, je to skoraj nerazumljivo. Pod črto ostaja še veliko dela na optimizaciji po celotni programski (in strojni!) vrednostni verigi.
@@ -37,7 +44,7 @@ Starejše (2011) ocene sektorja so presenetljive: **skoraj vsak tretji** strežn
 <div class="block" markdown="1">
 ## Zgodba naše strani
 
-Ekologi brez meja verjamemo v vodenje z zgledom, zato smo že od začetka zasnovali to spletno stran z mislijo na nizek digitalni odtis in dostopnost. Ocena je na voljo v nogi posamezne strani, giblje pa se med 0,02 in 0,03 g CO2<sub>eq</sub> na obisk. To pomeni, da se uvršča v [razred učinkovitosti A+](https://sustainablewebdesign.org/digital-carbon-ratings/#toc-3) in je nižja od 95 % spletnih strani (v našem primeru 97 %).
+Ekologi brez meja verjamemo v vodenje z zgledom, zato smo že od začetka zasnovali to spletno stran z mislijo na nizek digitalni odtis in dostopnost. Ocena je na voljo v nogi posamezne strani, giblje pa se med 0,02 in 0,03 g CO2<sub>eq</sub> na obisk. To pomeni, da se uvršča v [razred učinkovitosti A+](https://sustainablewebdesign.org/digital-carbon-ratings/#toc-3) in je **nižja od 95 % spletnih strani** (v našem primeru 97 %).
 
 
 ### Tehnične podrobnosti
@@ -47,7 +54,6 @@ Stran je zgrajena s pomočjo Jekylla, kar pomeni, da so podstrani zgenerirane en
 Za video predvajalnik je uporabljen trik: prvotno je prikazana le slika in ponarejen gumb za predvajanje. Šele ob kliku se naloži predvajalnik, video pa sam zažene, tako da uporabnik niti ne opazi razlike. Na strani z enim videom je to velikost zmanjšalo iz 1311 kB na 146 kB (za 89 %), pri dveh pa iz 2437 kB na 167 kB (za 93 %). Z vidika odtisa to izmerjeno pomeni zdesetkanje in približno zdvajsetkanje!
 
 {%comment%}
-https://www.labnol.org/internet/light-youtube-embeds/27941/
 
 	Calculating what the CO2eqv impact is per GB (there's three models which vary depending on how much they assign to the network, end devices and data centres) - https://research.screen.is/net-zero/Digital%20CO2%20analysis?stackedPages=%2Fnet-zero%2FModelling)
 
