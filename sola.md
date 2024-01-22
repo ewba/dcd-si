@@ -36,7 +36,7 @@ Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanj
 - **Samostojno čiščenje zaposlenih**: Boste zaposlene in učitelje pozvali k samostojnemu čiščenju njihovih naprav? Pošljite jim navodila za čiščenje, [prenesite tabelo za zbiranje podatkov za vašo organizacijo](https://docs.google.com/spreadsheets/d/1QiAlI4AaGp24_rOKqpIe1AJVLWCjUqn0M_M3Ng7uquY/edit#gid=0) in vsakega sodelujočega pozovite k vpisu svojih rezultatov. Zbrane rezultate za vašo šolo [oddajte v obrazec na spletni strani]({{ site.submitURL }}) najkasneje do 16. marca do 16.00 ure, da izveste, koliko ste z izbrisanimi  datotekami privarčevali  CO<sub>2</sub> ter kaj številke pomenijo v malo bolj oprijemljivih primerjavah (npr. koliko kilometrov z avtom bi lahko prepotovali za takšen okoljski odtis).
 
 <button>
-		<a href="{{ site.submitURL }}">Oddajte rezultate za vašo šolo</a>
+		<a href="{{ site.submitURL }}">Oddajte rezultate za svojo šolo</a>
 </button>
   
 - **Vključitev IT oddelka:** Bi šli pri čiščenju korak dlje in se lotili tudi strežnikov šole, sistemskih datotek in kanalov komuniciranja šole? Vključite vse zaposlene, ki jih tovrstno čiščenje vključuje, predvsem predstavnika IT, komunikatorja ter vodstvo šole. Če se boste odločili za poglobljeno čiščenje, ne pozabite podatkov o količini zbrisanih datotek prišteti zbranim rezultatom čiščenja zaposlenih, ki nam jih boste sporočili.
