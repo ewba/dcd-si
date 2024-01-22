@@ -22,12 +22,12 @@ Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanj
   **Cilji izobraževalnega programa**
 - Učenci razumejo osnovne pojme o digitalnih odpadkih;
 - Učenci spoznajo, kako digitalne odpadke pobrisati na različnih napravah;
-- Učenci spoznajo kako digitalne odpadke preprečiti;
+- Učenci spoznajo kako digitalne odpadke preprečiti.
 
   **Pomembne podrobnosti izobraževanja**
 - Trajanje izobraževanja: 2 šolski uri
 - Starostna skupina: Učenci od 4. do vključno 9. razreda osnovne šole
-- Pridobljene veščine: Okoljska digitalna ozaveščenost, kritično razmišljanje.
+- Pridobljene veščine: Okoljska digitalna ozaveščenost, kritično razmišljanje
 
 <button>
 		<a href="https://docs.google.com/forms/d/e/1FAIpQLSfiXjBaKTUFIcxyFzyItF_W5thrnq_cFoCVBJF72FZeEIkLiQ/viewform">Prenesite izobraževalni program</a>
