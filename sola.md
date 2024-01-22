@@ -2,17 +2,30 @@
 layout: single-page
 title: Šola
 ---
-
 Digitalna doba je pomembno vplivala na učne procese v šolah. Posledično prihaja do vse več digitalnih odpadkov, ki onesnažujejo okolje in bremenijo sisteme, zato postaja potreba po čistem in urejenem digitalnem okolju nujna. 
 
 Z enostavnimi ukrepi lahko optimiziramo digitalne vire, vzpostavimo trajnostne digitalne navade in ustvarjamo učno okolje, ki spodbuja trajnost, učinkovitost in zavedanje o odgovorni rabi tehnologije, kar pripomore k nemoteni izvedbi izobraževalnih dejavnosti. 
 
+### Zakaj bi se udeležili dneva digitalnega čiščenja?
+Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanja, zmanjšate emisije CO<sub>2</sub>, ozaveščate zaposlene, učitelje, učence in njihove starše ter zmanjšate stroške shranjevanja in podaljšate življenjsko dobo elektronske opreme. Več o [vplivu digitalnih aktivnosti](https://ewba.github.io/dcd-si/o-akciji.html).
 
-### Počistimo svoje naprave
+### Kako točno sodelujemo?
+- Ko se v šoli odločite za sodelovanje, določite koordinatorja, ki bo organiziral podrobnosti akcije in bo tudi kontaktna oseba za nas. Koordinator naj preveri interes za sodelovanje pri akciji in prijavi udeležbo vaše šole. 
 
-V sklopu akcije Očistimo Slovenijo digitalnih odpadkov smo pripravili **brezplačna izobraževalna gradiva o smetenju okolja z našimi napravami**. Osnovnošolce od 4. razreda naprej želimo opremiti s potrebnimi veščinami za čiščenje odvečnih datotek na različnih napravah ter jim dati ustrezna znanja in spoznanja, da bodo lahko tudi v prihodnje okolju prijazneje uporabljali svoje naprave.
+<button>
+		<a href="https://docs.google.com/forms/d/e/1FAIpQLSfiXjBaKTUFIcxyFzyItF_W5thrnq_cFoCVBJF72FZeEIkLiQ/viewform">Prijavite udeležbo svoje šole</a>
+</button>
 
-Izobraževalni sklop je namenjen učencem od 4. do vključno 9. razreda osnovne šole
+### Odločite se za obseg sodelovanja: navodila za koordinatorje
+- **Samostojno čiščenje zaposlenih**: Boste zaposlene in učitelje pozvali k samostojnemu čiščenju njihovih naprav? Pošljite jim navodila za čiščenje, [prenesite tabelo za zbiranje podatkov za vašo organizacijo](https://docs.google.com/spreadsheets/d/1QiAlI4AaGp24_rOKqpIe1AJVLWCjUqn0M_M3Ng7uquY/edit#gid=0) in vsakega sodelujočega pozovite k vpisu svojih rezultatov. Zbrane rezultate za vašo šolo nam sporočite najkasneje do 16. marca do 16.00 ure, da izveste, koliko ste z izbrisanimi  datotekami privarčevali  CO<sub>2</sub> ter kaj številke pomenijo v malo bolj oprijemljivih primerjavah (npr. koliko kilometrov z avtom bi lahko prepotovali za takšen okoljski odtis).
+  
+- **Vključitev IT oddelka:** Bi šli pri čiščenju korak dlje in se lotili tudi strežnikov šole, sistemskih datotek in kanalov komuniciranja šole? Vključite vse zaposlene, ki jih tovrstno čiščenje vključuje, predvsem predstavnika IT, komunikatorja ter vodstvo šole. Če se boste odločili za poglobljeno čiščenje, ne pozabite podatkov o količini zbrisanih datotek prišteti zbranim rezultatom čiščenja zaposlenih, ki nam jih boste sporočili.
+  
+- **Eksterno ozaveščanje:** Želite čiščenje nadgraditi z ozaveščevalnimi aktivnostmi za vaše zaposlene, učitelje, starše učencev? Pripravili smo predlog komunikacije za vaše [digitalne kanale komuniciranja](https://docs.google.com/spreadsheets/d/1v25yggszoY1FQ26QoC93yvLMM5yup816TiR9873DRhE/edit).
+
+- **Vključitev vsebin v učni program**: V sklopu akcije Očistimo Slovenijo digitalnih odpadkov smo pripravili brezplačna izobraževalna gradiva o smetenju okolja z našimi napravami Osnovnošolce od 4. razreda naprej želimo opremiti s potrebnimi veščinami za čiščenje odvečnih datotek na različnih napravah ter jim dati ustrezna znanja in spoznanja, da bodo lahko tudi v prihodnje okolju prijazneje uporabljali svoje naprave.
+
+Izobraževalni sklop je namenjen učencem od 4. do vključno 9. razreda osnovne šole.
 
 Večina otrok se je z različnimi akcijami zbiranja različnih odpadkov, tako ali drugače že seznanila z vplivom, ki ga imamo ljudje z našimi smetmi. Pa najsi bo to z zbiranjem odpadnega papirja in plastičnih zamaškov ali pobiranja odpadkov iz narave. Kako pa naj naši najmlajši počistijo odpadke, ki jih ne vidijo? Takšne, ki se jih morda sploh ne zavedajo, ker jih ne morejo prijeti v roke? 
 
@@ -26,5 +39,21 @@ Naučimo jih, kaj so takšni odpadki, kje jih najdemo in kako vplivajo na okolje
 **Pomembne podrobnosti izobraževanja**
 - Trajanje izobraževanja: 2 šolski uri
 - Starostna skupina: Učenci od 4. do vključno 9. razreda osnovne šole
-- Pridobljene veščine: Okoljska digitalna ozaveščenost, kritično razmišljanje. 
+- Pridobljene veščine: Okoljska digitalna ozaveščenost, kritično razmišljanje.
+
+
+<button>
+		<a href="https://docs.google.com/forms/d/e/1FAIpQLSfiXjBaKTUFIcxyFzyItF_W5thrnq_cFoCVBJF72FZeEIkLiQ/viewform">Prenesite izobraževalni program</a>
+</button>
+
+
+
+
+
+
+
+
+
+
+
 
