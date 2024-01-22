@@ -18,6 +18,7 @@ Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanj
 
 ### Odločite se za obseg sodelovanja: navodila za koordinatorje
 - **Vključitev vsebin v učni program**: V sklopu akcije Očistimo Slovenijo digitalnih odpadkov smo pripravili brezplačna izobraževalna gradiva o smetenju okolja z našimi napravami Osnovnošolce od 4. razreda naprej želimo opremiti s potrebnimi veščinami za čiščenje odvečnih datotek na različnih napravah ter jim dati ustrezna znanja in spoznanja, da bodo lahko tudi v prihodnje okolju prijazneje uporabljali svoje naprave. Izobraževalni sklop je namenjen učencem od 4. do vključno 9. razreda osnovne šole. Večina otrok se je z različnimi akcijami zbiranja različnih odpadkov, tako ali drugače že seznanila z vplivom, ki ga imamo ljudje z našimi smetmi. Pa najsi bo to z zbiranjem odpadnega papirja in plastičnih zamaškov ali pobiranja odpadkov iz narave. Kako pa naj naši najmlajši počistijo odpadke, ki jih ne vidijo? Takšne, ki se jih morda sploh ne zavedajo, ker jih ne morejo prijeti v roke? Naučimo jih, kaj so takšni odpadki, kje jih najdemo in kako vplivajo na okolje. Pomagamo jim, da se odvečne datoteke, ki so kot prazna vrečka bombonov, pobrišejo. Pogovarjamo se o tem, kako pomembno je, da v skrbi za okolje razmišljamo o odpadkih vseh vrst in oblik. Spodbudimo jih, da naučeno nesejo tudi domov in pomagajo očistiti tudi domače naprave in naprave staršev. Na koncu pa pogledamo še, kaj lahko stroi vsak zase, da se digitalni odpadki v prihodnosti ne bodo več nabirali.
+  
   **Cilji izobraževalnega programa**
 - Učenci razumejo osnovne pojme o digitalnih odpadkih;
 - Učenci spoznajo, kako digitalne odpadke pobrisati na različnih napravah;
@@ -27,7 +28,6 @@ Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanj
 - Trajanje izobraževanja: 2 šolski uri
 - Starostna skupina: Učenci od 4. do vključno 9. razreda osnovne šole
 - Pridobljene veščine: Okoljska digitalna ozaveščenost, kritično razmišljanje.
-
 
 <button>
 		<a href="https://docs.google.com/forms/d/e/1FAIpQLSfiXjBaKTUFIcxyFzyItF_W5thrnq_cFoCVBJF72FZeEIkLiQ/viewform">Prenesite izobraževalni program</a>
