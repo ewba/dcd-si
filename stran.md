@@ -1,7 +1,6 @@
 ---
 layout: single-page
 title: Odtis spletne strani
-co2: x
 ---
 
 [Digitalni odtis](o-akciji.html) je kompleksna količina, ki jo lahko le ocenimo. Za spletne strani je to lažje,

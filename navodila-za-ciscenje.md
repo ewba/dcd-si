@@ -1,7 +1,6 @@
 ---
 layout: single-page
 title: Navodila za čiščenje
-co2: x
 ---
 
 Čiščenje digitalnih odpadkov je kot vsako drugo — vedno malo drugače. Zato smo pripravili paket navodil, ki ti bodo pomagala počistiti prav vsak “kotiček” tvojih naprav. Preden začneš, moraš ugotoviti **izhodiščno stanje**, da boš po koncu procesa vedel/a, koliko si izbrisal/a. 

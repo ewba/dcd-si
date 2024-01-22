@@ -1,7 +1,6 @@
 ---
 layout: single-page
 title: Druge organizacije
-co2: x
 ---
 
 ### Zakaj bi se udeležili dneva digitalnega čiščenja?

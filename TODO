@@ -13,10 +13,6 @@
 
 
 Na koncu:
-- drobni tisk z odtisom: dodaj številko
-  - preveri, če so dovoljšnje razlike med podstranmi v odtisu, sicer uporabi globalno vrednost
-  - drugače pa določi kategorije, da bo naslednjič dovolj ocenit samo par strani (main: 0,03, posameznik: 0,02, eposta: 0,57, datoteke: [0,29])
-
 
 
 Kasneje:

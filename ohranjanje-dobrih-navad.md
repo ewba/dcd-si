@@ -1,7 +1,6 @@
 ---
 layout: single-page
 title: Ohranjanje dobrih navad
-co2: x
 ---
 
 V hitrem življenjskem tempu je digitalna prisotnost ključna za naše vsakodnevne dejavnosti. Pomembno je, da naše digitalno okolje redno čistimo, saj le tako ohranimo življenjsko dobo naših elektronskih naprav, znižamo stroške shranjevanja podatkov na strežnikih in izboljšamo svoje procese ter dosegamo večjo učinovitost.

@@ -1,7 +1,6 @@
 ---
 layout: single-page
 title: Podjetje
-co2: x
 ---
 
 ### Zakaj bi se udeležili dneva digitalnega čiščenja?

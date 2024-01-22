@@ -1,7 +1,6 @@
 ---
 layout: single-page
 title: Šola
-co2: x
 ---
 
 Digitalna doba je pomembno vplivala na učne procese v šolah. Posledično prihaja do vse več digitalnih odpadkov, ki onesnažujejo okolje in bremenijo sisteme, zato postaja potreba po čistem in urejenem digitalnem okolju nujna. 

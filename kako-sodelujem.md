@@ -1,7 +1,6 @@
 ---
 layout: single-page
 title: Kako sodelujem?
-co2: x
 ---
 
 Pomlad ni čas samo za tradicionalne čistilne akcije v naravi, temveč tudi čiščenje naših digitalnih smeti – to akcijo lahko opravimo kar v udobju domačega naslonjača, zato je za mnoge to najlažja čistilna akcija na svetu. Pridružite se čiščenju, ki ga 18. marca pod okriljem mreže Let’s do it v Sloveniji organiziramo Ekologi brez meja.
