@@ -27,7 +27,7 @@ Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se
 <div class="block para" style="padding-bottom: 2.5rem">
 <h2>Cilji akcije</h2>
 
-<div style="display:grid; justify-content: center; gap: 1rem 2rem; grid-template-columns: repeat(2, 1fr); width: 85%">
+<div style="display:grid; justify-content: center; gap: 1rem 2rem; grid-template-columns: repeat(2, 1fr); width: 77%">
 	<div style="justify-self: end; align-self: center;margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px;">
 		<img src="assets/img/ff/png.webp" alt="okras seznama" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
 	</div>
