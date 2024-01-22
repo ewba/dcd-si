@@ -9,7 +9,9 @@
 - gumb prenesi gradiva na šolska gradiva
 - zabeleži rezultate - povezava
   - podstrani
-
+- varnost (duplikati višajo šanse za leake) in zasebnost
+- še bolj kontekstualiziraj emisijske/vplivne podatke
+  + kje vse nastaja, kje so točke preloma (disk -> slice -> rack ...)
 
 
 Na koncu:
@@ -17,3 +19,4 @@ Na koncu:
 
 Kasneje:
 - dark mode
+- vprašaj internet archive glede njihovih praks, deduplikacije
