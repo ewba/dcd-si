@@ -85,7 +85,7 @@ $height: 65px;
 	color: $sivaSvetla;
 }
 // hover added by Jaka - force screen readers to the burger menu, so kb navigation works for subitems
-@media screen and (max-width: 1000px), (hover: none) {
+@media screen and (max-width: $width1), (hover: none) {
 	#menu {position:relative;max-width: 100%;}
 	#menu a {color:$sivaSvetla}
 	#menu ul {background:$viola;position:absolute;top:100%;right:0;left:0;z-index:3;height:auto;display:none;text-align:left;}
