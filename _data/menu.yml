@@ -7,7 +7,7 @@ entries:
       - title: Pogosta vprašanja
         url: faq.html
       - title: Odtis spletne strani
-        url: stran.html
+        url: odtis-strani.html
   - title: Navodila
     url: navodila-za-ciscenje.html
     entries:
