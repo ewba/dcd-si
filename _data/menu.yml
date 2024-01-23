@@ -4,6 +4,8 @@ entries:
   - title: O akciji
     url: o-akciji.html
     entries:
+      - title: Kaj in zakaj?
+        url: o-akciji.html
       - title: Pogosta vprašanja
         url: faq.html
       - title: Odtis spletne strani
