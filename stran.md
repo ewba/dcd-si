@@ -18,6 +18,7 @@ Tipične napake:
 - **Prevelike in slabo stisnjene slike**, npr. v velikosti 900x300 pikslov, pri tem da bo na strani vedno prikazana v velikosti 300x100 (9x manjši). Uporaba modernih in vektorskih formatov lahko velikost še zmanjša.
 - **Videi**, ki začnejo avtomatsko igrati ob prikazu strani lahko porabijo ogromno podatkov; že sam Youtoubov predvajalnik je vreden slabi megabajt, skoraj polovico povprečne velikosti spletnih strani v letu 2022. Način, kako se jih vgrajuje v spletne strani pomeni, da ta se ta strošek ponovi z vsakim dodatnim videom.
 - Uporaba **neoptimizirane kode in ogrodij**. Večina spletnih strani v ozadju vsebuje precej balasta za redke vrste sistemov, redko obiskane podstrani, redke grafične elemente in redke interakcije. Ko ti deli niso naloženi po potrebi, le višajo odtis strani.
+- **Oglasi** tretjih strani upočasnujejo nalaganje in omogočajo sledenje uporabnikom pogosto tudi med brskanjem po drugih straneh.
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="max-width:285px">
