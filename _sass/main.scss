@@ -154,6 +154,19 @@ cite {
   float: right;
 }
 
+table {
+  margin: 0 auto;
+}
+th {
+  padding: 0.5em 1em;
+}
+td {
+  padding: 0.5em;
+}
+tbody>:nth-child(2n-1) {
+  background: #ddd;
+}
+
 @import 'footer';
 
 

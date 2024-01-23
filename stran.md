@@ -33,6 +33,34 @@ Skozi čas postaja zavedanje in delo na nižanju odtisa lažje. Brskalniki se ve
 
 
 <div class="block" markdown="1">
+## Kako se obnesejo najbolj popularne slovenske strani?
+
+V spodnji razpredelnici prikazujemo digitalni odtis nekaj najpogosteje obiskanih spletnih strani v Sloveniji. Najboljših podatkov za to nimamo, saj pri [SimilarWeb](https://www.similarweb.com/top-websites/) niso na voljo na ravni naše države, podatki [MOSS](https://www.moss-soz.si/rezultati/) pa so le za sodelujoče slovenske strani. Tako smo vzeli prvih deset iz seznama za julij 2023, ko so vse delovale brez odstopanj, in nekaj globalno najbolj pogosto obiskanih. Izključili smo Facebook, Instagram in Twitter, ki brez prijave ne prikazujejo vsebine, Google pa ostaja za ilustracijo odtisa na videz preproste strani. Prevladujejo novičarske strani, niso pa to vse, zato tudi niso vse primerljive med sabo.
+
+[Razredi učinkovitosti](https://sustainablewebdesign.org/digital-carbon-ratings/#toc-3) so definirani glede na popis strani v Internetnem Arhivu, odtis pa je izračunan z [Website Carbon Calculator](https://www.websitecarbon.com/) **za naslovno stran**.
+
+| Stran        | Digitalni odtis [g CO<sub>2</sub>eq] | Razred | Komentar |
+| ------------ | :---: | :----: | --------------------- |
+| google.com   | 0,20 | B | **bolje kot 79 % strani**
+| youtube.com  | 0,77 | E | slabše od 68 % strani
+| wikipedia.org | 0,02 | A+ | **bolje kot 98 % strani**
+| 24ur.com     | 0,68 | E | slabše od 63 % strani
+| siol.net     | 1,68 | F | slabše od 86 % strani
+| zurnal24.si  | 1,11 | F | slabše od 78 % strani
+| metropolitan.si | 0,82 | E | slabše od 69 % strani
+| svet24.si    | 0,86 | F | slabše od 71 % strani
+| rtvslo.si    | 0,36 | C | **bolje kot 62 % strani**
+| n1info.si    | 1,41 | F | slabše od 83 % strani
+| slovenskenovice.si | 0,89 | F | slabše od 72 % strani
+| delo.si      | 1,71 | F | slabše od 87 % strani
+| bolha.com    | 0,32 | B | **bolje kot 65 % strani**
+
+0,2 grama za Google ne izgleda dosti, a če pomislimo, da je stran decembra imela 84,2 milijard obiskov, to nanese za skoraj 17 tisoč ton izpustov, kar je približno toliko kot ustvari 2100 slovencev v enem letu. Z vidika porabe energije pa je zahtevalo za približno dva dni in pol delovanja naše jedrske elektrarne.
+
+</div>
+
+
+<div class="block" markdown="1">
 ## Strojna oprema in podatkovni centri
 
 Odtis spletnih strani ni odvisen samo od njihove zasnove in dodatne progamske opreme, ki je potrebna, da lahko dostopamo do njih. Računalniki (strežniki) in oprema, preko katerih so strani na voljo Internetu, s svojimi izpusti povezani s porabo energije in hlajenjem predstavljajo pomemben del digitalnega odtisa. Ker so s tem povezani tudi znatni stroški, obstaja veliko [kazalcev učinkovitosti](https://knowledge.sdialliance.org/data-center-metrics) podatkovnih centrov.
