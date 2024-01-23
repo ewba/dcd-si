@@ -10,7 +10,7 @@ Skoči na vprašanja o [konceptu projekta](#o-konceptu-projekta), [čiščenju](
 Nedvomno, ampak ne poznamo nikogar, ki bi slona pojedel v enem kosu! Zavedamo se, da z našo akcijo ne bomo rešili številnih okoljskih izzivov in njihovih posledic. Je pa to res enostaven korak in majhen košček v mozaiku, ki nas lahko navduši in motivira, da v svojih življenjih naredimo še kakšno bolj ambiciozno spremembo navad. 
 
 ### Kakšno korist imam od čiščenja digitalnih odpadkov?
-S čiščenjem pridobiš več prostora na tvojih elektronskih napravah, kar jim lahko izboljša delovanje in podaljša življenjsko dobo. Noro, ha? Čiščenje je tudi zelo enostaven ukrep, s katerim lahko zmanjšaš svoje emisije CO2. 
+S čiščenjem pridobiš več prostora na tvojih elektronskih napravah, kar jim lahko izboljša delovanje in podaljša življenjsko dobo. Noro, ha? Čiščenje je tudi zelo enostaven ukrep, s katerim lahko zmanjšaš svoje emisije CO<sub>2</sub>.
 
 ### Kako lahko nekaj datotek vpliva na odtis? Naši diski so ogromni!
 Ena povprečna datoteka bo spremenila bolj malo. Deset tudi. A kot "zrno na zrno pogača" bi lahko predvsem za spletne strežnike poenostavljeno rekli "datoteka na datoteko disk", "disk na disk strežnik" in tako dalje. Sploh ker računalniki datoteke, ki jih shranjujemo na Internet, v ozadju skopirajo na več drugih računalnikov, da ostanejo dostopni tudi ob okvari diska.
@@ -25,7 +25,7 @@ Digitalni odpadki predstavljalo le del digitalnega odtisa, kjer upoštevamo vse 
 
 ### Kako gresta skupaj digitalna čistilna akcija ter vzpostavitev nove spletne strani in digitalno komuniciranje o tem projektu?
 Podoben razmislek kot pri tiskanju knjig o manj odpadkih nas je vodil tudi pri postavitvi spletne strani in digitalnih komunikacijskih kanalov projekta. Za dosego ambicioznih ciljev je pač "nujno zlo", smo pa zato načrtovanju posvetili posebno pozornost, saj verjamemo v vodenje z zgledom. 
-Spletno stran smo že od začetka zasnovali z mislijo na nizek digitalni odtis in dostopnost. Ocena je na voljo v nogi posamezne strani, giblje pa se med 0,02 in 0,03 g CO2eq na obisk. To pomeni, da se uvršča v razred učinkovitosti A+ in je nižja od 95 % spletnih strani (v našem primeru 97 %). Več o tem v zavihku [Odtis spletne strani](odtis-strani.html). 
+Spletno stran smo že od začetka zasnovali z mislijo na nizek digitalni odtis in dostopnost. Ocena je na voljo v nogi posamezne strani, giblje pa se med 0,02 in 0,03 g CO<sub>2</sub>eq na obisk. To pomeni, da se uvršča v razred učinkovitosti A+ in je nižja od 95 % spletnih strani (v našem primeru 97 %). Več o tem v zavihku [Odtis spletne strani](odtis-strani.html#zgodba-nae-strani).
 
 
 ## O čiščenju
@@ -64,7 +64,7 @@ aaaa
 ### Čistimo s sodelavci. Ali se mora vključit tudi IT oddelek?
 Ni nujno. Če se s sodelavci lotite vsak svojih osebnih in službenih računalnikov, diskov, telefonov in mailov, za kar smo vam pripravili navodila, IT oddelka ne potrebujete. Če pa bi šli pri čiščenju korak dlje in se lotili tudi strežnikov podjetja in sistemskih datotek, je vključitev štručkotov nujna. 
 
-### Kako ste prišli do preračunov glede prihrankov CO2?
+### Kako ste prišli do preračunov glede prihrankov CO<sub>2</sub>?
 aaaaa
 
 ### V podjetju, kjer delam nas tematika zanima in bi se želeli dodatno angažirati.

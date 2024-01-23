@@ -2,6 +2,7 @@
 layout: default
 title: Odtis spletne strani
 ---
+
 <div class="block" markdown="1">
 ## {{ page.title }}
 
@@ -27,7 +28,7 @@ Tipične napake:
 	</div>
 </div>
 
-Nižji digitalni odtis spletne strani ne pomeni nujno odrekanja lepoti in funkcionalnosti. Podobno kot spletna varnost obstaja na spektru, kjer so na eni strani peresno lahke dvobarvne strani, na drugi pa pošasti, ki samo za drobno [ikono za brskalnik porabijo več megabajtov](https://iconmap.io/blog#speed-file-size--resolution). Vmes je polje, kjer se sprašujemo kakšno vrsto tehnologije uporabljati, koliko se nam mudi in ali sploh poznamo gradnike, s katerimi delamo.
+Nižji digitalni odtis spletne strani ne pomeni nujno odrekanja lepoti in funkcionalnosti. Podobno kot spletna varnost obstaja na spektru, kjer so na eni strani peresno lahke dvobarvne strani, na drugi pa pošasti, ki samo za drobno [ikono za brskalnik porabijo več megabajtov](https://iconmap.io/blog#speed-file-size--resolution). Vmes je polje, kjer se sprašujemo kakšno vrsto tehnologije uporabljati, koliko se nam mudi in ali sploh poznamo gradnike, s katerimi delamo. Velikost spletnih strani namreč [še kar raste](https://almanac.httparchive.org/en/2022/page-weight#request-bytes).
 
 Skozi čas postaja zavedanje in delo na nižanju odtisa lažje. Brskalniki se vedno bolj strinjajo glede funkcionalnosti, na voljo je vedno več namenskih orodij in nastajajo celo formalne [smernice za trajnostne strani](https://w3c.github.io/sustyweb/). Hkrati se še vedno viša zapletenost osnovnih tehnologij in ni redko, da spletne strani porabijo na stotine megabajtov pomnilnika (in več) za delovanje, kar zlahka upočasni celoten računalnik. Glede na primerjalno enostavnost spletnih strani in aplikacij napram navadnim namiznim, je to skoraj nerazumljivo. Pod črto ostaja še veliko dela na optimizaciji po celotni programski (in strojni!) vrednostni verigi.
 </div>
