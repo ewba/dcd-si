@@ -7,7 +7,7 @@ co2: "0,03"
 	<div style="">
 		<img src="assets/img/dcd-si-kv.webp" width="306" height="230" alt="key visual projekta" aria-hidden="true">
 	</div>
-	<div style="baorder: 1px solid green; max-width: 40%; color:white">
+	<div style="max-width: 40%; color:white">
 		<h2 style="color:white">Internet proizvede več emisij kot letalstvo!</h2>
 		<p>
 			Dobrodošel/a v digitalni različici akcije Očistimo Slovenijo, kjer bomo skupaj ustvarjali trajnostno digitalno prihodnost. Stopi korak naprej, očisti svoje digitalne naprave, zmanjšaj ogljični odtis in skupaj z nami oblikuj bolj trajnosten digitalni svet!
