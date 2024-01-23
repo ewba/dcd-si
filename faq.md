@@ -26,16 +26,36 @@ Spletno stran smo že od začetka zasnovali z mislijo na nizek digitalni odtis i
 ### Kdo stoji za akcijo?
 [Ekologi brez meja](https://ebm.si/glavna/web/), organizatorji treh čistilnih akcij Očistimo Slovenijo (tistih klasičnih čistilnih akcij, ko smo v naravi pobirali fizične odpadke.  Mimogrede, v svetovnem merilu imamo še vedno rekord udeležencev glede na število prebivalcev, opa!) in gonilna sila preprečevanja nastajanja odpadkov v Sloveniji. V mreži Let's do it, katere člani smo, so med pandemijo pričeli s spodbujanjem digitalnih čistilnih akcij in valu smo se pridružili tudi mi! V letu 2024 smo združili moči s komunikacijsko skupino O28, da bo glas o našem projektu segel tako daleč, kot si želimo.
 
-## O projektu
-### Koliko časa traja čiščenje?
+## O čiščenju
+### Kaj je digitalno čiščenje?
+aaa
+
+### Kaj je namen projekta?
+aaaa
+
+### Kdo in kako lahko sodeluje pri čiščenju?
+aaa
+
+### Nisem najbolj tehnološko vešč/a, a bi vseeno sodeloval/a. Bom znal/a?
+aaa
+
+### Koliko časa si moram vzeti za čiščenje?
 Čiščenje ti bo vzelo toliko časa, kot si ga boš vzel/a. Lahko izbrišeš le nekaj datotek in fotografij (hej, boljše kot nič!) ali pa se sistematično lotiš vseh svojih elektronskih naprav in dobiš značko digitalne/ga superjunaka/inje! :) Vseeno si želimo, da si za digitalno poliranje vzameš nekaj ur za vsako napravo.
 
 ### Kako vem, koliko sem izbrisal/a?
 Zapomni si prvi korak: preden karkoli izbrišeš, vedno najprej preveri in si zapiši začetno stanje! Natančna tekstovna in video navodila za to (in celotno nadaljnje čiščenje) smo ti pripravili [tukaj](https://ewba.github.io/dcd-si/navodila-za-ciscenje.html). Logičen zadnji korak pa je ponovno preverjanje količine pomnilnika. Podatke [vnesi v obrazec na spletni strani]({{ site.submitURL }}), kjer izveš še nekaj zanimivih primerjav.
 
+### Izbrisal/a sem 150 GB. Kako in kdaj naj sporočil svoje rezultate? 
+
+
+## Čiščenje skupin
+### Kako lahko v čiščenje vključim tudi svoje sorodnike, prijatelje, sodelavce?
+
 ### Čistimo s sodelavci. Ali se mora vključit tudi IT oddelek?
 Ni nujno. Če se s sodelavci lotite vsak svojih osebnih in službenih računalnikov, diskov, telefonov in mailov, za kar smo vam pripravili navodila, IT oddelka ne potrebujete. Če pa bi šli pri čiščenju korak dlje in se lotili tudi strežnikov podjetja in sistemskih datotek, je vključitev štručkotov nujna. 
 
+### Kako ste prišli do preračunov glede prihrankov CO2?
+Ni nujno. Če se s sodela
 
-### q
-aaaaaa
+### V podjetju, kjer delam nas tematika zanima in bi se želeli dodatno angažirati.
+
