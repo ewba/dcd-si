@@ -30,19 +30,19 @@ Spletno stran smo že od začetka zasnovali z mislijo na nizek digitalni odtis i
 
 ## O čiščenju
 ### Kaj je digitalno čiščenje?
-aaa
+Ne, to ne pomeni brisanje prahu z monitorjev računalnika! Gre za čiščenje nepotrebnih datotek, fotografij, aplikacij in drugih podatkov/odpadkov, ki nastajajo v digitalnem svetu in - marsikdo tega ne ve - porabljajo ogromno energije, kar pomeni emisije toplogrednih plinov! 
 
-### Kaj je namen projekta?
-aaaa
+### Kaj je cilj projekta?
+Naši cilji so odstraniti čim več odvečnih podatkov in dvigniti ozaveščenost od digitalnih podatkih/odpadkih. Poskrbeti pa želimo tudi za preventivo in preprečiti kopičenje digitalnih odpadkov v prihodnosti. Navdihniti vse, da svoje skrbno ravnanje do okolja prenesejo iz fizičnega v digitalni svet, za to navdušijo svoje družine, prijatelje, znance, poslovne partnerje in druge, ki jih obkrožajo ter s svojim zgledom navdihujejo vse generacije, ki jim sledijo!
 
 ### Kdo stoji za projektom?
 [Ekologi brez meja](https://ebm.si/), organizatorji treh čistilnih akcij Očistimo Slovenijo (tistih klasičnih čistilnih akcij, ko smo v naravi pobirali fizične odpadke.  Mimogrede, v svetovnem merilu imamo še vedno rekord udeležencev glede na število prebivalcev, opa!) in gonilna sila preprečevanja nastajanja odpadkov v Sloveniji. V mreži *Let's do it*, katere člani smo, so med pandemijo pričeli s spodbujanjem digitalnih čistilnih akcij in valu smo se pridružili tudi mi! V letu 2024 smo združili moči s komunikacijsko skupino O28, da bo glas o našem projektu segel tako daleč, kot si želimo.
 
 ### Kdo in kako lahko sodeluje pri čiščenju?
-aaa
+Vsi. Ne glede na to, ali ste podjetje, izobraževalna ustanova, občina, društvo ali državljan, lahko ukrepate. Več ko nas bo čistilo, večji bo učinek. Digitalno čiščenje Slovenije je brezplačen dogodek, vsa navodila in gradiva so dostopna na tej spletni strani vsem.
 
 ### Nisem najbolj tehnološko vešč/a, a bi vseeno sodeloval/a. Bom znal/a?
-aaa
+Seveda! Pripravili smo brezplačna podrobna video in tekstovna [navodila](https://ewba.github.io/dcd-si/navodila-za-ciscenje.html), ki te vodijo čez vse potrebne korake. Ne pozabi nam po čiščenju sporočiti, [koliko si izbrisal/a]({{ site.submitURL }}). 
 
 ### Koliko časa si moram vzeti za čiščenje?
 Čiščenje ti bo vzelo toliko časa, kot si ga boš vzel/a. Lahko izbrišeš le nekaj datotek in fotografij (hej, boljše kot nič!) ali pa se sistematično lotiš vseh svojih elektronskih naprav in dobiš značko digitalne/ga superjunaka/inje! :) Vseeno si želimo, da si za digitalno poliranje vzameš nekaj ur za vsako napravo.
@@ -50,22 +50,21 @@ aaa
 ### Kako vem, koliko sem izbrisal/a?
 Zapomni si prvi korak: preden karkoli izbrišeš, vedno najprej preveri in si zapiši začetno stanje! Natančna tekstovna in video navodila za to (in celotno nadaljnje čiščenje) smo ti pripravili [tukaj](navodila-za-ciscenje.html). Logičen zadnji korak pa je ponovno preverjanje količine pomnilnika. Podatke [vnesi v obrazec na spletni strani]({{ site.submitURL }}), kjer izveš še nekaj zanimivih primerjav.
 
-### Izbrisal/a sem 150 GB. Kako in kdaj naj sporočil svoje rezultate? 
-aaaa
+### Izbrisal/a sem 150 GB. Kako in kdaj naj sporočim svoje rezultate? 
+Najprej, čestitke, takšne rabimo! Tvoj rezultat nam sporoči z oddajo rezultatov na [spletni strani]({{ site.submitURL }}) do 16. marca do 16.00 ure - v tem primeru bo tvoj prispevek prištet kolektivnemu rezultatu, ki ga bomo javno komunicirali po zaključku letošnje akcije. 
 
-### Koliko časa traja čiščenje?
+### Koliko časa traja akcija?
 Za digitalno higieno je smiselno skrbeti sproti. Skupni rezultati bodo objavljeni pomladi, če pa vaše rezultate sporočite po roku, bodo upoštevani v naslednjem letu.
 
 
 ## Čiščenje za skupine
 ### Kako lahko v čiščenje vključim tudi svoje sorodnike, prijatelje, sodelavce?
-aaaa
+Seveda! Več kot nas bo čistilo, bolje bo in lažje bomo dosegli cilje. Če želiš v čiščenje vključiti svoje drage, si poglej tudi posebna navodila, ki smo jih pripravili za [šole](https://ewba.github.io/dcd-si/sola.html), [podjetja](https://ewba.github.io/dcd-si/podjetje.html) in [druge organizacije](https://ewba.github.io/dcd-si/druge-organizacije.html).
 
 ### Čistimo s sodelavci. Ali se mora vključit tudi IT oddelek?
-Ni nujno. Če se s sodelavci lotite vsak svojih osebnih in službenih računalnikov, diskov, telefonov in mailov, za kar smo vam pripravili navodila, IT oddelka ne potrebujete. Če pa bi šli pri čiščenju korak dlje in se lotili tudi strežnikov podjetja in sistemskih datotek, je vključitev štručkotov nujna. 
-
-### Kako ste prišli do preračunov glede prihrankov CO<sub>2</sub>?
-aaaaa
+Ni nujno. Če se s sodelavci lotite vsak svojih osebnih in službenih računalnikov, diskov, telefonov in mailov, za kar smo vam pripravili navodila, IT oddelka ne potrebujete. Če pa bi šli pri čiščenju korak dlje in se lotili tudi strežnikov podjetja in sistemskih datotek, je vključitev stručkotov nujna. 
 
 ### V podjetju, kjer delam nas tematika zanima in bi se želeli dodatno angažirati.
-aaaa
+Krasno! Za naše podpornike poleg internih in eksternih ozaveščevalnih aktivnosti izvajamo aktivacije po izbiri, podpiramo jih pri pripravi strategije upravljanja z digitalnimi odpadki, podporniki pa lahko sodelujejo tudi pri strokovni skupini projekta. Sporočite nam vaše želje in skupaj bomo poiskali način sodelovanja, ki bo ustrezal vsem.
+
+### Kako ste prišli do preračunov glede prihrankov CO<sub>2</sub>?
