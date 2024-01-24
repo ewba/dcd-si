@@ -1,7 +1,6 @@
 - domene
 - testiraj a je boljši rezultat pri nas al na ghp
 
-- v mapi sponzorji je mapa Logotipi
 - 360px @media, leftovers v main.scss
 
 
@@ -18,6 +17,7 @@ Na koncu:
 
 
 Kasneje:
+- logoti podpornikov, v mapi sponzorji je mapa Logotipi
 - dark mode
 - vprašaj internet archive glede njihovih praks, deduplikacije
 - energetika: crypto in AI

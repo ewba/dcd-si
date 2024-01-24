@@ -63,8 +63,14 @@ Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se
 
 </div>
 
+{% comment %}
 <div class="block para">
 <h2>Podporniki projekta</h2>
+tera
+giga
+mega
+kilo
 
 /skupek logotipov/
 </div>
+{% endcomment %}
