@@ -64,7 +64,7 @@ Za digitalno higieno je smiselno skrbeti sproti. Skupni rezultati bodo objavljen
 Seveda! Več kot nas bo čistilo, bolje bo in lažje bomo dosegli cilje. Če želiš v čiščenje vključiti svoje drage, si poglej tudi posebna navodila, ki smo jih pripravili za [šole](https://ewba.github.io/dcd-si/sola.html), [podjetja](https://ewba.github.io/dcd-si/podjetje.html) in [druge organizacije](https://ewba.github.io/dcd-si/druge-organizacije.html).
 
 ### Čistimo s sodelavci. Ali se mora vključit tudi IT oddelek?
-Ni nujno. Če se s sodelavci lotite vsak svojih osebnih in službenih računalnikov, diskov, telefonov in mailov, za kar smo vam pripravili navodila, IT oddelka ne potrebujete. Če pa bi šli pri čiščenju korak dlje in se lotili tudi strežnikov podjetja in sistemskih datotek, je vključitev stručkotov nujna. 
+Ni nujno. Če se s sodelavci lotite vsak svojih osebnih in službenih računalnikov, diskov, mobilnih naprav in mailov, za kar smo vam pripravili navodila, IT oddelka ne potrebujete. Če pa bi šli pri čiščenju korak dlje in se lotili tudi strežnikov podjetja in sistemskih datotek, je vključitev stručkotov nujna. 
 
 ### V podjetju, kjer delam nas tematika zanima in bi se želeli dodatno angažirati.
 Krasno! Za naše podpornike poleg internih in eksternih ozaveščevalnih aktivnosti izvajamo aktivacije po izbiri, podpiramo jih pri pripravi strategije upravljanja z digitalnimi odpadki, podporniki pa lahko sodelujejo tudi pri strokovni skupini projekta. Sporočite nam vaše želje in skupaj bomo poiskali način sodelovanja, ki bo ustrezal vsem.
