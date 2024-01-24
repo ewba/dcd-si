@@ -3,7 +3,9 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <meta name="description" content="Spletna stran projekta Očistimo Slovenijo digitalnih odpadkov">
+    {% assign description = "Spletna stran projekta Očistimo Slovenijo digitalnih odpadkov" %}
+    <meta name="description" content="{{ description }}">
+    <meta name="og:description" content="{{ page.meta-description | default: description }}">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,10 +20,14 @@
     <meta name="theme-color" content="#ffffff">
 
     {% if page.title %}
-      <title>{{ page.title }} - {{ site.title }}</title>
+      {% assign title = page.title | append: " - " | append: site.title %}
     {% else %}
-      <title>{{ site.title }}</title>
+      {% assign title = site.title %}
     {% endif %}
+    <title>{{ title }}</title>
+    <meta property="og:title" content="{{ page.meta-title | default: title }}" />
+    <meta property="og:image" content="{{ page.meta-image | default: "/assets/img/dcd-si-kv.webp" | absolute_url }}" />
+
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     {% if page.css %}
       <link rel="stylesheet" href="{{ "/assets/css/" | append: page.css | relative_url }}">
@@ -39,7 +45,7 @@
     </nav>
 
     <div class="submitData">
-      <a href="#">{{ site.data.text.submitResults }}</a>
+      <a href="zabelezi-rezultate.html">{{ site.data.text.submitResults }}</a>
     </div>
 
     <h1>{{ site.data.text.mainTitle }}</h1>
