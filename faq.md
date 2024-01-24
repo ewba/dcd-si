@@ -12,7 +12,7 @@ Imate še kakšno vprašanje? Pišite nam na info@ocistimo.si.
 Nedvomno, ampak ne poznamo nikogar, ki bi slona pojedel v enem kosu! Zavedamo se, da z našo akcijo ne bomo rešili številnih okoljskih izzivov in njihovih posledic. Je pa to res enostaven korak in majhen košček v mozaiku, ki nas lahko navduši in motivira, da v svojih življenjih naredimo še kakšno bolj ambiciozno spremembo navad. 
 
 ### Kakšno korist imam od čiščenja digitalnih odpadkov?
-S čiščenjem pridobiš več prostora na tvojih elektronskih napravah, kar jim lahko izboljša delovanje in podaljša življenjsko dobo. Noro, ha? Čiščenje je tudi zelo enostaven ukrep, s katerim lahko zmanjšaš svoje emisije CO<sub>2</sub>.
+S čiščenjem pridobiš več prostora na tvojih elektronskih napravah, kar jim lahko izboljša delovanje in podaljša življenjsko dobo. Noro, ha? Čiščenje je tudi zelo enostaven ukrep, s katerim lahko zmanjšaš svoje emisije CO<sub>2</sub>. Pomembno je tudi z vidika ohranjanja zasebnosti oz. varnosti naprav.
 
 ### Kako lahko nekaj datotek vpliva na odtis? Naši diski so ogromni!
 Ena povprečna datoteka bo spremenila bolj malo. Deset tudi. A kot "zrno na zrno pogača" bi lahko predvsem za spletne strežnike poenostavljeno rekli "datoteka na datoteko disk", "disk na disk strežnik" in tako dalje. Sploh ker računalniki datoteke, ki jih shranjujemo na Internet, v ozadju skopirajo na več drugih računalnikov, da ostanejo dostopni tudi ob okvari diska.
