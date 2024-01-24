@@ -171,7 +171,7 @@ tbody>:nth-child(2n-1) {
 
 @media print {
   .submitData, nav, footer > div > div:nth-of-type(2), footer > div > div:nth-of-type(3), .youtube-player, #sedecko, #postfoot { display: none; }
-  * { color: black !important; }
+  * { color: black !important; background-color: white; }
   p, ul { font-size: 0.9rem; }
   h1 { text-align: center; }
   .container > .block { padding: 0; border-radius: 0; box-shadow: none; }
