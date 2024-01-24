@@ -70,3 +70,5 @@ Ni nujno. Če se s sodelavci lotite vsak svojih osebnih in službenih računalni
 Krasno! Za naše podpornike poleg internih in eksternih ozaveščevalnih aktivnosti izvajamo aktivacije po izbiri, podpiramo jih pri pripravi strategije upravljanja z digitalnimi odpadki, podporniki pa lahko sodelujejo tudi pri strokovni skupini projekta. Sporočite nam vaše želje in skupaj bomo poiskali način sodelovanja, ki bo ustrezal vsem.
 
 ### Kako ste prišli do preračunov glede prihrankov CO<sub>2</sub>?
+
+Pogrešate odgovor na še kakšno vprašanje? Pišite nam na info@ocistimo.si in z veseljem odgovorimo!
