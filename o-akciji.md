@@ -5,12 +5,13 @@ css: carousel.css
 ---
 
 <div class="block" markdown="1">
-## Kaj je akcija Očistimo Slovenija digitalnih odpadkov?
-Ekologi brez meja smo leta 2018 akciji Očistimo Slovenijo rekli ‘še zadnjič’. Takrat smo lahko zgolj slutili, da nam bodo v prihodnjih letih preglavice povzročali tudi nevidni odpadki v obliki datotek, aplikacij, e-sporočil in druge digitalne nesnage.
+## Kaj je akcija Očistimo Slovenija digitalnih odpadkov? 
 
-Čas epidemije, ko skupinske čistilne akcije niso bile mogoče, je v mreži Let’s do it!, katere člani smo, sprožil razmislek o našem digitalnem odtisu in gibanje je pričelo spodbujati k digitalnim čistilnim akcijam.
+Ekologi brez meja smo leta 2018 akciji Očistimo Slovenijo rekli ‘še zadnjič’. Takrat smo lahko zgolj slutili, da nam bodo v prihodnjih letih preglavice povzročali tudi nevidni odpadki v obliki datotek, aplikacij, e-sporočil in druge digitalne nesnage. Ti so še posebej prišli do izraza v času epidemije, ko skupinske čistilne akcije niso bile mogoče. V mreži Let’s do it!, katere člani smo, so takrat pričeli spodbujati k digitalnim čistilnim akcijam.
 
-V letu 2024, prvem letu akcije Očistimo Slovenijo digitalnih odpadkov, smo združili moči s komunikacijsko skupino o28, Ministrstvom za digitalno preobrazbo in številnimi podjetji pri **vseslovenski pobudi najlažje čistilne akcije na svetu**. Zdaj potrebujemo tebe in vse vas, da Slovenija pri čiščenju ponovno prevzame primat in postavi tudi digitalni rekord. Čiščenje bo potekalo vse do 16. marca, ko bomo sporočili slovenske rezultate. Sodeluješ lahko kot posameznik, k čiščenju pozoveš še družinske člane in prijatelje ali pa sodeluješ v okviru šole, podjetja ali kakšne druge organizacije.
+V letu 2024, prvem letu akcije Očistimo Slovenijo digitalnih odpadkov, smo združili moči s komunikacijsko skupino o28, Ministrstvom za digitalno preobrazbo in številnimi podjetji pri **vseslovenski pobudi najlažje čistilne akcije na svetu**. Gre za množično čiščenje naših elektronskih naprav, diskov in e-poštnih predalov v želji pobrisati karseda veliko digitalne navlake. Čistiš lahko kadarkoli sam/a ali pa se organiziraš z družbo prijateljev, sorodnikov, sodelavcev - vsa navodila smo zbrali na tej spletni strani. 
+
+Zdaj potrebujemo tebe in vse vas, da Slovenija pri čiščenju ponovno prevzame primat in postavi tudi digitalni rekord.
 </div>
 
 <div class="block" markdown="1">
