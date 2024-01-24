@@ -4,10 +4,10 @@ co2: "0,03"
 ---
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center; margin-bottom: 1em">
-	<div style="">
+	<div>
 		<img src="assets/img/dcd-si-kv.webp" width="306" height="230" alt="key visual projekta" aria-hidden="true">
 	</div>
-	<div style="max-width: 40%; color:white">
+	<div id="intro">
 		<h2 style="color:white">Internet proizvede več emisij kot letalstvo!</h2>
 		<p>
 			Dobrodošel/a v digitalni različici akcije Očistimo Slovenijo, kjer bomo skupaj ustvarjali trajnostno digitalno prihodnost. Stopi korak naprej, očisti svoje digitalne naprave, zmanjšaj ogljični odtis in skupaj z nami oblikuj bolj trajnosten digitalni svet!
@@ -27,7 +27,7 @@ Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se
 <div class="block para" style="padding-bottom: 2.5rem">
 <h2>Cilji akcije</h2>
 
-<div style="display:grid; justify-content: center; gap: 1rem 2rem; grid-template-columns: repeat(2, 1fr); width: 77%">
+<div id="cilji" style="display:grid; justify-content: center;">
 	<div style="justify-self: end; align-self: center;margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px;">
 		<img src="assets/img/ff/png.webp" alt="okras seznama" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
 	</div>
