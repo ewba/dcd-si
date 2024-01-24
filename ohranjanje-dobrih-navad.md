@@ -23,7 +23,7 @@ V hitrem življenjskem tempu je digitalna prisotnost ključna za naše vsakodnev
 ### Brskanje in ogled spletnih vsebin
 - Z uporabo brskalnika <a href="https://www.ecosia.org/" target="_blank" rel="noopener">Ecosia</a> lahko prispevaš k sajenju dreves. 
 - **Izklopi kamero** med spletnimi sestanki, sploh ko kdo deli zaslon, saj se s tem **izogneš kar 96 % emisijam**!
-- **Glej** svojo najljubšo serijo ali videoposnetek **v standardni kakovosti**, saj pretakanje v visoki ločjivosti **porabi 86 % več energije**. 
+- **Glej** svojo najljubšo serijo ali videoposnetek **v standardni kakovosti**, saj pretakanje v visoki ločjivosti **porabi 86 % več energije**. Če na videoplatformah zgolj poslušaš glasbo, kakovost videa ni pomembna in jo nastavi na najmanjšo možno. 
 - Namesto **iskanja spletnih strani**, ki jih pogosto uporabljaš, jih shrani **med zaznamke**, saj velik del spletnih iskalcev ni usmerjen v iskanje novih informacij, temveč nas vrača na spletne strani, ki smo jih že iskali in s tem **vsako novo iskanje povzroči emisije CO<sub>2</sub>**. 
 - Življenje velikokrat ni črno-belo, ampak **vklop ‘temnega’ načina** bo za tvoje elektronske naprave pravi balzam. 
 
