@@ -5,6 +5,8 @@ title: Pogosta vprašanja
 
 Skoči na vprašanja o [konceptu projekta](#o-konceptu-projekta), [čiščenju](#o-čiščenju) in [skupinskem čiščenju](#čiščenje-za-skupine).
 
+Imate še kakšno vprašanje? Pišite nam na info@ocistimo.si.
+
 ## O konceptu projekta
 ### Ali nimamo na svetu več drugih bolj pomembnih okoljskih izzivov?
 Nedvomno, ampak ne poznamo nikogar, ki bi slona pojedel v enem kosu! Zavedamo se, da z našo akcijo ne bomo rešili številnih okoljskih izzivov in njihovih posledic. Je pa to res enostaven korak in majhen košček v mozaiku, ki nas lahko navduši in motivira, da v svojih življenjih naredimo še kakšno bolj ambiciozno spremembo navad. 
