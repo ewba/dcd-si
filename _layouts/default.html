@@ -27,6 +27,7 @@
     <title>{{ title }}</title>
     <meta property="og:title" content="{{ page.meta-title | default: title }}" />
     <meta property="og:image" content="{{ page.meta-image | default: "/assets/img/dcd-si-kv.webp" | absolute_url }}" />
+    <meta property="og:type" content="article" />
 
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     {% if page.css %}

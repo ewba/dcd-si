@@ -82,20 +82,3 @@ Ekologi brez meja verjamemo v vodenje z zgledom, zato smo že od začetka zasnov
 Stran je zgrajena s pomočjo Jekylla, kar pomeni, da so podstrani zgenerirane enkrat in neposredno postrežene uporabnikom. Tako odpadejo dodatni vmesni strežniki (npr. PHP in MySQL za CMS), kar izboljša hitrost in učinkovitost. Markdown pomeni tudi lažje urejanje napram čistemu HTML-ju. Za grafične elemente sta uporabljena WEBP in SVG formata, čeprav ju ne podpirajo prav čisto vsi brskalniki. Oblikovanje je spisano iz nule, dodatni CSS pa je naložen po potrebi prek oznake v frontmatter. Preverjanje učinkovitosti je potekalo z Lighthouse.
 
 Za video predvajalnik je uporabljen trik: prvotno je prikazana le slika in ponarejen gumb za predvajanje. Šele ob kliku se naloži predvajalnik, video pa sam zažene, tako da uporabnik niti ne opazi razlike. Na strani z enim videom je to velikost zmanjšalo iz 1311 kB na 146 kB (za 89 %), pri dveh pa iz 2437 kB na 167 kB (za 93 %). Z vidika odtisa to izmerjeno pomeni zdesetkanje in približno zdvajsetkanje!
-
-{%comment%}
-
-	Calculating what the CO2eqv impact is per GB (there's three models which vary depending on how much they assign to the network, end devices and data centres) - https://research.screen.is/net-zero/Digital%20CO2%20analysis?stackedPages=%2Fnet-zero%2FModelling)
-
-	Crazy stat - ICT could amount to 14% of 2016 CO2eqv emissions by 2040 (aviation is 2%) https://www.sciencedirect.com/science/article/abs/pii/S095965261733233X?via%3Dihub. It's currently between 2.1% and 3.9% of global greenhouse gas (GHG) emissions – more than aviation or shipping.
-	Website Carbon Calculator - https://www.websitecarbon.com/
-	GWF's hosting directory is good as it helps separate hosts that actually use clean energy and those that claim to be green because they buy offsets https://www.thegreenwebfoundation.org/directory/
-	Climate Action Tech has a very good Slack channel (as someone who doesn't like Slack) and good weekly newsletter - https://climateaction.tech/. Mix of FAANG workers trying to improve their products, FOSS, green energy startups, govt, etc
-	Repair don't replace your kit "before you start using a piece of electronic equipment, it has already emitted 70% of its lifetime CO2" - https://research.screen.is/?stackedPages=%2Fnet-zero%2FNet-zero%20online%20video&stackedPages=%2Fnet-zero%2FLifecycle%20analysis
-	Are your data centre's low emissions because it's water cooled? https://time.com/5814276/google-data-centers-water/
-
-	Overall, the information and communication industry (ICT) makes up between 2.1% and 3.9% of global greenhouse gas emissions. https://www.sciencedirect.com/science/article/pii/S2666389921001884
-
-	This includes electronic equipment and infrastructural facilities such as data centres, servers and networks. By 2040 ICT could amount to 14% of CO2 equivalent emissions - which ranks its contribution to global warming higher than aviation or shipping. https://www.sciencedirect.com/science/article/abs/pii/S095965261733233X?via%3Dihub
-
-{%endcomment%}
