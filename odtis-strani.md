@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Odtis spletne strani
+co2: "0,03"
 ---
 
 <div class="block" markdown="1">
@@ -68,6 +69,15 @@ V spodnji razpredelnici prikazujemo digitalni odtis nekaj najpogosteje obiskanih
 Odtis spletnih strani ni odvisen samo od njihove zasnove in dodatne progamske opreme, ki je potrebna, da lahko dostopamo do njih. Računalniki (strežniki) in oprema, preko katerih so strani na voljo Internetu, s svojimi izpusti povezani s porabo energije in hlajenjem predstavljajo pomemben del digitalnega odtisa. Ker so s tem povezani tudi znatni stroški, obstaja veliko [kazalcev učinkovitosti](https://knowledge.sdialliance.org/data-center-metrics) podatkovnih centrov.
 
 Starejše (2011) ocene sektorja so presenetljive: **skoraj vsak tretji** strežnik priklopljen na Internet naj ne bi bil v rabi, **izkoristek** strojne opreme pa **le okoli petinski**. Z napredkom virtualizacije, kjer na enem fizičnem računalniku teče več virtualnih, se je izkoristek zagotovo izboljšal, a osnovni problem še vedno ostaja. Veliko podjetij in drugih organizacij uporablja lastno infrastrukturo, kar pogosto pomeni slabo izkoriščenost. To povečuje potrebo po strojni opremi, kar znatno vpliva na ogljični odtis. Ocena Siddik in Sehab (2021) je, da je razlika v ogljični intenzivnosti med lastnim strežnikom in kolociranim trikratna, v velepodatkovnih ("hyperscale") centrih pa še 60% nižja od tega!
+
+Hkrati je dobro vprašanje, kaj dejansko shranjujemo v podatkovnih centrih. Po Al Kez et al (2022) je [le 14 % shranjenih podatkov](https://www.sciencedirect.com/science/article/pii/S0959652622032115) dejansko pomembnih, do polovice nikoli dostopamo, preostali pa so tik pred iztekom uporabnosti.
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="max-width:535px">
+		<img height="317" width="535" src="assets/img/al-kez-dark-data.jpg" alt="Vrste podatkov po uporabnosti">
+		<div style="font-size:0.9rem; font-style:italic;text-align: center;">Vrste podatkov po uporabnosti, Al Kez et al v <a href="https://www.sciencedirect.com/science/article/pii/S0959652622032115" target="_blank" rel="noopener">Exploring the sustainability challenges facing digitalization and internet data centers</a></div>
+	</div>
+</div>
+
 </div>
 
 

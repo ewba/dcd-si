@@ -17,7 +17,9 @@ S čiščenjem pridobiš več prostora na tvojih elektronskih napravah, kar jim 
 ### Kako lahko nekaj datotek vpliva na odtis? Naši diski so ogromni!
 Ena povprečna datoteka bo spremenila bolj malo. Deset tudi. A kot "zrno na zrno pogača" bi lahko predvsem za spletne strežnike poenostavljeno rekli "datoteka na datoteko disk", "disk na disk strežnik" in tako dalje. Sploh ker računalniki datoteke, ki jih shranjujemo na Internet, v ozadju skopirajo na več drugih računalnikov, da ostanejo dostopni tudi ob okvari diska.
 
-Za ilustracijo: že leta 2016 so uporabniki na Youtube vsako minuto naložili čez 400 ur videoposnetkov, kar je zahtevalo za [1 milijon gigabajtov novih diskov vsak dan](https://cloud.google.com/blog/products/gcp/google-seeks-new-disks-for-data-centers/). Če poenostavimo, da imajo današnji diski na voljo 1000 gigabajtov prostora, to pomeni 1000 novih diskov na dan, brez upoštevanja kopij in kvarjenja starih diskov. 
+Za ilustracijo: že leta 2016 so uporabniki na Youtube vsako minuto naložili čez 400 ur videoposnetkov, kar je zahtevalo za [1 milijon gigabajtov novih diskov vsak dan](https://cloud.google.com/blog/products/gcp/google-seeks-new-disks-for-data-centers/). Če poenostavimo, da so imeli takrat diski na voljo 500 gigabajtov prostora, to pomeni 2000 novih diskov na dan, brez upoštevanja kopij in kvarjenja starih diskov.
+
+Našli smo ocene, da do 90 % podatkov po treh mesecih ne dostopamo več in da je [le 14 % shranjenih podatkov](https://www.sciencedirect.com/science/article/pii/S0959652622032115) dejansko pomembnih, kar le še potencira problem neučinkovite rabe.
 
 ### Ampak digitalizacija je dobra, prinaša več koristi!?
 Projekt ni uperjen proti digitalizaciji ali sektorju IKT. Ne zagovarjamo vračanja nazaj v jame ob luči bakel in zvokovih kamnitih orodij, le smotrno rabo. Zavedamo se prednosti digitalizacije, a je nujno, da oblikujemo trajnostne digitalne navade in da tudi z dobrimi navadami digitalnega čiščenja ublažimo večjo porabo virov.
@@ -28,6 +30,9 @@ Digitalni odpadki predstavljalo le del digitalnega odtisa, kjer upoštevamo vse 
 ### Kako gresta skupaj digitalna čistilna akcija ter vzpostavitev nove spletne strani in digitalno komuniciranje o tem projektu?
 Podoben razmislek kot pri tiskanju knjig o manj odpadkih nas je vodil tudi pri postavitvi spletne strani in digitalnih komunikacijskih kanalov projekta. Za dosego ambicioznih ciljev je pač "nujno zlo", smo pa zato načrtovanju posvetili posebno pozornost, saj verjamemo v vodenje z zgledom. 
 Spletno stran smo že od začetka zasnovali z mislijo na nizek digitalni odtis in dostopnost. Ocena je na voljo v nogi posamezne strani, giblje pa se med 0,02 in 0,03 g CO<sub>2</sub>eq na obisk. To pomeni, da se uvršča v razred učinkovitosti A+ in je nižja od 95 % spletnih strani (v našem primeru 97 %). Več o tem v zavihku [Odtis spletne strani](odtis-strani.html#zgodba-nae-strani).
+
+### Kako ste prišli do preračunov glede prihrankov CO<sub>2</sub>?
+Podatke črpamo iz različnih [študij](https://www.sciencedirect.com/science/article/pii/S0959652622032115), [poročil](https://theshiftproject.org/wp-content/uploads/2023/02/TSP_5G_SYNTHESIS_ENG.pdf) in [standardov](https://developers.thegreenwebfoundation.org/co2js/explainer/methodologies-for-calculating-website-carbon/).
 
 
 ## O čiščenju
@@ -69,6 +74,5 @@ Ni nujno. Če se s sodelavci lotite vsak svojih osebnih in službenih računalni
 ### V podjetju, kjer delam nas tematika zanima in bi se želeli dodatno angažirati.
 Krasno! Za naše podpornike poleg internih in eksternih ozaveščevalnih aktivnosti izvajamo aktivacije po izbiri, podpiramo jih pri pripravi strategije upravljanja z digitalnimi odpadki, podporniki pa lahko sodelujejo tudi pri strokovni skupini projekta. Sporočite nam vaše želje in skupaj bomo poiskali način sodelovanja, ki bo ustrezal vsem.
 
-### Kako ste prišli do preračunov glede prihrankov CO<sub>2</sub>?
 
 Pogrešate odgovor na še kakšno vprašanje? Pišite nam na info@ocistimo.si in z veseljem odgovorimo!

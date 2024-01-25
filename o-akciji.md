@@ -27,7 +27,7 @@ Ogljični odtis digitalnih aktivnosti se nanaša na količino toplogrednih plino
 - <strong>Zasnova programskih rešitev</strong>: neučinkovitost pomeni višjo porabo naravnih virov ter večjo potrebo po in hitrejše trošenje strojne opreme.
 - <strong>Vzorci uporabe</strong>: različni načini uporabe enih in istih digitalnih rešitev imajo lahko zelo različne ogljične odtise.
 
-Po nekaterih ocenah naj bi digitalne tehnologije, vključno z informacijsko tehnologijo in komunikacijskimi omrežji, prispevale k približno 2-3% svetovnih izpustov toplogrednih plinov. To je podobno količini izpustov, ki jih proizvede letalski promet.
+Po različnih ocenah naj bi digitalne tehnologije, vključno z informacijsko tehnologijo in komunikacijskimi omrežji, prispevale k 4-5% svetovnih izpustov toplogrednih plinov v 2023, njihov delež pa zraste za približno [6 % na leto](https://theshiftproject.org/wp-content/uploads/2023/02/TSP_5G_SYNTHESIS_ENG.pdf). To je že več izpustov, kot jih proizvede letalski promet.
 
 <blockquote cite="https://gerrymcgovern.com/books/world-wide-waste/">
   »Digitalno je fizično. Digitalno ni zeleno. Digital stane Zemljo. Vsakič, ko prenesem e-pošto, prispevam h globalnemu segrevanju. Vsakič, ko tvitam, iščem, preverjam spletno stran, ustvarim onesnaženje. Digitalno je fizično. Ti podatkovni centri niso v oblaku. Na kopnem so v ogromnih fizičnih zgradbah, polnih računalnikov, lačnih energije. Zdi se nevidno. Zdi se poceni in brezplačno. Ni. Digital stane Zemljo.«
