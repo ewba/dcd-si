@@ -10,10 +10,10 @@ title: Navodila za čiščenje
 		<a href="eposta.html">E-pošta</a>
 	</button>
 	<button>
-		<a href="datoteke.html">Datoteke na računalnikih in diskih</a>
+		<a href="datoteke.html">Računalnik in Drive</a>
 	</button>
 	<button>
-		<a href="telefon.html">Telefoni in tablice</a>
+		<a href="telefon.html">Telefon in tablica</a>
 	</button>
 </div>
 
