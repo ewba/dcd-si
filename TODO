@@ -1,16 +1,14 @@
 - domene
 - testiraj a je boljši rezultat pri nas al na ghp
 
-- preveri, če je potreben še kak vmesni @media
-
 
 Čaka na vsebino:
 - gumb prenesi gradiva na šolska gradiva
 - zabeleži rezultate - povezava
-  - podstrani
+  - podstrani + popravi povezave na podstraneh
 - varnost (duplikati višajo šanse za leake) in zasebnost
 - še bolj kontekstualiziraj emisijske/vplivne podatke
-  + kje vse nastaja, kje so točke preloma (disk -> slice -> rack ...)
+- popravi podatek o % sektorja - v EOLU: WEF digitalni sektor do 5,9%; Boston Consulting Group 2x air traffic
 
 
 Na koncu:
