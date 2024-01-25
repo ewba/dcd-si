@@ -41,4 +41,4 @@ Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
 - Gmail in Outlook: Navodila za preverjanje stanja so opisana v koraku 1: Ugotovi in si zapiši izhodiščno stanje.
 
 ### 8: Sporoči nam, koliko si izbrisal/a!
-Si že končal/a s čiščenjem datotek na <a href="https://ewba.github.io/dcd-si/eposta.html" target="_blank" rel="noopener">e-pošti</a> <a href="https://ewba.github.io/dcd-si/telefon.html" target="_blank" rel="noopener">telefonu in tablici?</a> Oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }})
+Si že končal/a s čiščenjem datotek na <a href="https://ewba.github.io/dcd-si/eposta.html" target="_blank" rel="noopener">e-pošti</a> <a href="https://ewba.github.io/dcd-si/telefon.html" target="_blank" rel="noopener">telefonu in tablici?</a> Oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}).
