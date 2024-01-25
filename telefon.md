@@ -1,6 +1,6 @@
 ---
 layout: single-page
-title: Navodila za čiščenje&#58; telefon
+title: Navodila za čiščenje&#58; telefon in tablice
 co2: "0,03"
 css: yt.css
 ---
@@ -10,11 +10,11 @@ css: yt.css
 ### 1: Ugotovi in si zapiši izhodiščno stanje
 Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa vedel/a, koliko si izbrisal/a.
 - Android: Pojdi pod "Nastavitve" > "Pomnilnik" / "Shramba". Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Uporabljeno 50 GB / 64 GB".
-- iPhone: Klikni "Settings" > "General" > “IphoneStorage”. Izpiši podatek poleg grafičnega prikaza zapolnjenosti "123 GB of 128 GB used".
+- iPhone: Klikni "Settings" > "General" > "IphoneStorage". Izpiši podatek poleg grafičnega prikaza zapolnjenosti "123 GB of 128 GB used".
 
 ### 2: Uporabi sistemska priporočila
 - Android: Pojdi pod "Nastavitve" > "Pomnilnik" / "Shramba" in izberi gumb "Počisti" / "Sprostite prostor", ki ti prikaže sistemska priporočila za izbris velikih datotek, dvojnikov fotografij in zamegljenih fotografij, starih posnetkov zaslona, neuporabljenih aplikacij, prenesenih datotek, varnostnih kopij in podobno. 
-- iPhone: Klikni "Settings" > "General" > “IphoneStorage”. Pod razdelkom "Recommendations" ti telefon predlaga izbris velikih video datotek in fotografij in albuma "Recently deleted".
+- iPhone: Klikni "Settings" > "General" > "IphoneStorage". Pod razdelkom "Recommendations" ti telefon predlaga izbris velikih video datotek in fotografij in albuma "Recently deleted".
 
 ### 3: Izbriši aplikacije, ki jih ne uporabljaš 
 Katerih aplikacij ne uporabljaš, si pozabil/a nanje ali si jih uporabil/a le nekajkrat? Izbriši jih! Imaš več aplikacij z enako funkcijo? Obdrži le tisto, ki jo uporabljaš najbolj pogosto. Če obstajajo, izberi lažje različice aplikacij (npr. Facebook Lite). Redno posodabljaj aplikacije, saj s tem tudi zmanjšaš porabo virov.
@@ -34,5 +34,7 @@ Izbriši zastarele pogovore, vsiljena (spam) in sponzorirana sporočila, sporoč
 ### 7: Ugotovi in si zapiši končno stanje
 Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
 - Android: Pojdi pod "Nastavitve" > "Pomnilnik" / "Shramba". Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Uporabljeno 30 GB / 64 GB".
-- iPhone: Klikni "Settings" > "General" > “IphoneStorage”. Izpiši podatek poleg grafičnega prikaza zapolnjenosti "100 GB of 128 GB used".
+- iPhone: Klikni "Settings" > "General" > "IphoneStorage". Izpiši podatek poleg grafičnega prikaza zapolnjenosti "100 GB of 128 GB used".
 
+### 8: Sporoči nam, koliko si izbrisal/a!
+Si že končal/a s čiščenjem datotek na <a href="https://ewba.github.io/dcd-si/datoteke.html" target="_blank" rel="noopener">računalniku, Drivu,</a> <a href="https://ewba.github.io/dcd-si/eposta.html" target="_blank" rel="noopener">e-pošti?</a> Oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }})
