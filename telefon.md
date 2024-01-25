@@ -1,6 +1,6 @@
 ---
 layout: single-page
-title: Navodila za čiščenje&#58; telefon in tablice
+title: Navodila za čiščenje&#58; telefon in tablica
 co2: "0,03"
 css: yt.css
 ---
