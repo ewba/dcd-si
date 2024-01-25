@@ -44,7 +44,7 @@ Naši cilji so odstraniti čim več odvečnih podatkov in dvigniti ozaveščenos
 Vsi. Ne glede na to, ali ste podjetje, izobraževalna ustanova, občina, društvo ali državljan, lahko ukrepate. Več ko nas bo čistilo, večji bo učinek. Digitalno čiščenje Slovenije je brezplačen dogodek, vsa navodila in gradiva so dostopna na tej spletni strani vsem.
 
 ### Nisem najbolj tehnološko vešč/a, a bi vseeno sodeloval/a. Bom znal/a?
-Seveda! Pripravili smo brezplačna podrobna video in tekstovna [navodila](https://ewba.github.io/dcd-si/navodila-za-ciscenje.html), ki te vodijo čez vse potrebne korake. Ne pozabi nam po čiščenju sporočiti, [koliko si izbrisal/a]({{ site.submitURL }}). 
+Seveda! Pripravili smo brezplačna podrobna video in tekstovna [navodila](navodila-za-ciscenje.html), ki te vodijo čez vse potrebne korake. Ne pozabi nam po čiščenju sporočiti, [koliko si izbrisal/a]({{ site.submitURL }}). 
 
 ### Koliko časa si moram vzeti za čiščenje?
 Čiščenje ti bo vzelo toliko časa, kot si ga boš vzel/a. Lahko izbrišeš le nekaj datotek in fotografij (hej, boljše kot nič!) ali pa se sistematično lotiš vseh svojih elektronskih naprav in dobiš značko digitalne/ga superjunaka/inje! :) Vseeno si želimo, da si za digitalno poliranje vzameš nekaj ur za vsako napravo.
@@ -61,7 +61,7 @@ Za digitalno higieno je smiselno skrbeti sproti. Skupni rezultati bodo objavljen
 
 ## Čiščenje za skupine
 ### Kako lahko v čiščenje vključim tudi svoje sorodnike, prijatelje, sodelavce?
-Seveda! Več kot nas bo čistilo, bolje bo in lažje bomo dosegli cilje. Če želiš v čiščenje vključiti svoje drage, si poglej tudi posebna navodila, ki smo jih pripravili za [šole](https://ewba.github.io/dcd-si/sola.html), [podjetja](https://ewba.github.io/dcd-si/podjetje.html) in [druge organizacije](https://ewba.github.io/dcd-si/druge-organizacije.html).
+Seveda! Več kot nas bo čistilo, bolje bo in lažje bomo dosegli cilje. Če želiš v čiščenje vključiti svoje drage, si poglej tudi posebna navodila, ki smo jih pripravili za [šole](sola.html), [podjetja](podjetje.html) in [druge organizacije](druge-organizacije.html).
 
 ### Čistimo s sodelavci. Ali se mora vključit tudi IT oddelek?
 Ni nujno. Če se s sodelavci lotite vsak svojih osebnih in službenih računalnikov, diskov, mobilnih naprav in mailov, za kar smo vam pripravili navodila, IT oddelka ne potrebujete. Če pa bi šli pri čiščenju korak dlje in se lotili tudi strežnikov podjetja in sistemskih datotek, je vključitev stručkotov nujna. 

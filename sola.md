@@ -7,7 +7,7 @@ Digitalna doba je pomembno vplivala na učne procese v šolah. Posledično priha
 Z enostavnimi ukrepi lahko optimiziramo digitalne vire, vzpostavimo trajnostne digitalne navade in ustvarjamo učno okolje, ki spodbuja trajnost, učinkovitost in zavedanje o odgovorni rabi tehnologije, kar pripomore k nemoteni izvedbi izobraževalnih dejavnosti. 
 
 ### Zakaj bi se udeležili dneva digitalnega čiščenja?
-Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanja, zmanjšate emisije CO<sub>2</sub>, ozaveščate zaposlene, učitelje, učence in njihove starše ter zmanjšate stroške shranjevanja in podaljšate življenjsko dobo elektronske opreme. Več o [vplivu digitalnih aktivnosti](https://ewba.github.io/dcd-si/o-akciji.html).
+Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanja, zmanjšate emisije CO<sub>2</sub>, ozaveščate zaposlene, učitelje, učence in njihove starše ter zmanjšate stroške shranjevanja in podaljšate življenjsko dobo elektronske opreme. Več o [vplivu digitalnih aktivnosti](o-akciji.html).
 
 ### Kako točno sodelujemo?
 - Ko se v šoli odločite za sodelovanje, določite koordinatorja, ki bo organiziral podrobnosti akcije in bo tudi kontaktna oseba za nas. Koordinator naj preveri interes za sodelovanje pri akciji in prijavi udeležbo vaše šole. 

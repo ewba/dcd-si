@@ -6,7 +6,7 @@ title: Posameznik
 Ne ostani ujet/a v digitalnem labirintu nepotrebnih aplikacij in datotek, saj lahko stopiš korak naprej in se pridružiš digitalnemu čiščenju!
 
 ### Zakaj bi se udeležil/a dneva digitalnega čiščenja?
-Ker je to enostaven ukrep, s katerim narediš konkreten korak k manjšim emisijam CO<sub>2</sub>, podaljšaš življenjsko dobo elektronskih naprav ter širiš ozaveščenost o digitalnem onesnaževanju in okoljskem vplivu digitalnih tehnologij. Več o [vplivu digitalnih aktivnosti](https://ewba.github.io/dcd-si/o-akciji.html). 
+Ker je to enostaven ukrep, s katerim narediš konkreten korak k manjšim emisijam CO<sub>2</sub>, podaljšaš življenjsko dobo elektronskih naprav ter širiš ozaveščenost o digitalnem onesnaževanju in okoljskem vplivu digitalnih tehnologij. Več o [vplivu digitalnih aktivnosti](o-akciji.html). 
 
 ### Kako točno sodelujem?
 Sodeluješ tako, da se lotiš čistilne akcije na svojih elektronskih napravah. Podrobna tekstovna in video navodila za to smo ti pripravili na spodnjih povezavah: 
