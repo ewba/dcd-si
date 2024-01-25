@@ -1,6 +1,6 @@
 ---
 layout: single-page
-title: Navodila za čiščenje&#58; računalniki in Drivi
+title: Navodila za čiščenje&#58; računalnik in Drive
 co2: "0,03"
 css: yt.css
 ---
