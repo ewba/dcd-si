@@ -3,7 +3,7 @@ layout: single-page
 title: Ohranjanje dobrih navad
 ---
 
-V hitrem življenjskem tempu je digitalna prisotnost ključna za naše vsakodnevne dejavnosti. Pomembno je, da naše digitalno okolje redno čistiš, saj le tako ohraniš življenjsko dobo svojih elektronskih naprav, znižaš stroške shranjevanja podatkov na strežnikih in izboljšaš svoje procese ter dosegaš večjo učinovitost.
+V hitrem življenjskem tempu je digitalna prisotnost ključna za naše vsakodnevne dejavnosti. Pomembno je, da naše digitalno okolje redno čistiš, saj le tako ohraniš življenjsko dobo svojih elektronskih naprav, znižaš stroške shranjevanja podatkov na strežnikih in izboljšaš svoje procese ter dosegaš večjo učinkovitost.
 
 ## Koristni nasveti
 ### Komuniciranje
@@ -25,13 +25,7 @@ V hitrem življenjskem tempu je digitalna prisotnost ključna za naše vsakodnev
 - Z uporabo brskalnika <a href="https://www.ecosia.org/" target="_blank" rel="noopener">Ecosia</a> lahko prispevaš k sajenju dreves. 
 - Glej svojo najljubšo serijo ali videoposnetek v standardni kakovosti, saj pretakanje v visoki ločjivosti porabi 86 % več energije. Če na videoplatformah zgolj poslušaš glasbo, kakovost videa ni pomembna in jo nastavi na najmanjšo možno. 
 - Namesto iskanja spletnih strani, ki jih pogosto uporabljaš, jih shrani med zaznamke, saj velik del spletnih iskalcev ni usmerjen v iskanje novih informacij, temveč nas vrača na spletne strani, ki smo jih že iskali in s tem vsako novo iskanje povzroči emisije CO<sub>2</sub>. 
-- Življenje velikokrat ni črno-belo, ampak vklop ‘temnega’ načina bo za tvoje elektronske naprave pravi balzam.
-
-### Uporaba telefona
-- Minimiziraj obvestila različnih aplikacij
-- Onemogoči lokacijo
-- Telefon raje polni večkrat po malem
-- Uporabljaj telefon pri manjši osvetljenosti
+- Življenje velikokrat ni črno-belo, ampak vklop ‘temnega’ načina bo za tvoje elektronske naprave pravi balzam, prav tako znižanje osvetljenosti ekrana.
 
 ### Za spletne razvijalce
 - Odličen rezultat na <a href="https://pagespeed.web.dev/" target="_blank" rel="noopener">PageSpeed Insights</a> pomeni tudi nižji digitalni odtis strani.
