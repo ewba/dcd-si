@@ -29,9 +29,9 @@
     <meta property="og:image" content="{{ page.meta-image | default: "/assets/img/dcd-si-kv.webp" | absolute_url }}" />
     <meta property="og:type" content="article" />
 
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="stylesheet" href="assets/css/main.css">
     {% if page.css %}
-      <link rel="stylesheet" href="{{ "/assets/css/" | append: page.css | relative_url }}">
+      <link rel="stylesheet" href="{{ "assets/css/" | append: page.css }}">
     {% endif %}
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500&display=swap" onload="this.rel='stylesheet'" />
     <noscript><link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500&display=swap" rel="stylesheet"></noscript>
@@ -39,7 +39,7 @@
   </head>
   <body a="auto">
     <a href="{{ site.baseurl | append: "/" }}" tabindex="-1" aria-hidden="true">
-      <img id="logoglav" src="{{ "/assets/img/sedecko.webp" | relative_url }}" width="50" height="92" alt="logo" tabindex="-1" aria-hidden="true">
+      <img id="logoglav" src="assets/img/sedecko.webp" width="50" height="92" alt="logo" tabindex="-1" aria-hidden="true">
     </a>
     <nav id="menu">
       {%- include mainmenu.html -%}
@@ -51,13 +51,13 @@
 
     <h1>{{ site.data.text.mainTitle }}</h1>
 
-    <main aria-label="Content">
+    <main aria-label="Glavna vsebina">
       <div class="container">
         {{ content }}
       </div>
     </main>
 
-    <img id="sedecko" src="{{ "/assets/img/sedecko.webp" | relative_url }}" width="95" height="174" alt="sedeči mož" aria-hidden="true">
+    <img id="sedecko" src="assets/img/sedecko.webp" width="95" height="174" alt="sedeči mož" aria-hidden="true">
     <footer>
       {%- include footer.html -%}
     </footer>
