@@ -27,6 +27,9 @@ Projekt ni uperjen proti digitalizaciji ali sektorju IKT. Ne zagovarjamo vračan
 ### Kakšna je razlika med digitalnim odpadkom in digitalnim odtisom?
 Digitalni odpadki predstavljalo le del digitalnega odtisa, kjer upoštevamo vse vplive naše tehnologije. Podobno kot velja za navadne odpadke, ki predstavljalo le del ogljičnega odtisa izdelka, saj je ta prvo moral nastati, priti v trgovino itd., kar vse prispeva k končni vrednosti.
 
+### Kaj pa proizvodnja in dejanski elektronski odpadki?
+Med proizvodnjo, od pridobivanja surovin do izgradnje, nastane največji del odtisa elektronske opreme. Posledično praviloma predstavlja tudi največji del digitalnega odtisa. V prvem letu projekta naslavljamo predvsem smotrno rabo opreme in digitalih tehnologij, saj iniciative za daljše življenjske dobe, trajnostne dobavne verige in manj odpadkov že obstajajo.
+
 ### Kako gresta skupaj digitalna čistilna akcija ter vzpostavitev nove spletne strani in digitalno komuniciranje o tem projektu?
 Podoben razmislek kot pri tiskanju knjig o manj odpadkih nas je vodil tudi pri postavitvi spletne strani in digitalnih komunikacijskih kanalov projekta. Za dosego ambicioznih ciljev je pač "nujno zlo", smo pa zato načrtovanju posvetili posebno pozornost, saj verjamemo v vodenje z zgledom. 
 Spletno stran smo že od začetka zasnovali z mislijo na nizek digitalni odtis in dostopnost. Ocena je na voljo v nogi posamezne strani, giblje pa se med 0,02 in 0,03 g CO<sub>2</sub>eq na obisk. To pomeni, da se uvršča v razred učinkovitosti A+ in je nižja od 95 % spletnih strani (v našem primeru 97 %). Več o tem v zavihku [Odtis spletne strani](odtis-strani.html#zgodba-nae-strani).

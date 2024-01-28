@@ -95,7 +95,7 @@ a {
   padding: 1em;
   margin-bottom: 0.5em;
   background-color: #dd1c87; // darker $rdecaZiva
-  color: white; // $sivaSvetla makes it harder to reach 1:4.5 contrast ration
+  color: white; // $sivaSvetla makes it harder to reach 1:4.5 contrast ratio
   @include curvyEdge();
   border: 0px solid $viola;
   text-align: center;
