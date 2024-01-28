@@ -1,5 +1,4 @@
 - domene
-- testiraj a je boljši rezultat pri nas al na ghp
 
 
 Čaka na vsebino:
@@ -18,3 +17,5 @@ Kasneje:
 - dark mode
 - vprašaj internet archive glede njihovih praks, deduplikacije
 - energetika: crypto in AI
+
+Lighthouse: isti rezultat za ghp in naš host, samo da ima ghp slabši cache policy

@@ -3,7 +3,7 @@ layout: default
 co2: "0,03"
 ---
 
-<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center; margin-bottom: 1em">
+<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center; margin-bottom: 1em;min-height: 15.9rem;">
 	<div>
 		<img src="assets/img/dcd-si-kv.webp" width="306" height="230" alt="key visual projekta" aria-hidden="true">
 	</div>
@@ -15,7 +15,7 @@ co2: "0,03"
 	</div>
 </div>
 
-<div class="block">
+<div class="block" style="min-height: 14.5rem;">
 <h2>Kako sodeluješ?</h2>
 
 Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistiš že od februarja naprej.
