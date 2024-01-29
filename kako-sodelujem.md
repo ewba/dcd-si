@@ -1,6 +1,6 @@
 ---
 layout: single-page
-meta-image: assets/img/thumb/Posamezniki.webp
+meta-image: assets/img/thumb/Sodeluj.webp
 title: Kako sodelujem?
 ---
 
