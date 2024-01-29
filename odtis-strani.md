@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Odtis spletne strani
+meta-image: assets/img/thumb/Odtis-spletne-strani.webp
 co2: "0,03"
 ---
 
