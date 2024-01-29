@@ -1,5 +1,6 @@
 ---
 layout: single-page
+meta-image: assets/img/thumb/FAQ.webp
 title: Pogosta vprašanja
 ---
 
