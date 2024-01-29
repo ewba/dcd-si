@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O akciji
+meta-image: assets/img/thumb/O-akciji.webp
 css: carousel.css
 ---
 
