@@ -1,6 +1,7 @@
 ---
 layout: single-page
 title: Navodila za čiščenje&#58; računalnik in Drive
+meta-image: assets/img/thumb/Navodila-za-ra%C4%8Dunalnik.webp
 co2: "0,03"
 css: yt.css
 ---
