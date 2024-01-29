@@ -1,5 +1,6 @@
 ---
 layout: single-page
+meta-image: assets/img/thumb/Dobre%20navade.webp
 title: Ohranjanje dobrih navad
 ---
 
