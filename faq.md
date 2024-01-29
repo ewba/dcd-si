@@ -29,14 +29,14 @@ Projekt ni uperjen proti digitalizaciji ali sektorju IKT. Ne zagovarjamo vračan
 Digitalni odpadki predstavljalo le del digitalnega odtisa, kjer upoštevamo vse vplive naše tehnologije. Podobno kot velja za navadne odpadke, ki predstavljalo le del ogljičnega odtisa izdelka, saj je ta prvo moral nastati, priti v trgovino itd., kar vse prispeva k končni vrednosti.
 
 ### Kaj pa proizvodnja in dejanski elektronski odpadki?
-Med proizvodnjo, od pridobivanja surovin do izgradnje, nastane največji del odtisa elektronske opreme. Posledično praviloma predstavlja tudi največji del digitalnega odtisa. V prvem letu projekta naslavljamo predvsem smotrno rabo opreme in digitalih tehnologij, saj iniciative za daljše življenjske dobe, trajnostne dobavne verige in manj odpadkov že obstajajo.
+Med proizvodnjo, od pridobivanja surovin do izgradnje, nastane velik del odtisa elektronske opreme. Posledično praviloma predstavlja tudi pomemben del digitalnega odtisa (po eni oceni [slabo polovico](https://theshiftproject.org/wp-content/uploads/2023/02/TSP_DigitalSufficiency2020_Summary_230201-1.pdf)). V prvem letu projekta naslavljamo predvsem smotrno rabo digitalih tehnologij, saj iniciative za daljše življenjske dobe, trajnostne dobavne verige in manj odpadkov že obstajajo.
 
 ### Kako gresta skupaj digitalna čistilna akcija ter vzpostavitev nove spletne strani in digitalno komuniciranje o tem projektu?
 Podoben razmislek kot pri tiskanju knjig o manj odpadkih nas je vodil tudi pri postavitvi spletne strani in digitalnih komunikacijskih kanalov projekta. Za dosego ambicioznih ciljev je pač "nujno zlo", smo pa zato načrtovanju posvetili posebno pozornost, saj verjamemo v vodenje z zgledom. 
 Spletno stran smo že od začetka zasnovali z mislijo na nizek digitalni odtis in dostopnost. Ocena je na voljo v nogi posamezne strani, giblje pa se med 0,02 in 0,03 g CO<sub>2</sub>eq na obisk. To pomeni, da se uvršča v razred učinkovitosti A+ in je nižja od 95 % spletnih strani (v našem primeru 97 %). Več o tem v zavihku [Odtis spletne strani](odtis-strani.html#zgodba-nae-strani).
 
 ### Kako ste prišli do preračunov glede prihrankov CO<sub>2</sub>?
-Podatke črpamo iz različnih [študij](https://www.sciencedirect.com/science/article/pii/S0959652622032115), [poročil](https://theshiftproject.org/wp-content/uploads/2023/02/TSP_5G_SYNTHESIS_ENG.pdf) in [standardov](https://developers.thegreenwebfoundation.org/co2js/explainer/methodologies-for-calculating-website-carbon/).
+Podatke črpamo iz različnih [študij](https://www.sciencedirect.com/science/article/pii/S0959652622032115), [poročil](https://theshiftproject.org/wp-content/uploads/2023/02/TSP_5G_SYNTHESIS_ENG.pdf) in [standardov](https://developers.thegreenwebfoundation.org/co2js/explainer/methodologies-for-calculating-website-carbon/). [Ocenjevanje digitalnih emisij](https://sustainablewebdesign.org/calculating-digital-emissions/) je zahtevno, zato bomo vedno imeli le približek.
 
 
 ## O čiščenju
