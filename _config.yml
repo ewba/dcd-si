@@ -1,4 +1,4 @@
-url: "https://ewba.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://digital.ocistimo.si" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Očistimo Slovenijo digitalnih odpadkov"
 lang: "sl"
