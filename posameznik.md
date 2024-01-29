@@ -1,5 +1,6 @@
 ---
 layout: single-page
+meta-image: assets/img/thumb/Posamezniki.webp
 title: Posameznik
 ---
 
