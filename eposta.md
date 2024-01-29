@@ -1,7 +1,7 @@
 ---
 layout: single-page
 title: Navodila za čiščenje&#58; e-pošta
-meta-image: https://assets/img/Navodila-za-emaile.webp
+meta-image: https://assets/img/thumb/Navodila-za-emaile.webp
 co2: "0,03"
 css: yt.css
 ---
