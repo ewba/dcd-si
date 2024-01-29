@@ -1,6 +1,7 @@
 ---
 layout: single-page
 title: Navodila za čiščenje&#58; telefon in tablica
+meta-image: assets/img/thumb/Navodila-za-telefon.webp
 co2: "0,03"
 css: yt.css
 ---
