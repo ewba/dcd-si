@@ -96,3 +96,8 @@ footer {
 form:focus-within + #gdpr {
   display: block;
 }
+@media screen and (hover: none) {
+  form:focus-within + #gdpr {
+    display: block;
+  }
+}
