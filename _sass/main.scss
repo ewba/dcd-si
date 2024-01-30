@@ -101,6 +101,7 @@ a {
   text-align: center;
   font-weight: 600;
   cursor: pointer;
+  text-decoration: none;
   a {
     color: $sivaSvetla;
     text-decoration: none;
@@ -190,7 +191,7 @@ ol > li::marker {
   }
 }
 
-button {
+button, .button {
   @include button();
   min-width: 10em;
   font-size: 1.2rem;
