@@ -8,7 +8,7 @@ co2: "0,03"
 css: yt.css
 ---
 
-<div style="display:flex;flex-wrap: wrap;justify-content: space-around;">
+<div style="display:flex;flex-wrap: wrap;justify-content: space-around; row-gap: 1rem;">
 	{% include youtube.html video="mAvlvPXs96I" %}
 	{% include youtube.html video="zy-7h-kRVRo" %}
 </div>
