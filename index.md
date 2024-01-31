@@ -30,7 +30,7 @@ Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se
 
 <div id="cilji" style="display:grid; justify-content: center;">
 	<div style="justify-self: end; align-self: center;margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px;">
-		<img src="assets/img/ff/png.webp" alt="okras seznama" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
+		<img src="assets/img/ff/png.webp" alt="okras seznama 0" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
 	</div>
 	<div style="justify-self: start">
 		<h3>Odstraniti čim več odvečnih podatkov</h3>
@@ -38,7 +38,7 @@ Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se
 	</div>
 
 	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
-		<img src="assets/img/ff/jpg.webp" alt="okras seznama" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
+		<img src="assets/img/ff/jpg.webp" alt="okras seznama 1" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
 	</div>
 	<div style="justify-self: start">
 		<h3>Dvigniti ozaveščenost</h3>
@@ -46,7 +46,7 @@ Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se
 	</div>
 
 	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
-		<img src="assets/img/ff/eml.webp" alt="okras seznama" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
+		<img src="assets/img/ff/eml.webp" alt="okras seznama 2" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
 	</div>
 	<div style="justify-self: start">
 		<h3>Preprečili kopičenje digitalnih odpadkov</h3>
@@ -54,7 +54,7 @@ Uradni dan digitalnega čiščenja bo <strong>16. marec 2024</strong>! Ker pa se
 	</div>
 
 	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
-		<img src="assets/img/ff/png.webp" alt="okras seznama" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
+		<img src="assets/img/ff/png.webp" alt="okras seznama 3" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
 	</div>
 	<div style="justify-self: start">
 		<h3>Navdihniti Slovence</h3>

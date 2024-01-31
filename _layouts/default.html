@@ -25,31 +25,33 @@
       {% assign title = site.title %}
     {% endif %}
     <title>{{ title }}</title>
-    <meta property="og:title" content="{{ page.meta-title | default: title }}" />
-    <meta property="og:image" content="{{ page.meta-image | default: "/assets/img/dcd-si-kv.webp" | absolute_url }}" />
-    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.meta-title | default: title }}" >
+    <meta property="og:image" content="{{ page.meta-image | default: "/assets/img/dcd-si-kv.webp" | absolute_url }}" >
+    <meta property="og:type" content="article" >
 
     <link rel="stylesheet" href="assets/css/main.css">
     {% if page.css %}
       <link rel="stylesheet" href="{{ "assets/css/" | append: page.css }}">
     {% endif %}
-    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500&display=swap" onload="this.rel='stylesheet'" />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500&display=swap" onload="this.rel='stylesheet'" >
     <noscript><link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500&display=swap" rel="stylesheet"></noscript>
 
   </head>
   <body a="auto">
     <a href="{{ site.baseurl | append: "/" }}" tabindex="-1" aria-hidden="true">
-      <img id="logoglav" src="assets/img/sedecko.webp" width="50" height="92" alt="logo" tabindex="-1" aria-hidden="true">
+      <img id="logoglav" src="assets/img/sedecko.webp" width="50" height="92" alt="okrasna slika za meni" tabindex="-1" aria-hidden="true">
     </a>
     <nav id="menu">
       {%- include mainmenu.html -%}
     </nav>
 
-    <div class="submitData">
+    <div class="submitData" role="navigation" aria-label="Povezava na stran za oddajo rezultatov">
       <a href="zabelezi-rezultate.html">{{ site.data.text.submitResults }}</a>
     </div>
 
-    <h1>{{ site.data.text.mainTitle }}</h1>
+    <div role="banner">
+      <h1>{{ site.data.text.mainTitle }}</h1>
+    </div>
 
     <main aria-label="Glavna vsebina">
       <div class="container">
@@ -61,7 +63,7 @@
     <footer>
       {%- include footer.html -%}
     </footer>
-    <div id="postfoot">
+    <div id="postfoot" role="complementary">
       {% assign co2 = page.co2 | default: "0,02" %}
       Obisk te strani je povzročil približno <a href="odtis-strani.html">{{ co2 }} g izpustov CO<sub>2</sub>eq</a>
     </div>
