@@ -150,7 +150,7 @@ Povprečno iskanje v Googlu povzroči [0,192 g CO<sub>2</sub>](https://gerrymcgo
 {% comment %}
 daj kot navaden blok, ampak samo za screen readerje?
 
-- Vsako leto internet in njegovi podporni sistemi proizvedejo [900 milijonov ton CO<sub>2</sub>](https://digital.worldcleanupday.org/) in nekatere študije ocenjujejo, da bo v desetletju internetno omrežje porabilo 20 % odstotkov celotne svetovne energije.
+- Vsako leto internet in njegovi podporni sistemi proizvedejo [900 milijonov ton CO<sub>2</sub>](https://www.digitalcleanupday.org/) in nekatere študije ocenjujejo, da bo v desetletju internetno omrežje porabilo 20 % odstotkov celotne svetovne energije.
 - Za izravnavo onesnaževanja, ki ga povzroča približno 1,9 bilijona letnih iskanj na Googlu, bi bilo treba posaditi [16 milijonov dreves](https://gerrymcgovern.com/books/world-wide-waste/).
 - [90 % digitalnih podatkov](https://gerrymcgovern.com/books/world-wide-waste/) se ne uporablja:
   - Do približno 90 % podatkov tri mesece po prvem shranjevanju nikoli več ne dostopamo.
