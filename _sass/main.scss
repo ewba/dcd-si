@@ -199,6 +199,11 @@ button, .button {
 .btnpad {
   margin: 2em 0;
 }
+.btnpad-center {
+  margin-top: 1em;
+  display: flex;
+  justify-content: center;
+}
 
 // we could load this conditionally only on the one page that needs it (or inline it)
 blockquote {

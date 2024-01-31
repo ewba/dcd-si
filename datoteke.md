@@ -8,8 +8,7 @@ css: yt.css
 
 {% include youtube.html video="_rI7ZG0s74A" %}
 
-
-<div class="btnpad">
+<div class="btnpad-center">
 <a class="button" href="assets/PDF/Navodila_racunalnik-drive.pdf">Navodila v PDF obliki</a>
 </div>
 
