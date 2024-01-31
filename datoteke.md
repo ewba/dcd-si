@@ -2,6 +2,8 @@
 layout: single-page
 title: Navodila za čiščenje&#58; računalnik in Drive
 meta-image: assets/img/thumb/Navodila-za-ra%C4%8Dunalnik.webp
+meta-title: Navodila za digitalno čiščenje: računalnik in Drive
+meta-description: Odklikaj digitalne odpadke na tvojem računalniku in Drivu. Digitalno čiščenje ti lahko pomaga do daljše življenjske dobe elektronskih naprav ter zmanjša tvoje emisije.
 co2: "0,03"
 css: yt.css
 ---
