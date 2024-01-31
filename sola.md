@@ -18,7 +18,7 @@ Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanj
 </div>
 
 ### Odločite se za obseg sodelovanja: navodila za koordinatorje
-- **Vključitev vsebin v učni program**: V sklopu akcije Očistimo Slovenijo digitalnih odpadkov smo pripravili brezplačna izobraževalna gradiva o smetenju okolja z našimi napravami. Večina otrok se je z različnimi akcijami zbiranja različnih odpadkov, tako ali drugače že seznanila z vplivom, ki ga imamo ljudje z našimi smetmi. Pa najsi bo to z zbiranjem odpadnega papirja in plastičnih zamaškov ali pobiranja odpadkov iz narave. Kako pa naj naši najmlajši počistijo odpadke, ki jih ne vidijo? Takšne, ki se jih morda sploh ne zavedajo, ker jih ne morejo prijeti v roke? Naučimo jih, kaj so takšni odpadki, kje jih najdemo in kako vplivajo na okolje. Pomagamo jim, da se odvečne datoteke, ki so kot prazna vrečka bombonov, pobrišejo. Pogovarjamo se o tem, kako pomembno je, da v skrbi za okolje razmišljamo o odpadkih vseh vrst in oblik. Spodbudimo jih, da naučeno nesejo tudi domov in pomagajo očistiti tudi domače naprave in naprave staršev. Na koncu pa pogledamo še, kaj lahko stroi vsak zase, da se digitalni odpadki v prihodnosti ne bodo več nabirali.
+- **Vključitev vsebin v učni program**: V sklopu akcije Očistimo Slovenijo digitalnih odpadkov smo pripravili brezplačna izobraževalna gradiva o smetenju okolja z našimi napravami. ki bodo dostopna kmalu. Večina otrok se je z različnimi akcijami zbiranja različnih odpadkov, tako ali drugače že seznanila z vplivom, ki ga imamo ljudje z našimi smetmi. Pa najsi bo to z zbiranjem odpadnega papirja in plastičnih zamaškov ali pobiranja odpadkov iz narave. Kako pa naj naši najmlajši počistijo odpadke, ki jih ne vidijo? Takšne, ki se jih morda sploh ne zavedajo, ker jih ne morejo prijeti v roke? Naučimo jih, kaj so takšni odpadki, kje jih najdemo in kako vplivajo na okolje. Pomagamo jim, da se odvečne datoteke, ki so kot prazna vrečka bombonov, pobrišejo. Pogovarjamo se o tem, kako pomembno je, da v skrbi za okolje razmišljamo o odpadkih vseh vrst in oblik. Spodbudimo jih, da naučeno nesejo tudi domov in pomagajo očistiti tudi domače naprave in naprave staršev. Na koncu pa pogledamo še, kaj lahko stroi vsak zase, da se digitalni odpadki v prihodnosti ne bodo več nabirali.
   
   **Cilji izobraževalnega programa**
 - Učenci razumejo osnovne pojme o digitalnih odpadkih;
@@ -29,10 +29,6 @@ Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanj
 - Trajanje izobraževanja: 2 šolski uri
 - Starostna skupina: Učenci od 4. do vključno 9. razreda osnovne šole
 - Pridobljene veščine: Okoljska digitalna ozaveščenost, kritično razmišljanje
-
-<div class="btnpad">
-<a class="button" href="">Prenesite izobraževalni program</a>
-</div>
 
 - **Samostojno čiščenje zaposlenih**: Boste zaposlene in učitelje pozvali k samostojnemu čiščenju njihovih naprav? Pošljite jim navodila za čiščenje, <a href="https://docs.google.com/spreadsheets/d/1QiAlI4AaGp24_rOKqpIe1AJVLWCjUqn0M_M3Ng7uquY/edit#gid=0" target="_blank" rel="noopener">prenesite tabelo za zbiranje podatkov za vašo organizacijo</a> in vsakega sodelujočega pozovite k vpisu svojih rezultatov. Zbrane rezultate za vašo šolo [oddajte v obrazec na spletni strani]({{ site.submitURL }}) najkasneje do 16. marca do 16.00 ure, da izveste, koliko ste z izbrisanimi  datotekami privarčevali  CO<sub>2</sub> ter kaj številke pomenijo v malo bolj oprijemljivih primerjavah (npr. koliko kilometrov z avtom bi lahko prepotovali za takšen okoljski odtis).
 
