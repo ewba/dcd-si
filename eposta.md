@@ -13,7 +13,7 @@ css: yt.css
 
 ### 1: Ugotovi in si zapiši izhodiščno stanje
 Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa vedel/a, koliko si izbrisal/a.
-- Gmail: <a href="https://www.google.com/settings/storage" target="_blank" rel="noopener">Klikni povezavo</a> in pod menijem "Podrobnosti o prostoru za shranjevanje" izpiši podatek poleg kategorije Gmail. Do podatka lahko dostopaš tudi prek klika na bližnjico (Uporabljeno 12 GB od 15 GB) na dnu poštnega predala ali prek klika na profilno fotografijo v zgornjem desnem kotu > "Upravljanje računa Google" > "Plačila in naročnine" > "Upravljaj shrambo". Če uporabljaš deljene diske, lahko do podatka dostopaš prek klika na <a href="https://drive.google.com/drive/u/0/quota" target="_blank" rel="noopener">povezavo</a>. 
+- Gmail: <a href="https://www.google.com/settings/storage" target="_blank" rel="noopener">Odpri nastavitve</a> in pod menijem "Podrobnosti o prostoru za shranjevanje" izpiši podatek poleg kategorije Gmail. Do podatka lahko dostopaš tudi prek klika na bližnjico (Uporabljeno 12 GB od 15 GB) na dnu poštnega predala ali prek klika na profilno fotografijo v zgornjem desnem kotu > "Upravljanje računa Google" > "Plačila in naročnine" > "Upravljaj shrambo". Če uporabljaš deljene diske, lahko do podatka dostopaš prek klika na <a href="https://drive.google.com/drive/u/0/quota" target="_blank" rel="noopener">nastavitve</a>. 
 - Outlook: Klikni na ikono koleščka v zgornjem desnem kotu > Nastavitve > "Splošno" > "Shramba". Izpiši podatek (Uporabljeno -- GB od 15 GB). Če uporabljaš Outlook aplikacijo na računalniku, klikni na: "Datoteka" in izpiši podatek pod razdelkom "Orodja" (12 GB nezasedenega prostora od 15 GB)
   
 ### 2: Filtriraj in izbriši največja sporočila 
@@ -22,7 +22,7 @@ Uporabi filtre, da identificiraš sporočila, ki zavzemajo največ prostora v tv
 - Outlook: Na vrhu poštnega predala poišči ikono filtra ter klikni na "Razvrsti" > "Velikost". Posamezno sporočilo izbrišeš s klikom na ikono "Izbriši" na desni strani sporočila ali pa izbereš več sporočil in jih izbrišeš z ikono "izbriši" v orodni vrstici.
 
 ### 3: Uporabi sistemska priporočila  
-- Gmail: Klikni <a href="https://one.google.com/storage/management?g1_landing_page=2" target="_blank" rel="noopener">povezavo</a>, preglej predlagane predloge pod razdelkom "Čiščenje predlaganih elementov" in izbriši e-poštna sporočila z velikimi priponkami. Sistem te vodi čez brisanje velikih datotek in priponk, vsiljene e-pošte in sporočil v smetnjaku. Do predlogov lahko prideš tudi, če se na <a href="https://www.google.com/settings/storage" target="_blank" rel="noopener">povezavi</a> pomakneš do razdelka "Sprostite prostor" in klikneš "Sprostite prostor za shranjevanje v računu". 
+- Gmail: Klikni <a href="https://one.google.com/storage/management?g1_landing_page=2" target="_blank" rel="noopener">nastavitve</a>, preglej predlagane predloge pod razdelkom "Čiščenje predlaganih elementov" in izbriši e-poštna sporočila z velikimi priponkami. Sistem te vodi čez brisanje velikih datotek in priponk, vsiljene e-pošte in sporočil v smetnjaku. Do predlogov lahko prideš tudi, če se na <a href="https://www.google.com/settings/storage" target="_blank" rel="noopener">nastavitvah</a> pomakneš do razdelka "Sprostite prostor" in klikneš "Sprostite prostor za shranjevanje v računu". 
 - Outlook: Klikni na ikono koleščka v zgornjem desnem kotu > Nastavitve > "Splošno" > "Shramba" in preglej predlagane predloge pod razdelkom "Upravljanje shrambe". Če uporabljaš Outlook aplikacijo na računalniku, najdeš predloge pod: "Datoteka" in "Orodja". Sistem te vodi čez čiščenje nabiralnika, praznjenje mape "Izbrisano" in čiščenje starih elementov. 
 
 ### 4: Izbriši dolge pogovore 
@@ -56,4 +56,4 @@ Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
 - Gmail in Outlook: Navodila za preverjanje stanja so opisana v koraku 1: Ugotovi in si zapiši izhodiščno stanje.
 
 ### 10: Sporoči nam, koliko si izbrisal/a!
-Si že končal/a s čiščenjem datotek na <a href="https://ewba.github.io/dcd-si/datoteke.html" target="_blank" rel="noopener">računalniku, Drivu,</a> <a href="https://ewba.github.io/dcd-si/telefon.html" target="_blank" rel="noopener">telefonu in tablici?</a> Oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}).
+Si že končal/a s čiščenjem datotek na <a href="datoteke.html" target="_blank" rel="noopener">računalniku, Drivu,</a> <a href="telefon.html" target="_blank" rel="noopener">telefonu in tablici?</a> Oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}).

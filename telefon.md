@@ -38,4 +38,4 @@ Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
 - iPhone: Klikni "Settings" > "General" > "IphoneStorage". Izpiši podatek poleg grafičnega prikaza zapolnjenosti "100 GB of 128 GB used".
 
 ### 8: Sporoči nam, koliko si izbrisal/a!
-Si že končal/a s čiščenjem datotek na <a href="https://ewba.github.io/dcd-si/datoteke.html" target="_blank" rel="noopener">računalniku, Drivu,</a> <a href="https://ewba.github.io/dcd-si/eposta.html" target="_blank" rel="noopener">e-pošti?</a> Oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}).
+Si že končal/a s čiščenjem datotek na <a href="datoteke.html" target="_blank" rel="noopener">računalniku, Drivu,</a> <a href="eposta.html" target="_blank" rel="noopener">e-pošti?</a> Oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}).

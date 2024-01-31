@@ -82,7 +82,7 @@ $height: 65px;
 }
 #menu ul.sub-menus a:hover{
 	background: $rdecaZiva;
-	color: $sivaSvetla;
+	color: white;
 }
 // hover added by Jaka - force screen readers to the burger menu, so kb navigation works for subitems
 @media screen and (max-width: $width1), (hover: none) {

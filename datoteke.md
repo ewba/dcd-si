@@ -13,13 +13,13 @@ Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa 
 - Windows 10: Klikni na "Začetek" in ikonico koleščka: "Nastavitve". V meniju izberi možnost "Sistem" > "Prostor za shranjevanje". Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Uporabljeno 123 GB".
 - Mac: Klikni na "Apple" > "System settings" > "General". Izberi "Storage" in na desni strani izpiši podatek poleg grafičnega prikaza zapolnjenosti "123 GB of 500 GB used".
 - OneDrive: Klikni na "Nastavitve" > "Možnosti" in "Upravljanje shrambe". Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Skupaj uporabljeno 2 GB / 5 GB".
-- Google Drive: Izhodiščno stanje ugotoviš prek klika na <a href="https://drive.google.com/u/0/settings/storage" target="_blank" rel="noopener">povezavo</a> ali prek klika na profilno fotografijo v zgornjem desnem kotu poštnega predala > "Upravljanje računa Google" > "Plačila in naročnine" > "Upravljaj shrambo". Izpiši podatek poleg kategorije Google Drive.
+- Google Drive: Izhodiščno stanje ugotoviš prek klika na <a href="https://drive.google.com/u/0/settings/storage" target="_blank" rel="noopener">nastavitve</a> ali prek klika na profilno fotografijo v zgornjem desnem kotu poštnega predala > "Upravljanje računa Google" > "Plačila in naročnine" > "Upravljaj shrambo". Izpiši podatek poleg kategorije Google Drive.
 
 ### 2: Uporabi sistemska priporočila
 - Windows: Klikni na "Začetek" in ikonico koleščka: "Nastavitve". V meniju izberi možnost "Sistem" > "Prostor za shranjevanje" in "Priporočila za čiščenje". Sistem te vodi čez brisanje velikih in neuporabljenih datotek in aplikacij, začasnih datotek in sihronizacijo z oblakom.
 - Mac: Odpri "System settings" > "General". Izberi "Storage", pod grafičnim prikazom je razdelek "Recommendation". Sistem te vodi čez avtomatično brisanje datotek iz koša, sihronizacijo z oblakom ter optimiziranje prostora prek brisanja filmov in serij, ki si jih že pogledal/a iz naprave. 
 - OneDrive: Klikni na "Nastavitve" > "Možnosti" > "Upravljanje shrambe" > "Sprosti prostor". Sistem te vodi čez praznjenje koša in brisanje velikih datotek.
-- Google Drive: Klikni <a href="https://one.google.com/u/2/storage/management" target="_blank" rel="noopener">povezavo</a> in preglej predlagane predloge pod razdelkom "Čiščenje predlaganih elementov". Sistem te vodi čez brisanje velikih datotek in datotek v smetnjaku.
+- Google Drive: Klikni <a href="https://one.google.com/u/2/storage/management" target="_blank" rel="noopener">nastavitve</a> in preglej predlagane predloge pod razdelkom "Čiščenje predlaganih elementov". Sistem te vodi čez brisanje velikih datotek in datotek v smetnjaku.
 
 ### 3: Očisti začasne datoteke (lokalno)
 V večini računalnikov številni programi uporabljajo in ustvarjajo začasne podatke. Za čiščenje teh datotek lahko uporabite orodja, ki jih predlaga sistem, npr. "Čiščenje diska".
@@ -42,4 +42,4 @@ Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
 - Gmail in Outlook: Navodila za preverjanje stanja so opisana v koraku 1: Ugotovi in si zapiši izhodiščno stanje.
 
 ### 8: Sporoči nam, koliko si izbrisal/a!
-Si že končal/a s čiščenjem datotek na <a href="https://ewba.github.io/dcd-si/eposta.html" target="_blank" rel="noopener">e-pošti</a> <a href="https://ewba.github.io/dcd-si/telefon.html" target="_blank" rel="noopener">telefonu in tablici?</a> Oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}).
+Si že končal/a s čiščenjem datotek na <a href="eposta.html" target="_blank" rel="noopener">e-pošti</a> <a href="telefon.html" target="_blank" rel="noopener">telefonu in tablici?</a> Oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}).
