@@ -8,6 +8,12 @@ css: yt.css
 
 {% include youtube.html video="jVWOHHSK9l0" %}
 
+
+<div class="btnpad">
+<a class="button" href="assets/PDF/Navodila_telefon-tablica.pdf">Navodila v PDF obliki</a>
+</div>
+
+
 ### 1: Ugotovi in si zapiši izhodiščno stanje
 Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa vedel/a, koliko si izbrisal/a.
 - Android: Pojdi pod "Nastavitve" > "Pomnilnik" / "Shramba". Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Uporabljeno 50 GB / 64 GB".
