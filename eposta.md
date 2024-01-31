@@ -11,6 +11,10 @@ css: yt.css
 	{% include youtube.html video="zy-7h-kRVRo" %}
 </div>
 
+<div class="btnpad">
+<a class="button" href="https://github.com/ewba/dcd-si/blob/main/assets/PDF/Navodila_e-posta.pdf">Navodila v PDF obliki</a>
+</div>
+
 ### 1: Ugotovi in si zapiši izhodiščno stanje
 Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa vedel/a, koliko si izbrisal/a.
 - Gmail: <a href="https://www.google.com/settings/storage" target="_blank" rel="noopener">Odpri nastavitve</a> in pod menijem "Podrobnosti o prostoru za shranjevanje" izpiši podatek poleg kategorije Gmail. Do podatka lahko dostopaš tudi prek klika na bližnjico (Uporabljeno 12 GB od 15 GB) na dnu poštnega predala ali prek klika na profilno fotografijo v zgornjem desnem kotu > "Upravljanje računa Google" > "Plačila in naročnine" > "Upravljaj shrambo". Če uporabljaš deljene diske, lahko do podatka dostopaš prek klika na <a href="https://drive.google.com/drive/u/0/quota" target="_blank" rel="noopener">nastavitve</a>. 
