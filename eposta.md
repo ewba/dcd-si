@@ -11,9 +11,11 @@ css: yt.css
 	{% include youtube.html video="zy-7h-kRVRo" %}
 </div>
 
+
 <div class="btnpad">
-<a class="button" href="https://github.com/ewba/dcd-si/blob/main/assets/PDF/Navodila_e-posta.pdf">Navodila v PDF obliki</a>
+<a class="button" href="assets/PDF/Navodila_e-posta.pdf">Navodila v PDF obliki</a>
 </div>
+
 
 ### 1: Ugotovi in si zapiši izhodiščno stanje
 Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa vedel/a, koliko si izbrisal/a.
