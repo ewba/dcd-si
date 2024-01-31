@@ -2,6 +2,8 @@
 layout: single-page
 title: Navodila za čiščenje&#58; telefon in tablica
 meta-image: assets/img/thumb/Navodila-za-telefon.webp
+meta-title: Navodila za digitalno čiščenje, telefon in tablica
+meta-description: Loti se digitalnega čiščenja telefona! Odklikaj nepotrebne aplikacije, datoteke, fotografije in druge digitalne odpadke ter zmanjšaj svoj digitalni odtis.
 co2: "0,03"
 css: yt.css
 ---
