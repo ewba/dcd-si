@@ -2,6 +2,8 @@
 layout: single-page
 title: Navodila za čiščenje&#58; e-pošta
 meta-image: assets/img/thumb/Navodila-za-emaile.webp
+meta-title: Navodila za digitalno čiščenje, e-pošta
+meta-description: Digitalni odpadki omejujejo tvoj email. Odklikaj nepotrebna sporočila, dolge pogovore in velike priponke, pridobi prostor in zmanjšaj svoje emisije.
 co2: "0,03"
 css: yt.css
 ---
