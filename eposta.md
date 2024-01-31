@@ -56,4 +56,5 @@ Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
 - Gmail in Outlook: Navodila za preverjanje stanja so opisana v koraku 1: Ugotovi in si zapiši izhodiščno stanje.
 
 ### 10: Sporoči nam, koliko si izbrisal/a!
-Si že končal/a s čiščenjem datotek na <a href="datoteke.html" target="_blank" rel="noopener">računalniku, Drivu,</a> <a href="telefon.html" target="_blank" rel="noopener">telefonu in tablici?</a> Oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}).
+Imaš več predalov e-pošte, recimo privatnega in službenega? Ponovi korake na vseh, seštej izbrisane GB in oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}).
+Ne pozabi na čiščenje datotek tudi na <a href="datoteke.html" target="_blank" rel="noopener">računalniku, Drivu,</a> <a href="telefon.html" target="_blank" rel="noopener">telefonu in tablici.</a> 
