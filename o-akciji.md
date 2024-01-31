@@ -43,7 +43,7 @@ Po različnih ocenah naj bi digitalne tehnologije, vključno z informacijsko teh
         tabindex="0"
         class="carousel__slide">
         <span  markdown="1">
-          Vsako leto internet in njegovi podporni sistemi proizvedejo [900 milijonov ton CO<sub>2</sub>](https://digital.worldcleanupday.org/) in nekatere študije ocenjujejo, da bo v desetletju internetno omrežje porabilo 20 % odstotkov celotne svetovne energije.
+          Vsako leto internet in njegovi podporni sistemi proizvedejo [900 milijonov ton CO<sub>2</sub>](https://www.digitalcleanupday.org/) in nekatere študije ocenjujejo, da bo v desetletju internetno omrežje porabilo 20 % odstotkov celotne svetovne energije.
         </span>
       <div class="carousel__snapper">
         <a href="#carousel__slide4"
