@@ -15,7 +15,7 @@ entries:
     entries:
       - title: E-pošta
         url: eposta.html
-      - title: Datoteke
+      - title: Računalnik
         url: datoteke.html
       - title: Telefon
         url: telefon.html
