@@ -12,4 +12,4 @@ title: Navodila za čiščenje
 	<a class="button" href="telefon.html">Telefon in tablica</a>
 </div>
 
-Navodila smo zasnovali na podlagi gradiv [Institute of Sustainable IT](https://institutnr.org/) in [World Cleanup Day France](https://digital-cleanup-day.fr/).
+Navodila smo zasnovali na podlagi gradiv [World Cleanup Day France](https://digital-cleanup-day.fr/).
