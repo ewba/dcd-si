@@ -196,6 +196,9 @@ button, .button {
   min-width: 10em;
   font-size: 1.2rem;
 }
+.btnpad {
+  margin: 2em 0;
+}
 
 // we could load this conditionally only on the one page that needs it (or inline it)
 blockquote {

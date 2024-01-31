@@ -6,7 +6,7 @@ co2: "0,03"
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center; margin-bottom: 1em;min-height: 15.9rem;" id="introdiv">
 	<div>
-		<img src="assets/img/dcd-si-kv.webp" width="306" height="230" id="idx-kv" alt="key visual projekta" aria-hidden="true">
+		<img src="assets/img/dcd-si-kv.webp" width="306" height="230" id="idx-kv" alt="Odklikaj digitalne odpadke" aria-hidden="true">
 	</div>
 	<div id="intro">
 		<h2 style="color:white">Internet proizvede več emisij kot letalstvo!</h2>
