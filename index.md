@@ -1,5 +1,6 @@
 ---
 layout: default
+meta-image: assets/img/thumb/Krovna.webp
 co2: "0,03"
 ---
 
