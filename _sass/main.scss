@@ -219,6 +219,14 @@ cite {
   margin-top: 1em;
   float: right;
 }
+#img-data-usability {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  @media (max-width: 552px) {
+    display: none;
+  }
+}
 
 table {
   margin: 0 auto;
