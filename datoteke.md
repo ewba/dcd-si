@@ -8,6 +8,12 @@ css: yt.css
 
 {% include youtube.html video="_rI7ZG0s74A" %}
 
+
+<div class="btnpad">
+<a class="button" href="assets/PDF/Navodila_racunalnik-drive.pdf">Navodila v PDF obliki</a>
+</div>
+
+
 ### 1: Ugotovi in si zapiši izhodiščno stanje
 Preden začneš, moraš ugotoviti izhodiščno stanje, da boš po koncu procesa vedel/a, koliko si izbrisal/a.
 - Windows 10: Klikni na "Začetek" in ikonico koleščka: "Nastavitve". V meniju izberi možnost "Sistem" > "Prostor za shranjevanje". Izpiši podatek poleg grafičnega prikaza zapolnjenosti "Uporabljeno 123 GB".
