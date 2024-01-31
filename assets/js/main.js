@@ -1,3 +1,5 @@
+"use strict";
+
 // just some inherited eye-candy that can probably be done via newer css selectors directly
 function updatemenu() {
   let el = document.getElementById('menu');
@@ -7,6 +9,30 @@ function updatemenu() {
   } else {
     el.style.borderRadius = '45px';
   }
+}
+
+// avto 1/0,184 (impactco2.fr pa 4,6/1) km na kg, let 1/0,230 km na kg, tgv 341
+// odtis slovenca 7,45t https://www.trajnostnaenergija.si/Trajnostna-energija/Ohranite-okolje-%C4%8Disto/Oglji%C4%8Dni-odtis
+function carbonify(data) {
+  let gb = 0;
+  for (let i = 1; i < 4; i++) {
+    if (data.get("number-" + i)) {
+      let moar = parseInt(data.get("number-" + i))
+      if (data.get("enota-" + i) == "mb") moar /= 1024;
+      gb += moar;
+    }
+  }
+  console.log(data);
+  let co2 = gb; // TODO: izračunaj iz vseh podatkov, upoštevaj enote; preračunaj v KG
+  let svn = (co2 / 7450).toPrecision(2).replace(".", ","); // for some reason toLocaleString is a noop
+  let km = Math.round(co2 / 0.184);
+  return [Math.round(co2), svn, km];
+}
+
+function giveFeedback(data, fidx) {
+  let notify = document.querySelectorAll("#formConfirm");
+  let [co2, svn, km] = carbonify(data);
+  notify[fidx].innerHTML = `<strong>Hvala za podatke!</strong>`;
 }
 
 window.addEventListener("load", (ev) => {
@@ -49,24 +75,24 @@ window.addEventListener("load", (ev) => {
       fc2.style.display = "block";
     });
   }
-  form = document.getElementById("oddaj1");
-  if (form) {
-    form.addEventListener("submit", function(ev) {
+  let form2 = document.getElementById("oddaj1");
+  if (form2) {
+    form2.addEventListener("submit", function(ev) {
       ev.preventDefault();
-      let data = new FormData(form);
+      let data = new FormData(form2);
       fetch("https://ebm.si/p/dcd/subone.php", { method: "post", body: data });
-      let notify = document.getElementById("formConfirm");
-      notify.innerHTML = "Hvala za podatke!";
+      giveFeedback(data, 0);
+      return false;
     });
   }
-  form = document.getElementById("oddaj2");
-  if (form) {
-    form.addEventListener("submit", function(ev) {
+  let form3 = document.getElementById("oddaj2");
+  if (form3) {
+    form3.addEventListener("submit", function(ev) {
       ev.preventDefault();
-      let data = new FormData(form);
+      let data = new FormData(form3);
       fetch("https://ebm.si/p/dcd/submany.php", { method: "post", body: data });
-      let notify = document.getElementById("formConfirm");
-      notify.innerHTML = "Hvala za podatke!";
+      giveFeedback(data, 1);
+      return false;
     });
   }
 });
