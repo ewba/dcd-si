@@ -1,0 +1,102 @@
+---
+---
+@import 'vars';
+
+.formcont {
+	display: none;
+}
+
+.oddaj {
+	max-width: 30em;
+	margin: 0 auto;
+
+	form > div {
+		margin-bottom: 1em;
+	}
+
+	label {
+		display: inline-block;
+		margin-right: 1rem;
+	}
+
+	.dataform-radio-inline label {
+		vertical-align: middle;
+	}
+
+	input[type="checkbox"],
+	input[type="radio"] {
+		width: 1.2rem;
+		height: 1.2rem;
+		vertical-align: middle;
+	}
+
+	.radio-group {
+		display: flex;
+	}
+	.number-units {
+		display: flex;
+		column-gap: 1rem;
+	}
+
+	input[type="number"] {
+		font-size: 1rem;
+		padding-left: 0.5rem;
+		width: 5rem;
+	}
+
+	input[type="submit"] {
+		line-height: 1rem;
+		margin-top: 1rem;
+	}
+
+	input[type="text"] {
+		@media (max-width: $widthTA) {
+			box-sizing: border-box;
+			width: 100%;
+		}
+	}
+
+	textarea {
+		@media (max-width: $widthTA) {
+			box-sizing: border-box;
+			width: 100%;
+		}
+	}
+
+	.vprasanje {
+		display: block;
+		margin: 1rem 0 0.2rem;
+		font-weight: bold;
+	}
+}
+#formConfirm {
+	margin: 1em 0;
+	font-weight: bold;
+}
+
+.tooltip {
+	position:relative;
+	border-bottom:1px dashed #000;
+}
+.tooltip:before {
+	content: attr(data-text);
+
+	// center vertically, right-align
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	left: 100%;
+	margin-left: 15px;
+	
+	width: 200px;
+	padding: 0.5rem;
+	border-radius: 10px;
+	background: $rdecaZiva;
+	color: white;
+	text-align: center;
+	
+	display: none;
+}
+.tooltip:hover:before {
+	display: block;
+}

@@ -29,6 +29,46 @@ window.addEventListener("load", (ev) => {
     let data = new FormData(form);
     fetch("https://ebm.si/civi-signup.php", { method: "post", body: data });
   });
+
+  // data submission
+  let el = document.getElementById("osub-btn");
+  if (el) {
+    el.addEventListener("click", () => {
+      let fc1 = document.getElementById("posameznik");
+      let fc2 = document.getElementById("skupine");
+      fc1.style.display = "block";
+      fc2.style.display = "none";
+    });
+  }
+  el = document.getElementById("msub-btn");
+  if (el) {
+    el.addEventListener("click", () => {
+      let fc1 = document.getElementById("posameznik");
+      let fc2 = document.getElementById("skupine");
+      fc1.style.display = "none";
+      fc2.style.display = "block";
+    });
+  }
+  form = document.getElementById("oddaj1");
+  if (form) {
+    form.addEventListener("submit", function(ev) {
+      ev.preventDefault();
+      let data = new FormData(form);
+      fetch("https://ebm.si/p/dcd/subone.php", { method: "post", body: data });
+      let notify = document.getElementById("formConfirm");
+      notify.innerHTML = "Hvala za podatke!";
+    });
+  }
+  form = document.getElementById("oddaj2");
+  if (form) {
+    form.addEventListener("submit", function(ev) {
+      ev.preventDefault();
+      let data = new FormData(form);
+      fetch("https://ebm.si/p/dcd/submany.php", { method: "post", body: data });
+      let notify = document.getElementById("formConfirm");
+      notify.innerHTML = "Hvala za podatke!";
+    });
+  }
 });
 
 // Light YouTube Embeds based on work by @labnol https://www.labnol.org/

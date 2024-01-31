@@ -45,9 +45,11 @@
       {%- include mainmenu.html -%}
     </nav>
 
+    {% if page.nebelezi != 1 %}
     <div class="submitData" role="navigation" aria-label="Povezava na stran za oddajo rezultatov">
       <a href="zabelezi-rezultate.html">{{ site.data.text.submitResults }}</a>
     </div>
+    {% endif %}
 
     <div role="banner">
       <h1>{{ site.data.text.mainTitle }}</h1>
