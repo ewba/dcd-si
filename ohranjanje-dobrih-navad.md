@@ -21,7 +21,7 @@ V hitrem življenjskem tempu je digitalna prisotnost ključna za naše vsakodnev
 - Zaženi redno čiščenje diska, da odstraniš nepotrebne sistemske datoteke.
 - V oblaku hrani le najnujnejše in omogoči sinhronizacijo le za potrebne mape v različnih napravah.
 - Omogoči avtomatizirano brisanje zastarelih datotek, saj je življenje prekratko za ročno brisanje datotek, ki niso več aktualne in uporabne. 
-- S kompresiranjem fotografij dobimo najboljše iz obeh svetov - ohranimo kakovost in pridobimo na prostoru.
+- S kompresiranjem fotografij dobimo najboljše iz obeh svetov - ohranimo kakovost in pridobimo na prostoru. Zelo koristno orodje, ki omogoča kompresiranje več datotek hkrati, je <a href="https://image-resizer-for-windows.en.lo4d.com/windows" target="_blank" rel="noopener">Image resizer</a>. 
 - Tudi videoposnetkom lahko zmanjšaš velikost - pred objavo preglej <a href="https://theshiftproject.org/en/guide-reduce-weight-video-5-minutes/" target="_blank" rel="noopener">navodila</a>, ki ti omogočajo varčno objavo brez izgube kakovosti.
 
 ### Brskanje in ogled spletnih vsebin
