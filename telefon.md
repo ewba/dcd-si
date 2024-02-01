@@ -44,5 +44,4 @@ Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
 - Android in iPhone: Navodila za preverjanje stanja so opisana v koraku 1: Ugotovi in si zapiši izhodiščno stanje.
 
 ### 8: Sporoči nam, koliko si izbrisal/a!
-Imaš več telefonov, recimo privatnega in službenega ali telefon in tablico? Ponovi korake na vseh napravah, seštej izbrisane GB in oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}). 
-Ne pozabi na čiščenje datotek tudi na <a href="datoteke.html" target="_blank" rel="noopener">računalniku, Drivu,</a> <a href="eposta.html" target="_blank" rel="noopener">e-pošti.</a> 
+Imaš več telefonov, recimo privatnega in službenega ali telefon in tablico? Ponovi korake na vseh napravah, seštej izbrisane GB in oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}) najkasneje do 16. marca do 16. ure. Ne pozabi na čiščenje datotek tudi na <a href="datoteke.html" target="_blank" rel="noopener">računalniku, Drivu,</a> <a href="eposta.html" target="_blank" rel="noopener">e-pošti.</a> 
