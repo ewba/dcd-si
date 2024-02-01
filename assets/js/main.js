@@ -12,27 +12,32 @@ function updatemenu() {
 }
 
 // avto 1/0,184 (impactco2.fr pa 4,6/1) km na kg, let 1/0,230 km na kg, tgv 341
+// avto 183,65 g/km https://kazalci.arso.gov.si/sl/content/izpusti-co2-iz-novih-vseh-osebnih-vozil-1?tid=95
+// mleko 0,7 kg/kg https://kazalci.arso.gov.si/sl/content/intenzivnost-izpustov-tgp-pri-prireji-mleka-govejega-mesa?tid=96
 // odtis slovenca 7,45t https://www.trajnostnaenergija.si/Trajnostna-energija/Ohranite-okolje-%C4%8Disto/Oglji%C4%8Dni-odtis
 function carbonify(data) {
-  let gb = 0;
+  let gb = 0.0;
   for (let i = 1; i < 4; i++) {
     if (data.get("number-" + i)) {
-      let moar = parseInt(data.get("number-" + i))
+      let moar = parseFloat(data.get("number-" + i))
       if (data.get("enota-" + i) == "mb") moar /= 1024;
       gb += moar;
     }
   }
-  console.log(data);
-  let co2 = gb; // TODO: izračunaj iz vseh podatkov, upoštevaj enote; preračunaj v KG
-  let svn = (co2 / 7450).toPrecision(2).replace(".", ","); // for some reason toLocaleString is a noop
-  let km = Math.round(co2 / 0.184);
+  let co2 = gb * 209.5; // v gramih, LDI FR
+  let svn = (co2 / 1000 / 0.7 / 1.03).toPrecision(1).replace(".", ","); // for some reason toLocaleString is a noop
+  let km = Math.round(co2 / 183.65);
   return [Math.round(co2), svn, km];
 }
 
 function giveFeedback(data, fidx) {
   let notify = document.querySelectorAll("#formConfirm");
   let [co2, svn, km] = carbonify(data);
-  notify[fidx].innerHTML = `<strong>Hvala za podatke!</strong>`;
+  if (co2 < 250) {
+    notify[fidx].innerHTML = `<strong>Hvala za podatke!</strong> Približen odtis izbrisanih podatkov je <strong>${co2}g CO<sub>2</sub>eq na leto</strong>.`;
+  } else {
+    notify[fidx].innerHTML = `<strong>Hvala za podatke!</strong> Približen odtis izbrisanih podatkov je <strong>${co2}g CO<sub>2</sub>eq na leto</strong>, kar si lahko predstavljate kot ${km} km prevoženih z avtom ali pa pridelavo ${svn} litrov mleka.`;
+  }
 }
 
 window.addEventListener("load", (ev) => {
