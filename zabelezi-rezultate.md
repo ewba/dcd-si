@@ -1,6 +1,7 @@
 ---
 layout: single-page
 title: Zabeleži rezultate
+meta-image: assets/img/thumb/Rezultati.webp
 meta-title: Oddaj rezultate svojega digitalnega čiščenja!
 meta-description: Hvala, ker z nami čistiš digitalne odpadke! Da bomo vedeli, kakšen je naš skupni učinek in koliko emisijam smo se izognili, te prosimo za vnos rezultatov.
 css: form.css
