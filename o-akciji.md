@@ -30,7 +30,7 @@ Ogljični odtis digitalnih aktivnosti se nanaša na količino toplogrednih plino
 - <strong>Zasnova programskih rešitev</strong>: neučinkovitost pomeni višjo porabo naravnih virov ter večjo potrebo po in hitrejše trošenje strojne opreme.
 - <strong>Vzorci uporabe</strong>: različni načini uporabe enih in istih digitalnih rešitev imajo lahko zelo različne ogljične odtise.
 
-Po različnih ocenah naj bi digitalne tehnologije, vključno z informacijsko tehnologijo in komunikacijskimi omrežji, prispevale k 4-5% svetovnih izpustov toplogrednih plinov v 2023, njihov delež pa zraste za približno [6 % na leto](https://theshiftproject.org/wp-content/uploads/2023/02/TSP_5G_SYNTHESIS_ENG.pdf). To je že več izpustov, kot jih proizvede letalski promet.
+Po različnih ocenah naj bi digitalne tehnologije, vključno z informacijsko tehnologijo in komunikacijskimi omrežji, prispevale k 4-5% svetovnih izpustov toplogrednih plinov v 2023, njihov delež pa zraste za približno <a href="https://theshiftproject.org/wp-content/uploads/2023/02/TSP_5G_SYNTHESIS_ENG.pdf" target="_blank" rel="noopener">6 % na leto</a>. To je že več izpustov, kot jih proizvede letalski promet.
 
 <blockquote cite="https://gerrymcgovern.com/books/world-wide-waste/">
   »Digitalno je fizično. Digitalno ni zeleno. Digital stane Zemljo. Vsakič, ko prenesem e-pošto, prispevam h globalnemu segrevanju. Vsakič, ko tvitam, iščem, preverjam spletno stran, ustvarim onesnaženje. Digitalno je fizično. Ti podatkovni centri niso v oblaku. Na kopnem so v ogromnih fizičnih zgradbah, polnih računalnikov, lačnih energije. Zdi se nevidno. Zdi se poceni in brezplačno. Ni. Digital stane Zemljo.«
@@ -45,7 +45,7 @@ Po različnih ocenah naj bi digitalne tehnologije, vključno z informacijsko teh
         tabindex="0"
         class="carousel__slide">
         <span  markdown="1">
-          Vsako leto internet in njegovi podporni sistemi proizvedejo [900 milijonov ton CO<sub>2</sub>](https://www.digitalcleanupday.org/) in nekatere študije ocenjujejo, da bo v desetletju internetno omrežje porabilo 20 % odstotkov celotne svetovne energije.
+          Vsako leto internet in njegovi podporni sistemi proizvedejo <a href="https://www.digitalcleanupday.org/" target="_blank" rel="noopener">900 milijonov ton CO<sub>2</sub></a> in nekatere študije ocenjujejo, da bo v desetletju internetno omrežje porabilo 20 % odstotkov celotne svetovne energije.
         </span>
       <div class="carousel__snapper">
         <a href="#carousel__slide4"
@@ -58,7 +58,7 @@ Po različnih ocenah naj bi digitalne tehnologije, vključno z informacijsko teh
         tabindex="0"
         class="carousel__slide">
         <span  markdown="1">
-          Za izravnavo onesnaževanja, ki ga povzroča približno 1,9 bilijona letnih iskanj na Googlu, bi bilo treba posaditi [16 milijonov dreves](https://gerrymcgovern.com/books/world-wide-waste/).
+          Za izravnavo onesnaževanja, ki ga povzroča približno 1,9 bilijona letnih iskanj na Googlu, bi bilo treba posaditi <a href="https://gerrymcgovern.com/books/world-wide-waste/" target="_blank" rel="noopener">16 milijonov dreves</a>.
         </span>
       <div class="carousel__snapper"></div>
       <a href="#carousel__slide1"
@@ -86,7 +86,7 @@ Po različnih ocenah naj bi digitalne tehnologije, vključno z informacijsko teh
         tabindex="0"
         class="carousel__slide">
         <span  markdown="1">
-Povprečna aplikacija izgubi [77 % uporabnikov](https://gerrymcgovern.com/books/world-wide-waste/) v prvih treh dneh po namestitvi, 90 % v prvih 30 dneh in 95 % v prvih 90 dneh.
+Povprečna aplikacija izgubi <a href="https://gerrymcgovern.com/books/world-wide-waste/" target="_blank" rel="noopener">77 % uporabnikov</a> v prvih treh dneh po namestitvi, 90 % v prvih 30 dneh in 95 % v prvih 90 dneh.
         </span>
       <div class="carousel__snapper"></div>
       <a href="#carousel__slide3"
@@ -98,7 +98,7 @@ Povprečna aplikacija izgubi [77 % uporabnikov](https://gerrymcgovern.com/books/
         tabindex="0"
         class="carousel__slide">
         <span  markdown="1">
-Za shranjevanje trenutne količine podatkov potrebujemo približno [70 milijonov strežnikov](https://gerrymcgovern.com/99-of-data-has-been-produced-in-the-last-ten-years/). Proizvodnja vsakega strežnika je povzročila od ene do dveh ton izpustov CO<sub>2</sub>, še preden upoštevamo ogromne količine energije za njihovo delovanje in še večje količine vode za njihovo hlajenje.
+Za shranjevanje trenutne količine podatkov potrebujemo približno <a href="https://gerrymcgovern.com/99-of-data-has-been-produced-in-the-last-ten-years/" target="_blank" rel="noopener">70 milijonov strežnikov</a>. Proizvodnja vsakega strežnika je povzročila od ene do dveh ton izpustov CO<sub>2</sub>, še preden upoštevamo ogromne količine energije za njihovo delovanje in še večje količine vode za njihovo hlajenje.
         </span>
       <div class="carousel__snapper"></div>
       <a href="#carousel__slide4"
@@ -110,7 +110,7 @@ Za shranjevanje trenutne količine podatkov potrebujemo približno [70 milijonov
         tabindex="0"
         class="carousel__slide">
         <span  markdown="1">
-Povprečno iskanje v Googlu povzroči [0,192 g CO<sub>2</sub>](https://gerrymcgovern.com/the-environmental-cost-of-search/).
+Povprečno iskanje v Googlu povzroči <a href="https://gerrymcgovern.com/the-environmental-cost-of-search/" target="_blank" rel="noopener">0,192 g CO<sub>2</sub></a>.
         </span>
       <div class="carousel__snapper"></div>
       <a href="#carousel__slide5"
