@@ -1,6 +1,8 @@
 ---
 layout: single-page
 title: Zabeleži rezultate
+meta-title: Oddaj rezultate svojega digitalnega čiščenja!
+meta-description: Hvala, ker z nami čistiš digitalne odpadke! Da bomo vedeli, kakšen je naš skupni učinek in koliko emisijam smo se izognili, te prosimo za vnos rezultatov.
 css: form.css
 nebelezi: 1
 ---
@@ -10,10 +12,10 @@ Uradni dan digitalnega čiščenja bo **16. marec 2024**! Ker pa se spremembe ne
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0">
 	<button id="osub-btn">Obrazec za posameznike</button>
-	<button id="msub-btn">Obrazec za ostale</button>
+	<button id="msub-btn">Obrazec za skupine</button>
 </div>
 
-Tisti, ki želite biti obveščeni o rezultatih projekta, se lahko naročite na obvestila v obrazcu na dnu strani.
+Če želiš biti obveščen/a o rezultatih projekta, se naroči na obvestila v obrazcu na dnu strani.
 
 <div class="formcont" id="posameznik">
 <h2>Obrazec za posameznike</h2>
