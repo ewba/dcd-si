@@ -23,6 +23,7 @@ co2: "0,03"
 
 Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistiš in <a href="https://digital.ocistimo.si/zabelezi-rezultate.html">oddaš rezultate</a> vse od februarja naprej. Vsi do roka (16. marec do 16. ure) oddani podatki bodo upoštevani v letošnjem poročilu akcije.
 
+<br><br>
 Še pred tem pa te vabimo k izpolnjevanju <a href="[https://www.sciencedirect.com/science/article/pii/S0959652622032115](https://1ka.arnes.si/a/3bb67f93)" target="_blank" rel="noopener">kratkega in preprostega vprašalnika</a>, ki nam bo povedal, kako domača tema so digitalni odpadki med Slovenkami in Slovenci. 
 
 {% include sodeluj.html %}
