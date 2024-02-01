@@ -1,12 +1,14 @@
 ---
 layout: single-page
 meta-image: assets/img/thumb/FAQ.webp
+meta-title: Pogosta vprašanja o digitalnem čiščenju in poteku akcije
+meta-description: Kako akcija poteka, kako sodelovati, kako je digitalno čiščenje povezano z digitalizacijo in še vrsto drugih odgovorov na vprašanja smo zbrali na enem mestu.
 title: Pogosta vprašanja
 ---
 
 Skoči na vprašanja o [konceptu projekta](#o-konceptu-projekta), [čiščenju](#o-čiščenju) in [skupinskem čiščenju](#čiščenje-za-skupine).
 
-Imate še kakšno vprašanje? Pišite nam na info@ocistimo.si.
+Imaš še kakšno vprašanje? Piši nam na info@ocistimo.si.
 
 ## O konceptu projekta
 ### Ali nimamo na svetu več drugih bolj pomembnih okoljskih izzivov?
@@ -79,4 +81,4 @@ Ni nujno. Če se s sodelavci lotite vsak svojih osebnih in službenih računalni
 Krasno! Za naše podpornike poleg internih in eksternih ozaveščevalnih aktivnosti izvajamo aktivacije po izbiri, podpiramo jih pri pripravi strategije upravljanja z digitalnimi odpadki, podporniki pa lahko sodelujejo tudi pri strokovni skupini projekta. Sporočite nam vaše želje in skupaj bomo poiskali način sodelovanja, ki bo ustrezal vsem.
 
 
-Pogrešate odgovor na še kakšno vprašanje? Pišite nam na info@ocistimo.si in z veseljem odgovorimo!
+Pogrešaš odgovor na še kakšno vprašanje? Piši nam na info@ocistimo.si in z veseljem odgovorimo!
