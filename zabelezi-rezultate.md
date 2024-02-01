@@ -40,7 +40,7 @@ Tisti, ki želite biti obveščeni o rezultatih projekta, se lahko naročite na 
 	<div>
 		<label for="number-1" class="vprasanje">Količina izbrisanih podatkov (e-pošta)</label>
 		<div class="number-units">
-			<input type="number" min="0" value="0" required name="number-1" min="0" id="number-1" title="v MB/GB (gigabajtih)">
+			<input type="number" min="0" value="0" step="0.1" required name="number-1" id="number-1" title="v MB/GB (gigabajtih)">
 			<div class="dataform-radio-group">
 				<div class="radio-group">
 					<div class="dataform-radio-inline">
@@ -58,7 +58,7 @@ Tisti, ki želite biti obveščeni o rezultatih projekta, se lahko naročite na 
 	<div>
 		<label for="number-2" class="vprasanje">Količina izbrisanih podatkov (na računalniku in v oblaku)</label>
 		<div class="number-units">
-			<input type="number" min="0" value="0" required name="number-2" min="0" id="number-2" title="v MB/GB (gigabajtih)">
+			<input type="number" min="0" value="0" step="0.1" required name="number-2" id="number-2" title="v MB/GB (gigabajtih)">
 			<div class="dataform-radio-group">
 				<div class="radio-group">
 					<div class="dataform-radio-inline">
@@ -76,7 +76,7 @@ Tisti, ki želite biti obveščeni o rezultatih projekta, se lahko naročite na 
 	<div>
 		<label for="number-3" class="vprasanje">Količina izbrisanih podatkov (na mobilnih napravah)</label>
 		<div class="number-units">
-			<input type="number" min="0" value="0" required name="number-3" min="0" id="number-3" title="v MB/GB (gigabajtih)">
+			<input type="number" min="0" value="0" step="0.1" required name="number-3" id="number-3" title="v MB/GB (gigabajtih)">
 			<div class="dataform-radio-group">
 				<div class="radio-group">
 					<div class="dataform-radio-inline">
@@ -114,12 +114,12 @@ Tisti, ki želite biti obveščeni o rezultatih projekta, se lahko naročite na 
 	</div>
 	<div>
 		<label for="number-0" class="vprasanje">Število sodelujočih</label>
-		<input type="number" min="0" placeholder="0" required name="number-0" min="0" id="number-0">
+		<input type="number" min="0" placeholder="0" required name="number-0" id="number-0">
 	</div>
 	<div>
 		<label for="number-1" class="vprasanje">Količina izbrisanih podatkov (e-pošta)</label>
 		<div class="number-units">
-			<input type="number" min="0" value="0" required name="number-1" min="0" id="number-1" title="v MB/GB (gigabajtih)">
+			<input type="number" min="0" value="0" step="0.1" required name="number-1" id="number-1" title="v MB/GB (gigabajtih)">
 			<div class="dataform-radio-group">
 				<div class="radio-group">
 					<div class="dataform-radio-inline">
@@ -137,7 +137,7 @@ Tisti, ki želite biti obveščeni o rezultatih projekta, se lahko naročite na 
 	<div>
 		<label for="number-2" class="vprasanje">Količina izbrisanih podatkov (na računalniku in v oblaku)</label>
 		<div class="number-units">
-			<input type="number" min="0" value="0" required name="number-2" min="0" id="number-2" title="v MB/GB (gigabajtih)">
+			<input type="number" min="0" value="0" step="0.1" required name="number-2" id="number-2" title="v MB/GB (gigabajtih)">
 			<div class="dataform-radio-group">
 				<div class="radio-group">
 					<div class="dataform-radio-inline">
@@ -155,7 +155,7 @@ Tisti, ki želite biti obveščeni o rezultatih projekta, se lahko naročite na 
 	<div>
 		<label for="number-3" class="vprasanje">Količina izbrisanih podatkov (na mobilnih napravah)</label>
 		<div class="number-units">
-			<input type="number" min="0" value="0" required name="number-3" min="0" id="number-3" title="v MB/GB (gigabajtih)">
+			<input type="number" min="0" value="0" step="0.1" required name="number-3" id="number-3" title="v MB/GB (gigabajtih)">
 			<div class="dataform-radio-group">
 				<div class="radio-group">
 					<div class="dataform-radio-inline">
