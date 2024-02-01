@@ -1,6 +1,8 @@
 ---
 layout: single-page
 meta-image: assets/img/thumb/Sodeluj.webp
+meta-title: Kako sodelovati pri največji digitalni čistilni akciji?
+meta-description: Lani so vsi udeleženci akcije digitalnega čiščenja izbrisali več kot 530.000 GB podatkov, kar pomeni 133 ton emisij CO<sub>2</sub> manj. Kako sodelujem letos?
 title: Kako sodelujem?
 ---
 
