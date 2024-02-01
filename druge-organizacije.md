@@ -1,6 +1,8 @@
 ---
 layout: single-page
 meta-image: assets/img/thumb/Organizacija.webp
+meta-title: Čiščenje elektronskih naprav z vašimi zaposlenimi / člani
+meta-description: Digitalna čistilna akcija vam lahko pomaga izboljšati procese in učinkovitost, zmanjšate lahko stroške shranjevanja in podaljšate življenjsko dobo elektronske opreme.
 title: Druge organizacije
 ---
 
