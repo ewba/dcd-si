@@ -12,7 +12,7 @@ V digitalnem svetu je, podobno kot v našem okolju, ogromno odpadkov. Digitalni 
 
 Z izbrisom nepotrebnih datotek in podatkov iz naših elektronskih naprav vplivamo na znižanje našega ogljičnega odtisa, hkrati pa podaljšujemo življenjsko dobo svojih naprav.
 
-**V letu 2023 so vsi udeleženci akcije po celem svetu izbrisali več kot 4 M GB podatkov, kar pomeni 1.7 M kg emisij CO<sub>2</sub> manj.** Kot 228 ljudi proizvede v enem letu.
+**V letu 2023 so vsi udeleženci akcije po celem svetu izbrisali več kot 4 M GB podatkov, kar pomeni 1.7 M kg emisij CO<sub>2</sub> manj.** Kot 362 ljudi proizvede v enem letu.
 
 ### Kako pa lahko v največji digitalni čistilni akciji sodeluješ letos?
 
