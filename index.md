@@ -1,6 +1,8 @@
 ---
 layout: default
 meta-image: assets/img/thumb/Krovna.webp
+meta-title: Sodeluj v akciji Očistimo Slovenijo digitalnih odpadkov!
+meta-description: Sodeluj pri množičnem čiščenju elektronskih naprav, diskov in e-poštnih predalov, da zbrišemo karseda veliko digitalne navlake in s tem zmanjšamo emisije.
 co2: "0,03"
 ---
 
