@@ -21,7 +21,7 @@ co2: "0,03"
 <div class="block" style="min-height: 14.5rem;">
 <h2>Kako sodeluješ?</h2>
 
-Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistiš in oddaš rezultate vse od februarja naprej. Da bomo vedeli, kakšen je naš skupni učinek, te prosimo za vnos rezultatov najkasneje do **16. marca do 16. ure** - v tem primeru bo tvoj prispevek prištet h kolektivnemu rezultatu, ki ga bomo javno komunicirali po zaključku letošnje akcije.
+Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistiš in oddaš rezultate vse od februarja naprej. Da bomo vedeli, kakšen je naš skupni učinek, te prosimo za vnos rezultatov najkasneje do <strong>16. marca do 16. ure</strong> - v tem primeru bo tvoj prispevek prištet h kolektivnemu rezultatu, ki ga bomo javno komunicirali po zaključku letošnje akcije.
 
 {% include sodeluj.html %}
 
