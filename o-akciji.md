@@ -2,6 +2,8 @@
 layout: default
 title: O akciji
 meta-image: assets/img/thumb/O-akciji.webp
+meta-title: Kaj je akcija Očistimo Slovenija digitalnih odpadkov? 
+meta-description: O tem, kaj je digitalni odtis in zakaj smo se lotili organizacije akcije digitalnega čiščenja. Odklikaj digitalne odpadke tudi ti in nam sporoči rezultate!
 css: carousel.css
 ---
 
