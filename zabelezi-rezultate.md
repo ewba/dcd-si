@@ -175,7 +175,7 @@ Tisti, ki želite biti obveščeni o rezultatih projekta, se lahko naročite na 
 		<textarea type="textarea" rows="5" cols="60" placeholder="Npr. samostojno čiščenje zaposlenih, ozaveščevalne aktivnosti, učna ura za učence, vključitev IT oddelka …" id="aktivnosti" name="aktivnosti"></textarea>
 	</div>
 	<div>
-		<label for="komentar" class="vprasanje">Nam želiš še kaj sporočiti?		  </label>
+		<label for="komentar" class="vprasanje">Nam želite še kaj sporočiti? Ste med čiščenjem opazili kaj zanimivega?	  </label>
 		<textarea type="textarea" rows="5" cols="60" placeholder="Pripombe, pobude, pritožbe, pohvale pa primeri posebnih praks ..." id="komentar" name="komentar"></textarea>
 	</div>
 	<input type="hidden" name="hiddata" value="6e947e58d8d12d6ca1f8d3d5e1d3892c">
