@@ -21,7 +21,7 @@ co2: "0,03"
 <div class="block" style="min-height: 14.5rem;">
 <h2>Kako sodeluješ?</h2>
 
-Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistiš in oddaš rezultate vse od februarja naprej. Da bomo vedeli, kakšen je naš skupni učinek, te prosimo za [vnos rezultatov](#zabelezi-rezultate) najkasneje do <strong>16. marca do 16. ure</strong> - v tem primeru bo tvoj prispevek prištet h kolektivnemu rezultatu, ki ga bomo javno komunicirali po zaključku letošnje akcije. Še pred tem pa te vabimo k izpolnjevanju kratkega in preprostega vprašalnika, ki nam bo povedal, kako domača tema so digitalni odpadki med Slovenkami in Slovenci. 
+Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistiš in oddaš rezultate vse od februarja naprej. Da bomo vedeli, kakšen je naš skupni učinek, te prosimo za [vnos rezultatov](#zabelezi-rezultate) najkasneje do <strong>16. marca do 16. ure</strong> - v tem primeru bo tvoj prispevek prištet h kolektivnemu rezultatu, ki ga bomo javno komunicirali po zaključku letošnje akcije. Še pred tem pa te vabimo k izpolnjevanju <a href="[https://www.sciencedirect.com/science/article/pii/S0959652622032115](https://1ka.arnes.si/a/3bb67f93)" target="_blank" rel="noopener">kratkega in preprostega vprašalnika</a>, ki nam bo povedal, kako domača tema so digitalni odpadki med Slovenkami in Slovenci. 
 
 {% include sodeluj.html %}
 
