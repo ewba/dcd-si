@@ -51,7 +51,7 @@ Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se
 		<img src="assets/img/ff/eml.webp" alt="okras seznama 2" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
 	</div>
 	<div style="justify-self: start">
-		<h3>Preprečili kopičenje digitalnih odpadkov</h3>
+		<h3>Preprečiti kopičenje digitalnih odpadkov</h3>
 		Posameznike opolnomočiti, da bodo lahko <strong>preprečili kopičenje digitalnih odpadkov</strong>.
 	</div>
 
