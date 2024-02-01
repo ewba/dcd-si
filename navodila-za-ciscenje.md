@@ -1,6 +1,8 @@
 ---
 layout: single-page
 meta-image: assets/img/thumb/Navodila.webp
+meta-title: Navodila za digitalno čiščenje, računalnik, telefon in email
+meta-description: Preveri navodila za čiščenje digitalnega prostora, ki ti bodo pomagala počistiti digitalne odpadke. Ne pozabi pred začetkom preveriti izhodiščnega stanja.
 title: Navodila za čiščenje
 ---
 
