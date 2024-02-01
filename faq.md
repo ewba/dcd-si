@@ -66,8 +66,8 @@ Zapomni si prvi korak: preden karkoli izbrišeš, vedno najprej preveri in si za
 ### Izbrisal/a sem 150 GB. Kako in kdaj naj sporočim svoje rezultate? 
 Najprej, čestitke, takšne rabimo! Tvoj rezultat nam sporoči z oddajo rezultatov na [spletni strani]({{ site.submitURL }}) do 16. marca do 16. ure - v tem primeru bo tvoj prispevek prištet kolektivnemu rezultatu, ki ga bomo javno komunicirali po zaključku letošnje akcije. 
 
-### Koliko časa traja akcija?
-Za digitalno higieno je smiselno skrbeti sproti. Skupni rezultati bodo objavljeni pomladi, če pa vaše rezultate sporočite po roku, bodo upoštevani v naslednjem letu.
+### Ojoj, zamudil/a sem rok: 16. marec do 16. ure. Naj vseeno sporočim rezultate?
+Da. Za digitalno higieno je smiselno skrbeti ves čas. Skupni rezultati bodo objavljeni pomladi, če pa svoje rezultate sporočiš po roku, bodo upoštevani v naslednjem letu.
 
 
 ## Čiščenje za skupine
