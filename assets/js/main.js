@@ -25,7 +25,7 @@ function carbonify(data) {
     }
   }
   let co2 = gb * 209.5; // v gramih, LDI FR
-  let svn = (co2 / 1000 / 0.7 / 1.03).toPrecision(1).replace(".", ","); // for some reason toLocaleString is a noop
+  let svn = (co2 / 1000 / 0.7 / 1.03).toFixed(1).replace(".", ","); // for some reason toLocaleString is a noop
   let km = Math.round(co2 / 183.65);
   return [Math.round(co2), svn, km];
 }
