@@ -1,6 +1,8 @@
 ---
 layout: single-page
 meta-image: assets/img/thumb/Dobre%20navade.webp
+meta-title: Koristni nasveti za ohranjanje trajnostnih digitalnih navad
+meta-description: Odklikali smo digitalne odpadke, kaj pa zdaj? Kako komunicirati, upravljati z datotekami in brskati po spletu, da bodo naše digitalne navade bolj trajnostne?
 title: Ohranjanje dobrih navad
 ---
 
