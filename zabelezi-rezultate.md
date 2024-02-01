@@ -7,8 +7,7 @@ css: form.css
 nebelezi: 1
 ---
 
-Hvala, ker čistiš z nami! Da bomo vedeli, kakšen je naš skupni učinek, te prosimo za vnos rezultatov.
-Uradni dan digitalnega čiščenja bo **16. marec 2024**! Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistiš že od februarja naprej.
+Hvala, ker čistiš z nami! Da bomo vedeli, kakšen je naš skupni učinek, te prosimo za vnos rezultatov **najkasneje do 16. marca do 16. ure** - v tem primeru bo tvoj prispevek prištet kolektivnemu rezultatu, ki ga bomo javno komunicirali po zaključku letošnje akcije.
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0">
 	<button id="osub-btn">Obrazec za posameznike</button>
