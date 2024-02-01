@@ -14,7 +14,7 @@ function updatemenu() {
 // avto 1/0,184 (impactco2.fr pa 4,6/1) km na kg, let 1/0,230 km na kg, tgv 341
 // avto 183,65 g/km https://kazalci.arso.gov.si/sl/content/izpusti-co2-iz-novih-vseh-osebnih-vozil-1?tid=95
 // mleko 0,7 kg/kg https://kazalci.arso.gov.si/sl/content/intenzivnost-izpustov-tgp-pri-prireji-mleka-govejega-mesa?tid=96
-// odtis slovenca 7,45t https://www.trajnostnaenergija.si/Trajnostna-energija/Ohranite-okolje-%C4%8Disto/Oglji%C4%8Dni-odtis
+// odtis slovenca 6t v 2022 https://ourworldindata.org/co2-and-greenhouse-gas-emissions
 function carbonify(data) {
   let gb = 0.0;
   for (let i = 1; i < 4; i++) {
@@ -38,6 +38,13 @@ function giveFeedback(data, fidx) {
   } else {
     notify[fidx].innerHTML = `<strong>Hvala za podatke!</strong> Približen odtis izbrisanih podatkov je <strong>${co2}g CO<sub>2</sub>eq na leto</strong>, kar si lahko predstavljate kot ${km} km prevoženih z avtom ali pa pridelavo ${svn} litrov mleka.`;
   }
+
+  // temporarily disable button
+  let subbtn = document.querySelectorAll('button[type="submit"]')[fidx];
+  subbtn.toggleAttribute("disabled");
+  setTimeout(() => {
+    subbtn.toggleAttribute("disabled");
+  }, 3000);
 }
 
 window.addEventListener("load", (ev) => {

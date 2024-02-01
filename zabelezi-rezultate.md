@@ -98,7 +98,7 @@ Hvala, ker čistiš z nami! Da bomo vedeli, kakšen je naš skupni učinek, te p
 		<textarea type="textarea" rows="5" cols="60" placeholder="Pripombe, pobude, pritožbe, pohvale pa primeri posebnih praks ..." id="komentar" name="komentar"></textarea>
 	</div>
 	<input type="hidden" name="hiddata" value="6e947e58d8d12d6ca1f8d3d5e1d3892c">
-	<input type="submit" name="subdata" value="Pošlji" class="button">
+	<button type="submit" name="subdata">Pošlji</button>
 </form>
 <div id="formConfirm"></div>
 
@@ -181,7 +181,7 @@ Hvala, ker čistiš z nami! Da bomo vedeli, kakšen je naš skupni učinek, te p
 		<textarea type="textarea" rows="5" cols="60" placeholder="Pripombe, pobude, pritožbe, pohvale pa primeri posebnih praks ..." id="komentar" name="komentar"></textarea>
 	</div>
 	<input type="hidden" name="hiddata" value="6e947e58d8d12d6ca1f8d3d5e1d3892c">
-	<input type="submit" name="subdata" value="Pošlji" class="button">
+	<button type="submit" name="subdata">Pošlji</button>
 </form>
 <div id="formConfirm"></div>
 
