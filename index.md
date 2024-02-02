@@ -39,7 +39,7 @@ Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se
 	</div>
 	<div style="justify-self: start">
 		<h3>Odstraniti čim več odvečnih podatkov</h3>
-		Do zaključka akcije 16. marca 2024 <strong>počistiti čim več odvečnih gigabajtov</strong> in okolje razbremeniti digitalnih odpadkov.
+		Do zaključka akcije 16. marca 2024 <strong>počistiti čim več odvečnih gigabajtov</strong> in okolje [razbremeniti digitalnih odpadkov](https://digital.ocistimo.si/o-akciji.html). Z enostavnim ukrepom lahko zmanjšaš emisije CO2 ter podaljšaš življenjsko dobo elektronske opreme.
 	</div>
 
 	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
