@@ -274,6 +274,21 @@ tbody>:nth-child(2n-1) {
   #popular td:nth-of-type(4):before { content: "Komentar"; }
 }
 
+button[type="submit"] {
+  margin-top: 1rem;
+  position: relative;
+  &:disabled {
+    background-color: grey;
+  }
+  &:disabled::after {
+    // spinner used under MIT from https://github.com/n3r4zzurr0/svg-spinners
+    content: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIsMjNhOS42Myw5LjYzLDAsMCwxLTgtOS41LDkuNTEsOS41MSwwLDAsMSw2Ljc5LTkuMUExLjY2LDEuNjYsMCwwLDAsMTIsMi44MWgwYTEuNjcsMS42NywwLDAsMC0xLjk0LTEuNjRBMTEsMTEsMCwwLDAsMTIsMjNaIiAgZmlsbD0iI0ZGRkZGRiI+PGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIGR1cj0iMC43NXMiIHZhbHVlcz0iMCAxMiAxMjszNjAgMTIgMTIiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9wYXRoPjwvc3ZnPg==');
+    margin-left: 1rem;
+    position: absolute;
+    top: 1em;
+  }
+}
+
 @import 'footer';
 
 @media print {

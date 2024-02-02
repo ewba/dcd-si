@@ -36,10 +36,11 @@ footer {
     padding: 0.5rem 3rem 0.5rem 1rem;
     font-size: 1rem;
   }
-  input[type="submit"] {
+  button[type="submit"] {
     border-radius: 25px 25px 25px 25px;
-    padding-right: 1rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
     margin-left: -2rem;
+    margin-top: 0;
     font-size: 1.1rem;
     font-weight: 500;
     background-color: #cd1e87; // darker $rdecaZiva;

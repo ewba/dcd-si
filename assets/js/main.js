@@ -66,6 +66,12 @@ window.addEventListener("load", (ev) => {
     ev.preventDefault();
     let data = new FormData(form);
     fetch("https://ebm.si/civi-signup.php", { method: "post", body: data });
+    // temporarily disable button
+    let subbtn = form.querySelectorAll('button[type="submit"]')[0];
+    subbtn.toggleAttribute("disabled");
+    setTimeout(() => {
+      subbtn.toggleAttribute("disabled");
+    }, 3000);
   });
 
   // data submission
