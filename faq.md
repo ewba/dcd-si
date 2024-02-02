@@ -25,7 +25,7 @@ Za ilustracijo: že leta 2016 so uporabniki na Youtube vsako minuto naložili č
 Našli smo ocene, da do 90 % podatkov po treh mesecih ne dostopamo več in da je <a href="https://www.sciencedirect.com/science/article/pii/S0959652622032115" target="_blank" rel="noopener">le 14 % shranjenih podatkov</a> dejansko pomembnih, kar le še potencira problem neučinkovite rabe.
 
 ### Ampak digitalizacija je dobra, prinaša več koristi!?
-Projekt ni uperjen proti digitalizaciji ali sektorju IKT. Ne zagovarjamo vračanja nazaj v jame ob luči bakel in zvokovih kamnitih orodij, le smotrno rabo. Zavedamo se prednosti digitalizacije, a je nujno, da oblikujemo trajnostne digitalne navade in da tudi z dobrimi navadami digitalnega čiščenja ublažimo večjo porabo virov.
+Projekt ni uperjen proti digitalizaciji ali sektorju IKT (informacijsko-komunikacijske tehnologije). Ne zagovarjamo vračanja nazaj v jame ob luči bakel in zvokih kamnitih orodij, le smotrno rabo. Zavedamo se prednosti digitalizacije, a je nujno, da oblikujemo trajnostne digitalne navade in da tudi z dobrimi navadami digitalnega čiščenja ublažimo večjo porabo virov.
 
 ### Kakšna je razlika med digitalnim odpadkom in digitalnim odtisom?
 Digitalni odpadki predstavljalo le del digitalnega odtisa, kjer upoštevamo vse vplive naše tehnologije. Podobno kot velja za navadne odpadke, ki predstavljalo le del ogljičnega odtisa izdelka, saj je ta prvo moral nastati, priti v trgovino itd., kar vse prispeva k končni vrednosti.
@@ -49,10 +49,10 @@ Ne, to ne pomeni brisanje prahu z monitorjev računalnika! Gre za čiščenje ne
 Naši cilji so odstraniti čim več odvečnih podatkov in dvigniti ozaveščenost od digitalnih podatkih/odpadkih. Poskrbeti pa želimo tudi za preventivo in preprečiti kopičenje digitalnih odpadkov v prihodnosti. Navdihniti vse, da svoje skrbno ravnanje do okolja prenesejo iz fizičnega v digitalni svet, za to navdušijo svoje družine, prijatelje, znance, poslovne partnerje in druge, ki jih obkrožajo ter s svojim zgledom navdihujejo vse generacije, ki jim sledijo!
 
 ### Kdo stoji za projektom?
-<a href="https://ebm.si/" target="_blank" rel="noopener">Ekologi brez meja</a>, organizatorji treh čistilnih akcij Očistimo Slovenijo (tistih klasičnih čistilnih akcij, ko smo v naravi pobirali fizične odpadke.  Mimogrede, v svetovnem merilu imamo še vedno rekord udeležencev glede na število prebivalcev, opa!) in gonilna sila preprečevanja nastajanja odpadkov v Sloveniji. V mreži *Let's do it*, katere člani smo, so med pandemijo pričeli s spodbujanjem digitalnih čistilnih akcij in valu smo se pridružili tudi mi! V letu 2024 smo združili moči s komunikacijsko skupino <a href="https://www.o28.si/" target="_blank" rel="noopener">O28</a>, da bo glas o našem projektu segel tako daleč, kot si želimo.
+<a href="https://ebm.si/" target="_blank" rel="noopener">Ekologi brez meja</a>, organizatorji treh čistilnih akcij Očistimo Slovenijo (tistih klasičnih čistilnih akcij, ko smo v naravi pobirali fizične odpadke.  Mimogrede, v svetovnem merilu imamo še vedno rekord udeležencev glede na število prebivalcev, opa!) in gonilna sila preprečevanja nastajanja odpadkov v Sloveniji. V mreži <a href="https://www.worldcleanupday.org/" target="_blank" rel="noopener">Let's do it</a>, katere člani smo, so med pandemijo pričeli s spodbujanjem digitalnih čistilnih akcij in valu smo se pridružili tudi mi! V letu 2024 smo združili moči s komunikacijsko skupino <a href="https://www.o28.si/" target="_blank" rel="noopener">O28</a>, da bo glas o našem projektu segel tako daleč, kot si želimo.
 
 ### Kdo in kako lahko sodeluje pri čiščenju?
-Vsi. Ne glede na to, ali ste podjetje, izobraževalna ustanova, občina, društvo ali državljan, lahko ukrepate. Več ko nas bo čistilo, večji bo učinek. Digitalno čiščenje Slovenije je brezplačen dogodek, vsa navodila in gradiva so dostopna na tej spletni strani vsem.
+Vsi. Ne glede na to ali ste podjetje, izobraževalna ustanova, občina, društvo ali državljan, vsi lahko ukrepamo. Več ko nas bo čistilo, večji bo učinek. Digitalno čiščenje Slovenije je brezplačen dogodek, vsa navodila in gradiva so dostopna na tej spletni strani vsem.
 
 ### Nisem najbolj tehnološko vešč/a, a bi vseeno sodeloval/a. Bom znal/a?
 Seveda! Pripravili smo brezplačna podrobna video in tekstovna [navodila](navodila-za-ciscenje.html), ki te vodijo čez vse potrebne korake. Ne pozabi nam po čiščenju sporočiti, [koliko si izbrisal/a]({{ site.submitURL }}). 
@@ -64,7 +64,7 @@ Seveda! Pripravili smo brezplačna podrobna video in tekstovna [navodila](navodi
 Zapomni si prvi korak: preden karkoli izbrišeš, vedno najprej preveri in si zapiši začetno stanje! V ta namen smo pripravili [natančna tekstovna in video navodila](navodila-za-ciscenje.html). Logičen zadnji korak pa je ponovno preverjanje količine pomnilnika. Podatke [vnesi v obrazec na spletni strani]({{ site.submitURL }}), kjer izveš še nekaj zanimivih primerjav.
 
 ### Izbrisal/a sem 150 GB. Kako in kdaj naj sporočim svoje rezultate? 
-Najprej, čestitke, takšne rabimo! Tvoj rezultat nam sporoči z oddajo rezultatov na [spletni strani]({{ site.submitURL }}) do 16. marca do 16. ure - v tem primeru bo tvoj prispevek prištet kolektivnemu rezultatu, ki ga bomo javno komunicirali po zaključku letošnje akcije. 
+Najprej, čestitke, takšne rabimo! Tvoj rezultat nam sporoči z oddajo rezultatov na [spletni strani]({{ site.submitURL }}) do 16. marca do 16. ure - v tem primeru bo tvoj prispevek prištet kolektivnemu rezultatu, ki ga bomo javno objavili po zaključku letošnje akcije. 
 
 ### Ojoj, zamudil/a sem rok: 16. marec do 16. ure. Naj vseeno sporočim rezultate?
 Da. Za digitalno higieno je smiselno skrbeti ves čas. Skupni rezultati bodo objavljeni pomladi, če pa svoje rezultate sporočiš po roku, bodo upoštevani v naslednjem letu.
