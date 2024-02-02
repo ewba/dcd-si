@@ -63,7 +63,7 @@ Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se
 	</div>
 	<div style="justify-self: start">
 		<h3>Navdihniti Slovence</h3>
-		<strong>Navdihniti Slovence</strong>, da svoje skrbno ravnanje do okolja prenesejo iz fizičnega v digitalni svet, za to navdušijo svoje družine, prijatelje, znance, poslovne partnerje in druge, ki jih obkrožajo ter s svojim zgledom navdihujejo vse generacije, ki jim sledijo!
+		<strong>Navdihniti Slovence</strong>, da svoje skrbno ravnanje do okolja prenesejo v digitalni svet, za to navdušijo svoje družine, prijatelje, znance, poslovne partnerje in druge, ki jih obkrožajo ter s svojim zgledom navdihujejo vse generacije, ki jim sledijo!
 	</div>
 </div>
 
