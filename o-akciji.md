@@ -27,7 +27,7 @@ Ogljični odtis digitalnih aktivnosti se nanaša na količino toplogrednih plino
 - <strong>Poraba električne energije</strong>: Podatkovni centri, kjer se shranjuje in obdeluje velika količina spletnih podatkov, zahtevajo veliko električne energije za delovanje strojne opreme, hlajenje in vzdrževanje.
 - <strong>Podatkovna povezljivost</strong>: Prehod podatkov prek omrežij, zlasti preko brezžičnih omrežij, zahteva električno energijo. Večji podatkovni promet pomeni večjo porabo energije.
 - <strong>Algoritmi in obdelava podatkov</strong>: Zapleteni algoritmi in obdelava velike količine podatkov zahtevajo zmogljive računalniške sisteme, ki porabijo več energije.
-- <strong>Zasnova programskih rešitev</strong>: neučinkovitost pomeni višjo porabo naravnih virov ter večjo potrebo po in hitrejše trošenje strojne opreme.
+- <strong>Zasnova programskih rešitev</strong>: neučinkovitost pomeni višjo porabo naravnih virov ter večjo potrebo in hitrejše trošenje strojne opreme.
 - <strong>Vzorci uporabe</strong>: različni načini uporabe enih in istih digitalnih rešitev imajo lahko zelo različne ogljične odtise.
 
 Po različnih ocenah naj bi digitalne tehnologije, vključno z informacijsko tehnologijo in komunikacijskimi omrežji, prispevale k 4-5% svetovnih izpustov toplogrednih plinov v 2023, njihov delež pa zraste za približno <a href="https://theshiftproject.org/wp-content/uploads/2023/02/TSP_5G_SYNTHESIS_ENG.pdf" target="_blank" rel="noopener">6 % na leto</a>. To je že več izpustov, kot jih proizvede letalski promet.
