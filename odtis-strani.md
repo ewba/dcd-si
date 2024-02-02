@@ -13,7 +13,7 @@ co2: "0,03"
 [Digitalni odtis](o-akciji.html) je kompleksna količina, ki jo lahko le ocenimo. Za spletne strani je to lažje,
 saj obstajajo <a href="https://developers.thegreenwebfoundation.org/co2js/explainer/methodologies-for-calculating-website-carbon/#carbon-estimation-models" target="_blank" rel="noopener">uveljavljene metodologije</a> in spletni testi.
 
-Med njimi je najbolj znan <a href="https://www.websitecarbon.com/" target="_blank" rel="noopener">Website Carbon Calculator</a>, ki ga pri razvoju uporabljamo tudi Ekologi brez meja. Upošteva energetsko intenzivnost podatkov, državo, vrsto vira energije v napravi in strežnikih. Ključni podatek pa je najbolj enostaven: **velikost (teža) spletne strani** — iz koliko podatkov je sestavljena?
+Med njimi je najbolj znan <a href="https://www.websitecarbon.com/" target="_blank" rel="noopener">Website Carbon Calculator</a>, ki ga pri razvoju uporabljamo tudi Ekologi brez meja. Upošteva energetsko intenzivnost podatkov, državo, vrsto vira energije v napravi in strežnikih. Ključni podatek pa je najbolj enostaven: **velikost (teža) spletne strani** — iz koliko podatkov je sestavljena.
 
 Na srečo velikost strani bistveno vpliva tudi na hitrost nalaganja in na uporabniško izkušnjo, kar povzroča krajše brskanje, manj povratkov in <a href="https://www.websitebuilderexpert.com/building-websites/website-load-time-statistics/" target="_blank" rel="noopener">nižjo prodajo</a>. Amazon je na primer ocenil, da bi sekundo daljše nalaganje za njih povzročilo letno izgubo v višini 1,6 milijarde dolarjev. Iz teh razlogov je na voljo več orodij za diagnostiko hitrosti nalaganja in izrisovanja spletnih strani, ki so uporabne tudi za zmanjševanje digitalnega odtisa.
 
@@ -31,7 +31,7 @@ Tipične napake:
 	</div>
 </div>
 
-Nižji digitalni odtis spletne strani ne pomeni nujno odrekanja lepoti in funkcionalnosti. Podobno kot spletna varnost obstaja na spektru, kjer so na eni strani peresno lahke dvobarvne strani, na drugi pa pošasti, ki samo za drobno <a href="https://iconmap.io/blog#speed-file-size--resolution" target="_blank" rel="noopener">ikono za brskalnik porabijo več megabajtov</a>. Vmes je polje, kjer se sprašujemo kakšno vrsto tehnologije uporabljati, koliko se nam mudi in ali sploh poznamo gradnike, s katerimi delamo. Velikost spletnih strani namreč <a href="https://almanac.httparchive.org/en/2022/page-weight#request-bytes" target="_blank" rel="noopener">še kar raste</a>.
+Nižji digitalni odtis spletne strani ne pomeni nujno odrekanja lepoti in funkcionalnosti. Podobno kot spletna varnost obstaja na spektru, kjer so na eni strani peresno lahke dvobarvne strani, na drugi pa pošasti, ki samo za drobno <a href="https://iconmap.io/blog#speed-file-size--resolution" target="_blank" rel="noopener">ikono za brskalnik porabijo več megabajtov</a>. Vmes je polje, kjer se sprašujemo, kakšno vrsto tehnologije uporabljati, koliko se nam mudi in ali sploh poznamo gradnike, s katerimi delamo. Velikost spletnih strani namreč <a href="https://almanac.httparchive.org/en/2022/page-weight#request-bytes" target="_blank" rel="noopener">še kar raste</a>.
 
 Skozi čas postaja zavedanje in delo na nižanju odtisa lažje. Brskalniki se vedno bolj strinjajo glede funkcionalnosti, na voljo je vedno več namenskih orodij in nastajajo celo formalne <a href="https://w3c.github.io/sustyweb/" target="_blank" rel="noopener">smernice za trajnostne strani</a>. Hkrati se še vedno viša zapletenost osnovnih tehnologij in ni redko, da spletne strani porabijo na stotine megabajtov pomnilnika (in več) za delovanje, kar zlahka upočasni celoten računalnik. Glede na primerjalno enostavnost spletnih strani in aplikacij napram navadnim namiznim, je to skoraj nerazumljivo. Pod črto ostaja še veliko dela na optimizaciji po celotni programski (in strojni!) vrednostni verigi.
 </div>
@@ -42,7 +42,7 @@ Skozi čas postaja zavedanje in delo na nižanju odtisa lažje. Brskalniki se ve
 
 V spodnji razpredelnici prikazujemo digitalni odtis nekaj najpogosteje obiskanih spletnih strani v Sloveniji. Najboljših podatkov za to nimamo, saj pri <a href="https://www.similarweb.com/top-websites/" target="_blank" rel="noopener">SimilarWeb</a> niso na voljo na ravni naše države, podatki <a href="https://www.moss-soz.si/rezultati/" target="_blank" rel="noopener">MOSS</a> pa so le za sodelujoče slovenske strani. Tako smo vzeli prvih deset iz seznama za julij 2023, ko so vse delovale brez odstopanj, in nekaj globalno najbolj pogosto obiskanih. Izključili smo Facebook, Instagram in Twitter, ki brez prijave ne prikazujejo vsebine, Google pa ostaja za ilustracijo odtisa na videz preproste strani. Prevladujejo novičarske strani, niso pa to vse, zato tudi niso vse primerljive med sabo.
 
-<a href="https://sustainablewebdesign.org/digital-carbon-ratings/#toc-3" target="_blank" rel="noopener">Razredi učinkovitosti</a> so definirani glede na popis strani v Internetnem Arhivu, odtis pa je izračunan z <a href="https://www.websitecarbon.com/" target="_blank" rel="noopener">Website Carbon Calculator</a> **za naslovno stran**.
+<a href="https://sustainablewebdesign.org/digital-carbon-ratings/#toc-3" target="_blank" rel="noopener">Razredi učinkovitosti</a> so definirani glede na popis strani v internetnem arhivu, odtis pa je izračunan z <a href="https://www.websitecarbon.com/" target="_blank" rel="noopener">Website Carbon Calculator</a> **za naslovno stran**.
 
 | Stran        | Digitalni odtis [g CO<sub>2</sub>eq] | Razred | Komentar |
 | ------------ | :---: | :----: | --------------------- |
@@ -60,7 +60,7 @@ V spodnji razpredelnici prikazujemo digitalni odtis nekaj najpogosteje obiskanih
 | delo.si      | 1,71 | F | slabše od 87 % strani
 | bolha.com    | 0,32 | B | **bolje kot 65 % strani**
 
-0,2 grama za Google ne izgleda dosti, a če pomislimo, da je stran decembra imela 84,2 milijard obiskov, to nanese za skoraj 17 tisoč ton izpustov, kar je približno toliko kot ustvari 2100 slovencev v enem letu. Z vidika porabe energije pa je zahtevalo za približno dva dni in pol delovanja naše jedrske elektrarne.
+0,2 grama za Google ne izgleda dosti, a če pomislimo, da je stran decembra imela 84,2 milijard obiskov, to nanese za skoraj 17 tisoč ton izpustov, kar je približno toliko kot ustvari 2100 Slovencev v enem letu. Z vidika porabe energije pa je zahtevalo za približno dva dni in pol delovanja naše jedrske elektrarne.
 
 </div>
 
@@ -68,9 +68,9 @@ V spodnji razpredelnici prikazujemo digitalni odtis nekaj najpogosteje obiskanih
 <div class="block" markdown="1">
 ## Strojna oprema in podatkovni centri
 
-Odtis spletnih strani ni odvisen samo od njihove zasnove in dodatne progamske opreme, ki je potrebna, da lahko dostopamo do njih. Računalniki (strežniki) in oprema, preko katerih so strani na voljo Internetu, s svojimi izpusti povezani s porabo energije in hlajenjem predstavljajo pomemben del digitalnega odtisa. Ker so s tem povezani tudi znatni stroški, obstaja veliko <a href="https://knowledge.sdialliance.org/data-center-metrics" target="_blank" rel="noopener">kazalcev učinkovitosti</a> podatkovnih centrov.
+Odtis spletnih strani ni odvisen samo od njihove zasnove in dodatne progamske opreme, ki je potrebna, da lahko dostopamo do njih. Računalniki (strežniki) in oprema, preko katerih so strani na voljo internetu, s svojimi izpusti povezani s porabo energije in hlajenjem predstavljajo pomemben del digitalnega odtisa. Ker so s tem povezani tudi znatni stroški, obstaja veliko <a href="https://knowledge.sdialliance.org/data-center-metrics" target="_blank" rel="noopener">kazalcev učinkovitosti</a> podatkovnih centrov.
 
-Starejše (2011) ocene sektorja so presenetljive: **skoraj vsak tretji** strežnik priklopljen na Internet naj ne bi bil v rabi, **izkoristek** strojne opreme pa **le okoli petinski**. Z napredkom virtualizacije, kjer na enem fizičnem računalniku teče več virtualnih, se je izkoristek zagotovo izboljšal, a osnovni problem še vedno ostaja. Veliko podjetij in drugih organizacij uporablja lastno infrastrukturo, kar pogosto pomeni slabo izkoriščenost. To povečuje potrebo po strojni opremi, kar znatno vpliva na ogljični odtis. Ocena Siddik in Sehab (2021) je, da je razlika v ogljični intenzivnosti med lastnim strežnikom in kolociranim trikratna, v velepodatkovnih ("hyperscale") centrih pa še 60% nižja od tega!
+Starejše (2011) ocene sektorja so presenetljive: **skoraj vsak tretji** strežnik priklopljen na internet naj ne bi bil v rabi, **izkoristek** strojne opreme pa **le okoli petinski**. Z napredkom virtualizacije, kjer na enem fizičnem računalniku teče več virtualnih, se je izkoristek zagotovo izboljšal, a osnovni problem še vedno ostaja. Veliko podjetij in drugih organizacij uporablja lastno infrastrukturo, kar pogosto pomeni slabo izkoriščenost. To povečuje potrebo po strojni opremi, kar znatno vpliva na ogljični odtis. Ocena Siddik in Sehab (2021) je, da je razlika v ogljični intenzivnosti med lastnim strežnikom in kolociranim trikratna, v velepodatkovnih ("hyperscale") centrih pa še 60% nižja od tega!
 
 Hkrati je dobro vprašanje, kaj dejansko shranjujemo v podatkovnih centrih. Po Al Kez et al (2022) je <a href="https://www.sciencedirect.com/science/article/pii/S0959652622032115" target="_blank" rel="noopener">le 14 % shranjenih podatkov</a> dejansko pomembnih, do polovice nikoli dostopamo, preostali pa so tik pred iztekom uporabnosti.
 <div id="img-data-usability">
