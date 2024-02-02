@@ -13,8 +13,8 @@ V hitrem življenjskem tempu je digitalna prisotnost ključna za naše vsakodnev
 - Svoje komuniciranje preko e-pošte zamenjaj z izbiro klepetalnikov (Messenger, Slack, Teams…).
 - Pri svojem e-podpisu odstrani grafike ali jih zamenjaj z ‘lažjimi’. Tvoje sporočilo bo jasno, e-podpis pa prijetno lahek. 
 - Pošiljanje priponk zamenjaj z deljenjem datotek preko povezav.
-- Omeji število prejemnikov: Pred pošiljanjem sporočil razmisli o tem, kateri prejemniki so resnično relevantni. Prav tako ni vedno najboljša ideja odgovarjanje vsem prejemnikom “Reply all”.
-- Izklopi kamero med spletnimi sestanki, sploh ko kdo deli zaslon, saj se s tem izogneš kar 96 % emisijam! Če se kakšnemu spletnemu sestanku lahko izogneš, ali sestanka vsaj ne shraniš, tudi to prihrani emisije.
+- Omeji število prejemnikov: Pred pošiljanjem sporočil razmisli o tem, kateri prejemniki so resnično pomembni. Prav tako ni vedno najboljša ideja odgovarjanje vsem prejemnikom “Reply all”.
+- Izklopi kamero med spletnimi sestanki, sploh ko kdo deli zaslon, saj se s tem izogneš kar 96 % emisijam! Če se kakšnemu spletnemu sestanku lahko izogneš ali sestanka vsaj ne shraniš, tudi to prihrani emisije.
 
 ### Upravljanje z datotekami
 - Datoteke dobro poimenuj, da jih boš zlahka našel/a. V datoteke lahko vstaviš pomišljaje med besedami, navedeš datum ali različico dokumenta.
@@ -28,7 +28,7 @@ V hitrem življenjskem tempu je digitalna prisotnost ključna za naše vsakodnev
 - Z uporabo brskalnika <a href="https://www.ecosia.org/" target="_blank" rel="noopener">Ecosia</a> lahko prispevaš k sajenju dreves. 
 - Glej svojo najljubšo serijo ali videoposnetek v standardni kakovosti, saj pretakanje v visoki ločjivosti porabi 86 % več energije. Če na videoplatformah zgolj poslušaš glasbo, kakovost videa ni pomembna in jo nastavi na najmanjšo možno. 
 - Namesto iskanja spletnih strani, ki jih pogosto uporabljaš, jih shrani med zaznamke, saj velik del spletnih iskalcev ni usmerjen v iskanje novih informacij, temveč nas vrača na spletne strani, ki smo jih že iskali in s tem vsako novo iskanje povzroči emisije CO<sub>2</sub>. 
-- Življenje velikokrat ni črno-belo, ampak vklop ‘temnega’ načina bo za tvoje elektronske naprave pravi balzam, prav tako znižanje osvetljenosti ekrana.
+- Življenje velikokrat ni črno-belo, a vklop ‘temnega’ načina bo za tvoje elektronske naprave pravi balzam, prav tako znižanje osvetljenosti ekrana.
 
 ### Za spletne razvijalce
 - Odličen rezultat na <a href="https://pagespeed.web.dev/" target="_blank" rel="noopener">PageSpeed Insights</a> pomeni tudi nižji digitalni odtis strani.
