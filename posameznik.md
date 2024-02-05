@@ -23,10 +23,6 @@ Ko končaš, nam najkasneje do **16. marca 2024 do 16. ure** **sporoči rezultat
 	<a class="button" href="{{ site.submitURL }}">Oddaj rezultate</a>
 </div>
 
-<div class="btnpad">
-	<a class="button" href="{{ site.submitURL }}">Podrobna navodila</a>
-</div>
-
 ### Ali lahko vključim tudi družino, prijatelje ali sodelavce?
 Seveda! Več kot nas bo čistilo, bolje bo in lažje bomo dosegli cilje. Če želiš v čiščenje vključiti svoje drage, si poglej tudi posebna navodila, ki smo jih pripravili za:
 - [Šole](sola.html)
