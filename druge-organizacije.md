@@ -7,7 +7,7 @@ title: Druge organizacije
 ---
 
 ### Zakaj bi se udeležili dneva digitalnega čiščenja?
-Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanja, ozaveščate člane/zaposlene, izboljšate svoje procese in učinkovitost ter zmanjšate stroške shranjevanja in podaljšate življenjsko dobo elektronske opreme. Več o [vplivu digitalnih aktivnosti](o-akciji.html).
+<a href="https://docs.google.com/document/d/1hWD2yHJxkm4gCrs-L1HWOBmezkmXaM5OQ3jcQ_9PkwU/edit?usp=sharing" target="_blank" rel="noopener">Ključne informacije na kratko</a>. Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanja, ozaveščate člane/zaposlene, izboljšate svoje procese in učinkovitost ter zmanjšate stroške shranjevanja in podaljšate življenjsko dobo elektronske opreme. Več o [vplivu digitalnih aktivnosti](o-akciji.html).
 
 ### Kako točno sodelujemo?
 - Ko se v organizaciji odločite za sodelovanje, določite koordinatorja, ki bo organiziral podrobnosti akcije in bo tudi kontaktna oseba za nas.
