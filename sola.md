@@ -5,7 +5,7 @@ meta-title: Sodelujte v največji digitalni čistilni akciji
 meta-description: Digitalno čiščenje pomaga pri vzpostavljanju trajnostnih digitalnih navad, zmanjšuje emisije in stroške shranjevanja ter podaljšuje življenjsko dobo naprav.
 title: Šola
 ---
-<a href="https://docs.google.com/document/d/1hWD2yHJxkm4gCrs-L1HWOBmezkmXaM5OQ3jcQ_9PkwU/edit?usp=sharing" target="_blank" rel="noopener">Ključne informacije na kratko</a> .
+<a href="https://docs.google.com/document/d/1hWD2yHJxkm4gCrs-L1HWOBmezkmXaM5OQ3jcQ_9PkwU/edit?usp=sharing" target="_blank" rel="noopener">Ključne informacije na kratko</a>.
 Digitalna doba je pomembno vplivala na učne procese v šolah. Posledično prihaja do vse več digitalnih odpadkov, ki onesnažujejo okolje in bremenijo sisteme, zato postaja potreba po čistem in urejenem digitalnem okolju nujna. 
 
 Z enostavnimi ukrepi lahko optimiziramo digitalne vire, vzpostavimo trajnostne digitalne navade in ustvarjamo učno okolje, ki spodbuja trajnost, učinkovitost in zavedanje o odgovorni rabi tehnologije, kar pripomore k nemoteni izvedbi izobraževalnih dejavnosti. 
