@@ -7,6 +7,7 @@ title: Pogosta vprašanja
 ---
 
 Skoči na vprašanja o [konceptu projekta](#o-konceptu-projekta), [čiščenju](#o-čiščenju) in [skupinskem čiščenju](#čiščenje-za-skupine).
+<a href="https://docs.google.com/document/d/1hWD2yHJxkm4gCrs-L1HWOBmezkmXaM5OQ3jcQ_9PkwU/edit?usp=sharing" target="_blank" rel="noopener">Ključne informacije na kratko</a>.
 
 Imaš še kakšno vprašanje? Piši nam na info@ocistimo.si.
 
