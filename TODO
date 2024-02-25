@@ -1,4 +1,4 @@
-
+FR VS EN co2
 
 Čaka na vsebino:
 - varnost (duplikati višajo šanse za leake) in zasebnost
@@ -15,3 +15,31 @@ Kasneje:
 - energetika: crypto in AI
 
 Lighthouse: isti rezultat za ghp in naš host, samo da ima ghp slabši cache policy
+
+
+
+
+
+Zapiski:
+https://infrequently.org/2024/01/performance-inequality-gap-2024/
+https://tonsky.me/blog/js-bloat/
+
+"It seems that perfection is attained not when there is nothing more to add, but when there is nothing more to remove.” -- Antoine de Saint Exupéry, Terre des Hommes
+
+The world ships too much code, most of it by third parties, sometimes unintended, most of it uninspected. Because of this, there is a huge attack surface full of mediocre code.
+
+https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/
+
+• Some plain scientific facts
+• A new laptop + screen costs 691kg CO2e/year, on a 4 year renewal policy (source oxford https://www.it.ox.ac.uk/article/environment-and-it)
+• 85% of it is manufacturing => 588kg CO2e/year just for having a new-ish laptop
+• Keep your laptop/screen 8 years, it now only costs 290 kg CO2e/year
+Your new laptop isn't green...
+...but the longer you keep your laptop, the greener it becomes
+
+Harsh scientific facts again
+• Laptop mean power consumption is constant over a 8-year course. (and probably under-estimated)
+(source: Computer usage and national energy consumption: Results from a field-metering study (2014))
+• CPU accounts for less than 20% of total consumption - Moore's law is of little use in this case
+• OLED has still a very low market share, so your next laptop will probably still be LCD. It costs more CO2e to build, anyway….
+• Energy consumption accounts for 15% of the CO2e anyway, so...
