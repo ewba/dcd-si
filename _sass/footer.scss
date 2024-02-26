@@ -52,7 +52,7 @@ footer {
     padding: 1em 0.5em 0em;
     img { width: 90%; height: 90%; padding-left: 5%; }
     input { padding: 0.5rem 1rem 0.5rem 1rem; border-radius: 25px; width: calc(100% - 2rem); }
-    input[type="submit"] { margin:0.5rem 1rem 0; }
+    button[type="submit"] { margin:0.5rem 2rem 0; width: calc(100% - 4rem); }
   }
 }
 .subfooter {
