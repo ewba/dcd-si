@@ -69,9 +69,8 @@ Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se
 
 </div>
 
-{% comment %}
 <div class="block para" style="text-align: center" aria-hidden="true">
-	<h2>Podporniki projekta</h2>
+	<h2>Podporniki akcije</h2>
 	<h3>Giga</h3>
 	<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0; gap: 1.5rem;">
 		<img src="assets/img/podporniki/Logo_GEN-I_B2C.webp" alt="logo GEN-I" width="346" height="120">
@@ -86,5 +85,8 @@ Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se
 		<img src="assets/img/podporniki/HO_SLO_POZ_BLR_PO_DB_4C+30.webp" alt="logo Hofer" width="89" height="100">
 		<img src="https://www.openingsuren.info/images/logos/spar.gif" alt="logo Spar" width="90" height="90">
 	</div>
+	<h3 style="margin: 2rem 0">Akcijo podpira tudi</h3>
+	<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0; gap: 1.5rem;">
+		<img src="assets/img/podporniki/mdp.svg" alt="logo MDP" width="419" height="40">
+	</div>
 </div>
-{% endcomment %}
