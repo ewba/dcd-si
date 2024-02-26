@@ -87,6 +87,6 @@ Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se
 	</div>
 	<h3 style="margin: 3rem 0 1.5rem">Akcijo podpira tudi</h3>
 	<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0; gap: 1.5rem;">
-		<img src="assets/img/podporniki/mdp.svg" alt="logo MDP" width="419" height="40">
+		<img src="assets/img/podporniki/mdp.svg" id="mdplogo" alt="logo MDP" height="40">
 	</div>
 </div>
