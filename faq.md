@@ -12,6 +12,9 @@ Skoči na vprašanja o [konceptu projekta](#o-konceptu-projekta), [čiščenju](
 Imaš še kakšno vprašanje? Piši nam na info@ocistimo.si.
 
 ## O konceptu projekta
+### Ali se za izvedbo akcije uporablja davkoplačevalski denar?
+Nikakor! Akcija ni financirana s strani ministrstev ali kakršnih koli drugih javnih sredstev. Za podporo pri izvedbi akcije se zahvaljujemo številnim podjetjem, ki so prepoznala pomen in smisel zmanjševanja digitalnega odtisa. 
+
 ### Ali nimamo na svetu več drugih bolj pomembnih okoljskih izzivov?
 Nedvomno, ampak ne poznamo nikogar, ki bi slona pojedel v enem kosu! Zavedamo se, da z našo akcijo ne bomo rešili številnih okoljskih izzivov in njihovih posledic. Je pa to res enostaven korak in majhen košček v mozaiku, ki nas lahko navduši in motivira, da v svojih življenjih naredimo še kakšno bolj ambiciozno spremembo navad. 
 
