@@ -165,7 +165,7 @@ daj kot navaden blok, ampak samo za screen readerje?
 {% endcomment %}
 
 <div class="block" markdown="1">
-## O akciji v mediji
+## O akciji v medijih
 - <a href="https://365.rtvslo.si/arhiv/dobro-jutro/175023261" target="_blank" rel="noopener">TV Slovenija: Dobro jutro, 15. februar 2023</a>
 - <a href="https://365.rtvslo.si/arhiv/think-green/175024246" target="_blank" rel="noopener">Radio Si: Think Green, 19. februar 2024</a>
 - <a href="https://www.slovenskenovice.si/ona/stil/najlazja-cistilna-akcija-na-svetu/" target="_blank" rel="noopener">Revija Ona, 21. februar 2024</a>
