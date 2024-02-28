@@ -163,3 +163,8 @@ daj kot navaden blok, ampak samo za screen readerje?
 //- Po podatkih revije Eolas lahko podatkovni center porabi od [500.000 do 5 milijonov litrov vode](https://gerrymcgovern.com/why-is-water-such-a-low-priority-for-data-centers/) na dan oziroma od 182 milijonov do 1,8 milijarde litrov na leto. Po podatkih podjetja CloudScene je bilo leta 2022 na svetu približno 8500 velikih podatkovnih centrov. To je od 1,5 do 15 bilijonov litrov vode na leto ali toliko, da bi lahko napolnili od 600.000 do 6 milijonov olimpijskih bazenov.
 - Povprečno iskanje v Googlu povzroči [0,192 g CO<sub>2</sub>](https://gerrymcgovern.com/the-environmental-cost-of-search/).
 {% endcomment %}
+
+<div class="block" markdown="1">
+## O akciji v mediji
+- <a href="https://365.rtvslo.si/arhiv/dobro-jutro/175023261" target="_blank" rel="noopener">Dobro jutro, 15. marec 2023</a>
+</div>
