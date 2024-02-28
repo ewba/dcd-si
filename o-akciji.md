@@ -167,8 +167,8 @@ daj kot navaden blok, ampak samo za screen readerje?
 <div class="block" markdown="1">
 ## O akciji v mediji
 - <a href="https://365.rtvslo.si/arhiv/dobro-jutro/175023261" target="_blank" rel="noopener">TV Slovenija: Dobro jutro, 15. februar 2023</a>
-  <a href="https://365.rtvslo.si/arhiv/think-green/175024246" target="_blank" rel="noopener">Radio Si: Think Green, 19. februar 2024</a>
-  <a href="https://www.slovenskenovice.si/ona/stil/najlazja-cistilna-akcija-na-svetu/" target="_blank" rel="noopener">Revija Ona, 21. februar 2024</a>
-  <a href="https://www.facebook.com/vtvstudioslo/videos/367107139471610/" target="_blank" rel="noopener">VTV Studio, 22. februar 2024</a>
-  <a href="https://n1info.si/novice/slovenija/najlazja-cistilna-akcija-na-svetu-tudi-digitalni-odpadki-skodujejo-okolju/" target="_blank" rel="noopener">N1, 27. februar 2024</a>
+- <a href="https://365.rtvslo.si/arhiv/think-green/175024246" target="_blank" rel="noopener">Radio Si: Think Green, 19. februar 2024</a>
+- <a href="https://www.slovenskenovice.si/ona/stil/najlazja-cistilna-akcija-na-svetu/" target="_blank" rel="noopener">Revija Ona, 21. februar 2024</a>
+- <a href="https://www.facebook.com/vtvstudioslo/videos/367107139471610/" target="_blank" rel="noopener">VTV Studio, 22. februar 2024</a>
+- <a href="https://n1info.si/novice/slovenija/najlazja-cistilna-akcija-na-svetu-tudi-digitalni-odpadki-skodujejo-okolju/" target="_blank" rel="noopener">N1, 27. februar 2024</a>
 </div>
