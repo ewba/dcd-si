@@ -77,16 +77,24 @@ Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se
 		<img src="assets/img/podporniki/Logo_SAVA_zavarovalna_skupina_RGB_primarni.webp" alt="logo Sava ZS" width="258" height="120">
 	</div>
 	<h3 style="margin: 2rem 0">Mega</h3>
-	<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0; gap: 2.5rem 2.5rem; align-items: center">
-		<img src="assets/img/podporniki/LM sredina 2vrsticni rgb zelen.webp" alt="logo Ljubljanske mlekarne" width="113" height="90">
-		<img src="assets/img/podporniki/logo-loterija-sreca-za-vse.webp" alt="logo Loterija Slovenije" width="58" height="90">
-		<img src="assets/img/podporniki/A1_Logo_Red_Smpl_Pos_3.svg" alt="logo A1" width="88" height="90">
-		<img src="assets/img/podporniki/genis_logo_okolju_zelen.webp" alt="logo Genis" width="215" height="90">
-		<img src="assets/img/podporniki/HO_SLO_POZ_BLR_PO_DB_4C+30.webp" alt="logo Hofer" width="89" height="100">
-		<img src="assets/img/podporniki/spar.svg" alt="logo Spar" width="293" height="50">
+	<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0; gap: 2.5rem 3.5rem; align-items: center">
+		<div style="">
+			<img src="assets/img/podporniki/LM sredina 2vrsticni rgb zelen.webp" alt="logo Ljubljanske mlekarne" width="113" height="90">
+		</div><div style="">
+			<img src="assets/img/podporniki/logo-loterija-sreca-za-vse.webp" alt="logo Loterija Slovenije" width="58" height="90">
+		</div><div style="">
+			<img src="assets/img/podporniki/A1_Logo_Red_Smpl_Pos_3.svg" alt="logo A1" width="88" height="90">
+		</div><div style="">
+			<img src="assets/img/podporniki/genis_logo_okolju_zelen.webp" alt="logo Genis" width="167" height="70">
+		</div><div style="">
+			<img src="assets/img/podporniki/hofer.svg" alt="logo Hofer" height="95">
+		</div><div style="">
+			<img src="assets/img/podporniki/spar.svg" alt="logo Spar" width="234" height="38">
+		</div>
 	</div>
-	<h3 style="margin: 3rem 0 1.5rem">Akcijo podpira tudi</h3>
-	<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0; gap: 1.5rem;">
+	<h3 style="margin: 3rem 0 1.5rem">Akcijo podpirajo tudi</h3>
+	<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0; gap: 2.5rem 1.5rem;">
 		<img src="assets/img/podporniki/mdp.svg" id="mdplogo" alt="logo MDP" height="40">
+		<img src="assets/img/podporniki/bold.svg" id="bodlogo" alt="logo Bold" height="40">
 	</div>
 </div>
