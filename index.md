@@ -21,14 +21,14 @@ co2: "0,03"
 <div class="block" style="min-height: 14.5rem;">
 <h2>Rezultati akcije</h2>
 
-Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Na letošnjo prvo pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 1288 posameznikov, ki so iz svojih digitalnih naprav izbrisali:
+Uradni dan digitalnega čiščenja je bil <strong>16. marec 2024</strong>. Na letošnjo prvo pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 1288 posameznikov, ki so iz svojih digitalnih naprav izbrisali:
 
-<h3>26 tisoč GB podatkov</h3>, kar predstavlja <h3> 5 ton prihranka izpustov toplogrednih plinov</h3>
+<h3>26 tisoč GB podatkov = 5 ton prihranka izpustov toplogrednih plinov</h3>
+
+Čistiš in oddaš rezultate pa lahko še naprej - tvoji rezultati bodo prišteti k rezultatom akcije 2025.
 
 <br><br>
-
 {% include sodeluj.html %}
-
 </div>
 
 <div class="block para" style="padding-bottom: 2.5rem">
