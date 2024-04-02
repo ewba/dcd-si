@@ -19,12 +19,13 @@ co2: "0,03"
 </div>
 
 <div class="block" style="min-height: 14.5rem;">
-<h2>Kako sodeluješ?</h2>
+<h2>Rezultati akcije</h2>
 
-Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistiš in <a href="https://digital.ocistimo.si/zabelezi-rezultate.html">oddaš rezultate</a> vse od februarja naprej. Vsi do roka (16. marec do 16. ure) oddani podatki bodo upoštevani v letošnjem poročilu akcije.
+Uradni dan digitalnega čiščenja je <strong>16. marec 2024</strong>. Na letošnjo prvo pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 1288 posameznikov, ki so iz svojih digitalnih naprav izbrisali:
+
+<h3>26 tisoč GB podatkov</h3>, kar predstavlja <h3> 5 ton prihranka izpustov toplogrednih plinov</h3>
 
 <br><br>
-Še pred tem pa te vabimo k izpolnjevanju <a href="https://1ka.arnes.si/a/3bb67f93" target="_blank" rel="noopener">kratkega in preprostega vprašalnika</a>, ki nam bo povedal, kako domača tema so digitalni odpadki med Slovenkami in Slovenci. 
 
 {% include sodeluj.html %}
 
