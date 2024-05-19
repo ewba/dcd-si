@@ -11,7 +11,7 @@ Na koncu:
 Kasneje:
 - dark mode
 - vprašaj internet archive glede njihovih praks, deduplikacije
-- energetika: crypto in AI
+- energetika: crypto in AI https://www.theverge.com/2024/1/24/24049047/data-center-ai-crypto-bitcoin-mining-electricity-report-iea
 
 Lighthouse: isti rezultat za ghp in naš host, samo da ima ghp slabši cache policy
 
@@ -22,6 +22,8 @@ Lighthouse: isti rezultat za ghp in naš host, samo da ima ghp slabši cache pol
 Zapiski:
 https://infrequently.org/2024/01/performance-inequality-gap-2024/
 https://tonsky.me/blog/js-bloat/
+https://new.reddit.com/r/ProgrammerHumor/comments/1bil1gp/basicallyrubyonrails/
+https://greenspector.com/en/what-is-the-environmental-footprint-of-social-networking-applications-2023/
 
 "It seems that perfection is attained not when there is nothing more to add, but when there is nothing more to remove.” -- Antoine de Saint Exupéry, Terre des Hommes
 
@@ -42,3 +44,8 @@ Harsh scientific facts again
 • CPU accounts for less than 20% of total consumption - Moore's law is of little use in this case
 • OLED has still a very low market share, so your next laptop will probably still be LCD. It costs more CO2e to build, anyway….
 • Energy consumption accounts for 15% of the CO2e anyway, so...
+
+
+
+My colleague Manuel shared this spreadsheet by Refurbed with smartphone footprints and their assumption of how much e-waste is saved by refurbishing for different devices.
+The download of the spreadsheet can be found on refurbed's sustainability page: https://nachhaltigkeit.refurbed.de/clkn/https/pub.refurbed.com/Sustainabilitypage/Produktfu%C3%9Fabdr%C3%BCcke%202023_Website%20(1).xlsx (see link “Produktfußabdrücke entdecken” on https://nachhaltigkeit.refurbed.de/) (edited) 
