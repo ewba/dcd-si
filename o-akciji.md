@@ -171,4 +171,9 @@ daj kot navaden blok, ampak samo za screen readerje?
 - <a href="https://www.slovenskenovice.si/ona/stil/najlazja-cistilna-akcija-na-svetu/" target="_blank" rel="noopener">Revija Ona, 21. februar 2024</a>
 - <a href="https://www.facebook.com/vtvstudioslo/videos/367107139471610/" target="_blank" rel="noopener">VTV Studio, 22. februar 2024</a>
 - <a href="https://n1info.si/novice/slovenija/najlazja-cistilna-akcija-na-svetu-tudi-digitalni-odpadki-skodujejo-okolju/" target="_blank" rel="noopener">N1, 27. februar 2024</a>
+- <a href="https://365.rtvslo.si/arhiv/radio-koper-svetuje/175026624" target="_blank" rel="noopener">Radio Koper, 29. marec 2024</a>
+- <a href="https://www.metropolitan.si/novice/odklikajmo-digitalne-odpadke-izkoristimo-dodatni-dan-v-letu-za-digitalno-cistilno-akcijo/" target="_blank" rel="noopener">Metropolitan, 1. marec 2024</a>
+- <a href="https://www.caszazemljo.si/trajnostno/ste-kdaj-ocistili-digitalno-nesnago.html" target="_blank" rel="noopener">Čas za Zemljo, 6. marec 2024</a>
+- <a href="https://www.delo.si/novice/znanoteh/pomladansko-ciscenje-digitalnega-smetja" target="_blank" rel="noopener">Delo, 10. marec 2024</a>
+- <a href="https://www.rtvslo.si/okolje/ocistimo-slovenijo-digitalnih-odpadkov-iz-digitalnih-naprav-izbrisano-26-000-gigabajtov-podatkov/701774" target="_blank" rel="noopener">MMC, 16. marec 2024</a>
 </div>
