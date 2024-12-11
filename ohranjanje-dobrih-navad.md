@@ -15,6 +15,7 @@ V hitrem življenjskem tempu je digitalna prisotnost ključna za naše vsakodnev
 - Pošiljanje priponk zamenjaj z deljenjem datotek preko povezav.
 - Omeji število prejemnikov: Pred pošiljanjem sporočil razmisli o tem, kateri prejemniki so resnično pomembni. Prav tako ni vedno najboljša ideja odgovarjanje vsem prejemnikom “Reply all”.
 - Izklopi kamero med spletnimi sestanki, sploh ko kdo deli zaslon, saj se s tem izogneš kar 96 % emisijam! Če se kakšnemu spletnemu sestanku lahko izogneš ali sestanka vsaj ne shraniš, tudi to prihrani emisije.
+- Kamero izklopi tudi pri klepetih v aplikacijah, kot je WhatsApp. Minuta glasovnega klica na WhatsAppu porabi 400KB-1MB, enak čas video klica pa 2.5-15MB.
 
 ### Upravljanje z datotekami
 - Datoteke dobro poimenuj, da jih boš zlahka našel/a. V datoteke lahko vstaviš pomišljaje med besedami, navedeš datum ali različico dokumenta.
