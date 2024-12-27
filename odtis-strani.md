@@ -42,7 +42,7 @@ Skozi čas postaja zavedanje in delo na nižanju odtisa lažje. Brskalniki se ve
 
 V spodnji razpredelnici prikazujemo digitalni odtis nekaj najpogosteje obiskanih spletnih strani v Sloveniji. Najboljših podatkov za to nimamo, saj pri <a href="https://www.similarweb.com/top-websites/" target="_blank" rel="noopener">SimilarWeb</a> niso na voljo na ravni naše države, podatki <a href="https://www.moss-soz.si/rezultati/" target="_blank" rel="noopener">MOSS</a> pa so le za sodelujoče slovenske strani. Tako smo vzeli prvih deset iz seznama za julij 2023, ko so vse delovale brez odstopanj, in nekaj globalno najbolj pogosto obiskanih. Izključili smo Facebook, Instagram in Twitter, ki brez prijave ne prikazujejo vsebine, Google pa ostaja za ilustracijo odtisa na videz preproste strani. Prevladujejo novičarske strani, niso pa to vse, zato tudi niso vse primerljive med sabo.
 
-<a href="https://sustainablewebdesign.org/digital-carbon-ratings/#toc-3" target="_blank" rel="noopener">Razredi učinkovitosti</a> so definirani glede na popis strani v internetnem arhivu, odtis pa je izračunan z <a href="https://www.websitecarbon.com/" target="_blank" rel="noopener">Website Carbon Calculator</a> **za naslovno stran**.
+<a href="https://sustainablewebdesign.org/digital-carbon-ratings/#toc-3" target="_blank" rel="noopener">Razredi učinkovitosti</a> so definirani glede na popis strani v internetnem arhivu, odtis pa je bil pred prvo izvedbo akcije v 2024 izračunan z <a href="https://www.websitecarbon.com/" target="_blank" rel="noopener">Website Carbon Calculator</a> **za naslovno stran**.
 
 | Stran        | Digitalni odtis [g CO<sub>2</sub>eq] | Razred | Komentar |
 | ------------ | :---: | :----: | --------------------- |
