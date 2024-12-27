@@ -56,7 +56,7 @@ Več v <a href="https://ebm.si/prispevki/slovenija-je-ocistila-26-tisoc-gigabajt
 	</div>
 	<div style="justify-self: start">
 		<h3>Preprečiti kopičenje digitalnih odpadkov</h3>
-		Posameznike opolnomočiti, da bodo lahko <strong>preprečili kopičenje digitalnih odpadkov</strong>.
+		Posameznike opolnomočiti, da bodo s pridobljenimi dobrimi digitalnimi navadami lahko <strong>preprečili kopičenje digitalnih odpadkov</strong>.
 	</div>
 
 	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
