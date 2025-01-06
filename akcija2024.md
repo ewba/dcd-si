@@ -1,5 +1,5 @@
 ---
-layout: single-page
+layout: default
 meta-image: assets/img/thumb/Sodeluj.webp
 meta-title: seo naslov
 meta-description: seo opis
