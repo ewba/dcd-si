@@ -8,7 +8,7 @@ title: naslov
 
 blablabla
 <div class="block para" style="text-align: center" aria-hidden="true">
-	<h2>Podporniki akcije</h2>
+	<h2>Podporniki akcije 2024</h2>
 	<h3>Giga</h3>
 	<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0; gap: 2.5rem 1.5rem; align-items: center">
 		<img src="assets/img/podporniki/Logo_GEN-I_B2C.webp" alt="logo GEN-I" width="346" height="120">
@@ -30,7 +30,7 @@ blablabla
 			<img src="assets/img/podporniki/spar.svg" alt="logo Spar" width="234" height="38">
 		</div>
 	</div>
-	<h3 style="margin: 3rem 0 1.5rem">Akcijo podpirajo tudi</h3>
+	<h3 style="margin: 3rem 0 1.5rem">Akcijo so podprli tudi</h3>
 	<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0; gap: 2.5rem 1.5rem;">
 		<img src="assets/img/podporniki/mdp.svg" id="mdplogo" alt="logo MDP" height="40">
 		<img src="assets/img/podporniki/bold.svg" id="bodlogo" alt="logo Bold" height="40">
