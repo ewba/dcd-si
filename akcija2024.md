@@ -1,12 +1,12 @@
 ---
 layout: default
 meta-image: assets/img/thumb/Sodeluj.webp
-meta-title: seo naslov
-meta-description: seo opis
-title: naslov
+meta-title: Rezultati akcije Očistimo Slovenijo digitalnih odpadkov 2024
+meta-description: Rezultati, medijske objave in podporniki akcije Očistimo Slovenijo digitalnih odpadkov 2024
+title: Rezultati akcije Očistimo Slovenijo digitalnih odpadkov 2024
 ---
 <div class="block" style="min-height: 14.5rem;">
-<h2>Rezultati akcije</h2>
+<h2>Rezultati akcije 2024</h2>
 
 Uradni dan digitalnega čiščenja je bil <strong>16. marec 2024</strong>. Na prvo pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 1288 posameznikov, ki so iz svojih digitalnih naprav izbrisali:
 
