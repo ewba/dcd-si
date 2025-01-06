@@ -10,6 +10,8 @@ entries:
         url: faq.html
       - title: Odtis spletne strani
         url: odtis-strani.html
+      - title: Akcija leta 2024
+        url: akcija2024.html
   - title: Navodila
     url: navodila-za-ciscenje.html
     entries:
