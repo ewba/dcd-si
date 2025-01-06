@@ -70,6 +70,7 @@ Več v <a href="https://ebm.si/prispevki/slovenija-je-ocistila-26-tisoc-gigabajt
 
 </div>
 
+<!--
 <div class="block para" style="text-align: center" aria-hidden="true">
 	<h2>Podporniki akcije</h2>
 	<h3>Giga</h3>
@@ -99,3 +100,4 @@ Več v <a href="https://ebm.si/prispevki/slovenija-je-ocistila-26-tisoc-gigabajt
 		<img src="assets/img/podporniki/bold.svg" id="bodlogo" alt="logo Bold" height="40">
 	</div>
 </div>
+-->
