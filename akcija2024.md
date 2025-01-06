@@ -4,6 +4,7 @@ meta-image: assets/img/thumb/Sodeluj.webp
 meta-title: Rezultati akcije Očistimo Slovenijo digitalnih odpadkov 2024
 meta-description: Rezultati, medijske objave in podporniki akcije Očistimo Slovenijo digitalnih odpadkov 2024
 title: Rezultati akcije Očistimo Slovenijo digitalnih odpadkov 2024
+banner: Očistimo Slovenijo digitalnih odpadkov 2024
 ---
 <div class="block" style="min-height: 14.5rem;">
 <h2>Rezultati akcije 2024</h2>
