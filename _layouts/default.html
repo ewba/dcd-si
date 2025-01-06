@@ -52,7 +52,11 @@
     {% endif %}
 
     <div role="banner">
+    {% if page.banner %}
+      <h1>{{ page.banner }}</h1>
+    {% else %}
       <h1>{{ site.data.text.mainTitle }}</h1>
+    {% endif %}
     </div>
 
     <main aria-label="Glavna vsebina">
