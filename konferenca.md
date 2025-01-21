@@ -7,17 +7,19 @@ title: Podatki = odpadki?
 ---
 Strokovna konferenca, namenjena predstavnikom podjetij, fakultet, medijev in splošni javnosti, bo potekala v **torek, 4. februarja, med 9.00 in 13.00 v Tehnološkem parku Ljubljana.**
 
-Z enostavnimi ukrepi lahko optimiziramo digitalne vire, vzpostavimo trajnostne digitalne navade in ustvarjamo učno okolje, ki spodbuja trajnost, učinkovitost in zavedanje o odgovorni rabi tehnologije, kar pripomore k nemoteni izvedbi izobraževalnih dejavnosti. 
+<div class="btnpad">
+<a class="button" href="https://docs.google.com/forms/d/1xJwZeN-cQ3w48IuZ-ql0Znc1J3enJJf1BdAy9Awi2fE/edit">Prijavite se na strokovno konferenco</a>
+</div>
 
-### Zakaj bi se udeležili dneva digitalnega čiščenja?
+Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolja. Pridružite se nam na naši strokovni konferenci, ki jo organiziramo v sklopu akcije Očistimo Slovenijo digitalnih odpadkov, spoznajte ozadje in globimo problematike ter črpajte navdih iz dobrih praks organizacij, ki so se tega že lotila. 
+
+### Program strokovne konference
 Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanja, zmanjšate emisije CO<sub>2</sub>, ozaveščate zaposlene, učitelje, učence in njihove starše ter zmanjšate stroške shranjevanja in podaljšate življenjsko dobo elektronske opreme. Več o [vplivu digitalnih aktivnosti](o-akciji.html).
 
 ### Kako točno sodelujemo?
 - Ko se v šoli odločite za sodelovanje, določite koordinatorja, ki bo organiziral podrobnosti akcije in bo tudi kontaktna oseba za nas. Koordinator naj preveri interes za sodelovanje pri akciji in prijavi udeležbo vaše šole. 
 
-<div class="btnpad">
-<a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSfiXjBaKTUFIcxyFzyItF_W5thrnq_cFoCVBJF72FZeEIkLiQ/viewform">Prijavite se</a>
-</div>
+
 
 ### Odločite se za obseg sodelovanja: navodila za koordinatorje
 - **Vključitev vsebin v učni program**: V sklopu akcije Očistimo Slovenijo digitalnih odpadkov smo pripravili <a href="https://docs.google.com/document/d/19uYbpVIzChegY1dUU4_l6UvXiRkGzw85/edit?usp=sharing&ouid=114108924900487138297&rtpof=true&sd=true" target="_blank" rel="noopener">brezplačna gradiva za potek učne ure</a> o smetenju okolja z našimi napravami, <a href="https://www.canva.com/design/DAF6-UdUt0Y/nhMakJ1ShnRKQOJSNMQgkA/edit?utm_content=DAF6-UdUt0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener">PPT za izvajanje učne ure</a> in <a href="https://docs.google.com/document/d/1d_5yNBVq-rS8tM6uIyD2QwpYf7SRk9TZl7dBZJa--AE/edit?usp=sharing" target="_blank" rel="noopener">in delovni list</a>. Večina otrok se je z različnimi akcijami zbiranja različnih odpadkov, tako ali drugače že seznanila z vplivom, ki ga imamo ljudje z našimi smetmi. Pa najsi bo to z zbiranjem odpadnega papirja in plastičnih zamaškov ali pobiranja odpadkov iz narave. Kako pa naj naši najmlajši počistijo odpadke, ki jih ne vidijo? Takšne, ki se jih morda sploh ne zavedajo, ker jih ne morejo prijeti v roke? Naučimo jih, kaj so takšni odpadki, kje jih najdemo in kako vplivajo na okolje. Pomagamo jim, da se odvečne datoteke, ki so kot prazna vrečka bombonov, pobrišejo. Pogovarjamo se o tem, kako pomembno je, da v skrbi za okolje razmišljamo o odpadkih vseh vrst in oblik. Spodbudimo jih, da naučeno nesejo tudi domov in pomagajo očistiti tudi domače naprave in naprave staršev. Na koncu pa pogledamo še, kaj lahko stroi vsak zase, da se digitalni odpadki v prihodnosti ne bodo več nabirali.
