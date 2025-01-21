@@ -1,6 +1,6 @@
 ---
 layout: single-page
-meta-image: assets/img/thumb/%C5%A0ole.webp
+meta-image: assets/img/thumb/konferenca.webp
 meta-title: Strokovna konferenca o digitalnih odpadkih
 meta-description: Digitalno čiščenje pomaga pri vzpostavljanju trajnostnih digitalnih navad, zmanjšuje emisije in stroške shranjevanja ter podaljšuje življenjsko dobo naprav.
 title: Podatki = odpadki?
