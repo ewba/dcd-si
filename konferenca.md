@@ -19,8 +19,8 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
 | 8.30 - 9.00  | registracija |  
 | 9.00   | Pozdravni nagovor | Tina Cipot, o28
 | 9.00 - 9.30 | Kako digitalni sistemi vplivajo na porabo energije in ogljični odtis | Adrian Friday, profesor računalništva in trajnosti na univerzi Lancaster
-| 24ur.com     | 0,68 | E 
-| siol.net     | 1,68 | F 
+| 9.30 - 10.00     | Unveiling the Hidden Costs: The Environmental Impact of Digitalization on the Road to Net-Zero Emissions | dr. Kate Broadhurst, predavateljica za inovacije in strategijo ter članica skupine za digitalno razogličenje 
+| 10.00 - 10.45     | Okrogla miza | - izr. prof. dr. Veljko Pejović, Fakulteta za računalništvo in informatiko UL
 | zurnal24.si  | 1,11 | F 
 | metropolitan.si | 0,82 | E 
 | svet24.si    | 0,86 | F 
