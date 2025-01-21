@@ -14,20 +14,20 @@ Strokovna konferenca, namenjena predstavnikom podjetij, fakultet, medijev in spl
 Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolja. Pridružite se nam na naši strokovni konferenci, ki jo organiziramo v sklopu akcije Očistimo Slovenijo digitalnih odpadkov, spoznajte ozadje in globimo problematike ter črpajte navdih iz dobrih praks organizacij, ki so se tega že lotila. 
 
 ### Program strokovne konference
-| Ura        | Prispevek | Sodelujoči |
-| ------------ | :---: | :----: | 
-| 8.30 - 9.00  | registracija |   
+| Ura        | Prispevek | Sodelujoči 
+| ------------ | :---: | :----: 
+| 8.30 - 9.00  | registracija |  
 | 9.00   | Pozdravni nagovor | Tina Cipot, o28
-| wikipedia.org | 0,02 | A+ | **bolje kot 98 % strani**
-| 24ur.com     | 0,68 | E | slabše od 63 % strani
-| siol.net     | 1,68 | F | slabše od 86 % strani
-| zurnal24.si  | 1,11 | F | slabše od 78 % strani
-| metropolitan.si | 0,82 | E | slabše od 69 % strani
-| svet24.si    | 0,86 | F | slabše od 71 % strani
-| rtvslo.si    | 0,36 | C | **bolje kot 62 % strani**
-| n1info.si    | 1,41 | F | slabše od 83 % strani
-| slovenskenovice.si | 0,89 | F | slabše od 72 % strani
-| delo.si      | 1,71 | F | slabše od 87 % strani
-| bolha.com    | 0,32 | B | **bolje kot 65 % strani**
+| 9.00 - 9.30 | Kako digitalni sistemi vplivajo na porabo energije in ogljični odtis | Adrian Friday, profesor računalništva in trajnosti na univerzi Lancaster
+| 24ur.com     | 0,68 | E 
+| siol.net     | 1,68 | F 
+| zurnal24.si  | 1,11 | F 
+| metropolitan.si | 0,82 | E 
+| svet24.si    | 0,86 | F 
+| rtvslo.si    | 0,36 | C 
+| n1info.si    | 1,41 | F 
+| slovenskenovice.si | 0,89 | F 
+| delo.si      | 1,71 | F 
+| bolha.com    | 0,32 | B 
 
 
