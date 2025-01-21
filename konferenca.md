@@ -14,7 +14,8 @@ Strokovna konferenca, namenjena predstavnikom podjetij, fakultet, medijev in spl
 Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolja. Pridružite se nam na naši strokovni konferenci, ki jo organiziramo v sklopu akcije Očistimo Slovenijo digitalnih odpadkov, spoznajte ozadje in globimo problematike ter črpajte navdih iz dobrih praks organizacij, ki so se tega že lotila. 
 
 ### Program strokovne konference
-| Ura        | Prispevek | Sodelujoči 
+
+| Ura          | Prispevek | Sodelujoči 
 | ------------ | :---: | :----: 
 | 8.30 - 9.00  | registracija |  
 | 9.00   | Pozdravni nagovor | Tina Cipot, o28
