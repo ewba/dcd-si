@@ -45,7 +45,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
     <tr>
       <td>10.00 - 10.45</td>
       <td>Okrogla miza</td>
-      <td>
+      <td style="align:left">
         <ul>
           <li>izr. prof. dr. Veljko Pejović, Fakulteta za računalništvo in informatiko UL</li>
           <li>Aleš Pevc, Tehnološki park</li>
