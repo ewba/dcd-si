@@ -14,32 +14,20 @@ Strokovna konferenca, namenjena predstavnikom podjetij, fakultet, medijev in spl
 Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolja. Pridružite se nam na naši strokovni konferenci, ki jo organiziramo v sklopu akcije Očistimo Slovenijo digitalnih odpadkov, spoznajte ozadje in globimo problematike ter črpajte navdih iz dobrih praks organizacij, ki so se tega že lotila. 
 
 ### Program strokovne konference
-Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanja, zmanjšate emisije CO<sub>2</sub>, ozaveščate zaposlene, učitelje, učence in njihove starše ter zmanjšate stroške shranjevanja in podaljšate življenjsko dobo elektronske opreme. Več o [vplivu digitalnih aktivnosti](o-akciji.html).
-
-### Kako točno sodelujemo?
-- Ko se v šoli odločite za sodelovanje, določite koordinatorja, ki bo organiziral podrobnosti akcije in bo tudi kontaktna oseba za nas. Koordinator naj preveri interes za sodelovanje pri akciji in prijavi udeležbo vaše šole. 
-
-
-
-### Odločite se za obseg sodelovanja: navodila za koordinatorje
-- **Vključitev vsebin v učni program**: V sklopu akcije Očistimo Slovenijo digitalnih odpadkov smo pripravili <a href="https://docs.google.com/document/d/19uYbpVIzChegY1dUU4_l6UvXiRkGzw85/edit?usp=sharing&ouid=114108924900487138297&rtpof=true&sd=true" target="_blank" rel="noopener">brezplačna gradiva za potek učne ure</a> o smetenju okolja z našimi napravami, <a href="https://www.canva.com/design/DAF6-UdUt0Y/nhMakJ1ShnRKQOJSNMQgkA/edit?utm_content=DAF6-UdUt0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener">PPT za izvajanje učne ure</a> in <a href="https://docs.google.com/document/d/1d_5yNBVq-rS8tM6uIyD2QwpYf7SRk9TZl7dBZJa--AE/edit?usp=sharing" target="_blank" rel="noopener">in delovni list</a>. Večina otrok se je z različnimi akcijami zbiranja različnih odpadkov, tako ali drugače že seznanila z vplivom, ki ga imamo ljudje z našimi smetmi. Pa najsi bo to z zbiranjem odpadnega papirja in plastičnih zamaškov ali pobiranja odpadkov iz narave. Kako pa naj naši najmlajši počistijo odpadke, ki jih ne vidijo? Takšne, ki se jih morda sploh ne zavedajo, ker jih ne morejo prijeti v roke? Naučimo jih, kaj so takšni odpadki, kje jih najdemo in kako vplivajo na okolje. Pomagamo jim, da se odvečne datoteke, ki so kot prazna vrečka bombonov, pobrišejo. Pogovarjamo se o tem, kako pomembno je, da v skrbi za okolje razmišljamo o odpadkih vseh vrst in oblik. Spodbudimo jih, da naučeno nesejo tudi domov in pomagajo očistiti tudi domače naprave in naprave staršev. Na koncu pa pogledamo še, kaj lahko stroi vsak zase, da se digitalni odpadki v prihodnosti ne bodo več nabirali.
-
-- **Samostojno čiščenje zaposlenih**: Boste zaposlene in učitelje pozvali k samostojnemu čiščenju njihovih naprav? Pošljite jim navodila za čiščenje, <a href="https://docs.google.com/spreadsheets/d/1QiAlI4AaGp24_rOKqpIe1AJVLWCjUqn0M_M3Ng7uquY/edit#gid=0" target="_blank" rel="noopener">prenesite tabelo za zbiranje podatkov za vašo organizacijo</a> in vsakega sodelujočega pozovite k vpisu svojih rezultatov. Zbrane rezultate za vašo šolo [oddajte v obrazec na spletni strani]({{ site.submitURL }}) najkasneje **do 16. marca do 16. ure**, da izveste, koliko ste z izbrisanimi  datotekami privarčevali  CO<sub>2</sub> ter kaj številke pomenijo v malo bolj oprijemljivih primerjavah (npr. koliko kilometrov z avtom bi lahko prepotovali za takšen okoljski odtis).
-
-<div class="btnpad">
-<a class="button" href="{{ site.submitURL }}">Oddajte rezultate</a>
-</div>
-
-- **Vključitev IT oddelka:** Bi šli pri čiščenju korak dlje in se lotili tudi strežnikov šole, sistemskih datotek in kanalov komuniciranja šole? Vključite vse zaposlene, ki jih tovrstno čiščenje vključuje, predvsem predstavnika IT, komunikatorja ter vodstvo šole. Če se boste odločili za poglobljeno čiščenje, ne pozabite podatkov o količini zbrisanih datotek prišteti zbranim rezultatom čiščenja zaposlenih, ki nam jih boste sporočili.
-  
-- **Eksterno ozaveščanje:** Želite čiščenje nadgraditi z ozaveščevalnimi aktivnostmi za vaše zaposlene, učitelje, starše učencev? Pripravili smo predlog komunikacije za vaše <a href="https://drive.google.com/drive/folders/19ytboXVn0K0x_8I5yswVORrym4YmccMH?usp=sharing" target="_blank" rel="noopener">digitalne kanale komuniciranja</a>.
-
-
-
-
-
-
-
-
+| Ura        | Prispevek | Sodelujoči |
+| ------------ | :---: | :----: | 
+| 8.30 - 9.00  | registracija |   
+| 9.00   | Pozdravni nagovor | Tina Cipot, o28
+| wikipedia.org | 0,02 | A+ | **bolje kot 98 % strani**
+| 24ur.com     | 0,68 | E | slabše od 63 % strani
+| siol.net     | 1,68 | F | slabše od 86 % strani
+| zurnal24.si  | 1,11 | F | slabše od 78 % strani
+| metropolitan.si | 0,82 | E | slabše od 69 % strani
+| svet24.si    | 0,86 | F | slabše od 71 % strani
+| rtvslo.si    | 0,36 | C | **bolje kot 62 % strani**
+| n1info.si    | 1,41 | F | slabše od 83 % strani
+| slovenskenovice.si | 0,89 | F | slabše od 72 % strani
+| delo.si      | 1,71 | F | slabše od 87 % strani
+| bolha.com    | 0,32 | B | **bolje kot 65 % strani**
 
 
