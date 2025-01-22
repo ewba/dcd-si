@@ -63,47 +63,89 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
 
 ### Sodelujoči
 
-<div id="sodelujoci">
+<div id="sodelujoci-flex">
   <div class="govorec">
     <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 1" tabindex="-1" aria-hidden="true">
+    <div>
+      <div class="ime">dr. Adrian Friday</div>
+      <div class="naziv nazivek">Profesor računalništva in trajnosti na Univerzi Lancaster</div>
+    </div>
+  </div>
+  <div class="govorec">
+    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 2" tabindex="-1" aria-hidden="true">
+    <div>
+      <div class="ime">dr. Kate Broadhurst</div>
+      <div class="naziv nazivek">Predavateljica za inovacije in strategijo ter članica skupine za digitalno razogličenje</div>
+    </div>
+  </div>
+  <div class="govorec">
+    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 3" tabindex="-1" aria-hidden="true">
+    <div>
+      <div class="ime">izr. prof. dr. Veljko Pejović</div>
+      <div class="naziv nazivek">Fakulteta za računalništvo in informatiko UL</div>
+    </div>
+  </div>
+  <div class="govorec">
+    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 4" tabindex="-1" aria-hidden="true">
+    <div>
+      <div class="ime">Aleš Pevc</div>
+      <div class="naziv">Tehnološki park</div>
+    </div>
+  </div>
+  <div class="govorec">
+    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 5" tabindex="-1" aria-hidden="true">
+    <div>
+      <div class="ime">Borut Sočan</div>
+      <div class="naziv">ReebaXR</div>
+    </div>
+  </div>
+  <div class="govorec">
+    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 6" tabindex="-1" aria-hidden="true">
+    <div>
+      <div class="ime">Anett Linno</div>
+      <div class="naziv">Članica upravnega odbora Let’s do it World!</div>
+    </div>
+  </div>
+  <div class="govorec">
+    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 7" tabindex="-1" aria-hidden="true">
+    <div>
+      <div class="ime">Joseph P. De Veaugh-Geiss</div>
+      <div class="naziv">KDE Eco Project & Community Manager</div>
+    </div>
+  </div>
+    <div class="govorec">
+    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 8" tabindex="-1" aria-hidden="true">
+    <div>
+      <div class="ime">TBA</div>
+      <div class="naziv">Ljubljanske mlekarne</div>
+    </div>
+  </div>
+    <div class="govorec">
+    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 9" tabindex="-1" aria-hidden="true">
+    <div>
+      <div class="ime">TBA</div>
+      <div class="naziv">A1</div>
+    </div>
+  </div>
+    <div class="govorec">
+    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 10" tabindex="-1" aria-hidden="true">
+    <div>
+      <div class="ime">TBA</div>
+      <div class="naziv">GEN-I</div>
+    </div>
+  </div>
+  <div class="govorec">
+    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 11" tabindex="-1" aria-hidden="true">
     <div>
       <div class="ime">Tina Cipot</div>
       <div class="naziv">o28</div>
     </div>
   </div>
   <div class="govorec">
-    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 1" tabindex="-1" aria-hidden="true">
+    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 12" tabindex="-1" aria-hidden="true">
     <div>
-      <div class="ime">Tina Cipot</div>
-      <div class="naziv">o28</div>
-    </div>
-  </div>
-  <div class="govorec">
-    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 1" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">Tina Cipot</div>
-      <div class="naziv">o28</div>
-    </div>
-  </div>
-  <div class="govorec">
-    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 1" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">Tina Cipot</div>
-      <div class="naziv">o28</div>
-    </div>
-  </div>
-  <div class="govorec">
-    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 1" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">Tina Cipot</div>
-      <div class="naziv">o28</div>
-    </div>
-  </div>
-  <div class="govorec">
-    <img src="" height="288" width="288" alt="slika govorca 1" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime"></div>
-      <div class="naziv"></div>
+      <div class="ime">Jaka Kranjc</div>
+      <div class="naziv">Ekologi brez meja</div>
     </div>
   </div>
 <div>
