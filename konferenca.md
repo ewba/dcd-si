@@ -7,7 +7,7 @@ title: Podatki = odpadki?
 ---
 Strokovna konferenca, namenjena predstavnikom podjetij, fakultet, medijev in splošni javnosti, bo potekala v **torek, 4. februarja, med 9.00 in 13.00 v Tehnološkem parku Ljubljana.**
 
-<div class="btnpad">
+<div class="btnpad" style="text-align: center;">
 <a class="button" href="https://docs.google.com/forms/d/1xJwZeN-cQ3w48IuZ-ql0Znc1J3enJJf1BdAy9Awi2fE/edit">Prijavite se na strokovno konferenco</a>
 </div>
 
@@ -103,7 +103,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
     <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 6" tabindex="-1" aria-hidden="true">
     <div>
       <div class="ime">Anett Linno</div>
-      <div class="naziv">Članica upravnega odbora Let’s do it World!</div>
+      <div class="naziv">Članica uprave Let’s do it World!</div>
     </div>
   </div>
   <div class="govorec">
@@ -130,7 +130,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
     <div class="govorec">
     <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 10" tabindex="-1" aria-hidden="true">
     <div>
-      <div class="ime">TBA</div>
+      <div class="ime">Tanja Teršar</div>
       <div class="naziv">GEN-I</div>
     </div>
   </div>
