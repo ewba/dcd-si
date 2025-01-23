@@ -79,6 +79,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
           <li>Tanja Teršar, GEN-I</li>
         </ul>
           </td>
+      </tr>
           <tr>
             <td>13.00</td>
             <td>Zaključek</td>
