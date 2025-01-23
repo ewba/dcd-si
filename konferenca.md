@@ -63,7 +63,8 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
        <td>11.10 - 11.20</td>
        <td>Kako je globalna digitalna čistilna akcija povezala 1,1 milijona ljudi?</td>
        <td>Anett Linno, članica upravnega odbora Let’s do it!</td>
-     </tr>   
+     </tr> 
+    <tr>
         <td>11.20 - 11.40</td>
         <td>TBA</td>
         <td>Joseph P. De Veaugh-Geiss, KDE Eco Project & Community Manager</td>
