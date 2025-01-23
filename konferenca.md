@@ -102,7 +102,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
     </div>
   </div>
   <div class="govorec">
-    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 2" tabindex="-1" aria-hidden="true">
+    <img src="assets/img/Kate-Broadhurst.webp" height="288" width="288" alt="slika govorca 2" tabindex="-1" aria-hidden="true">
     <div>
       <div class="ime">dr. Kate Broadhurst</div>
       <div class="naziv nazivek">Predavateljica za inovacije in strategijo ter članica skupine za digitalno razogličenje</div>
@@ -153,7 +153,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
     <div class="govorec">
     <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 9" tabindex="-1" aria-hidden="true">
     <div>
-      <div class="ime">TBA</div>
+      <div class="ime">Ana Boršić</div>
       <div class="naziv">A1</div>
     </div>
   </div>
