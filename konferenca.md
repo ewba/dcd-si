@@ -117,7 +117,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
     </div>
   </div>
   <div class="govorec">
-    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 4" tabindex="-1" aria-hidden="true">
+    <img src="assets/img/Ales-Pevc.webp" height="288" width="288" alt="slika govorca 4" tabindex="-1" aria-hidden="true">
     <div>
       <div class="ime">Aleš Pevc</div>
       <div class="naziv">Tehnološki park</div>
