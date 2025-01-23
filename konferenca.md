@@ -70,7 +70,20 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
         <td>Joseph P. De Veaugh-Geiss, KDE Eco Project & Community Manager</td>
       </tr>
       <tr>
-      <td>Predstavitev dobrih praks</td>
+        <td>11.40 - 12.00</td>
+          <td>Predstavitev dobrih praks</td>
+          <td style="text-align:left">
+        <ul>
+          <li>Maja Kalan, Ljubljanske mlekarne, vodja korporativnega komuniciranja in družbene odgovornosti</li>
+          <li>Ana Boršić, A1, ekspert za korporativno komuniciranje</li>
+          <li>Tanja Teršar, GEN-I</li>
+        </ul>
+          </td>
+          <tr>
+            <td>13.00</td>
+            <td>Zaključek</td>
+            <td></td>
+          </tr>
         
    
       
