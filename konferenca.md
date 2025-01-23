@@ -35,12 +35,12 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
     <tr>
       <td>9.00 - 9.30</td>
       <td>TBA</td>
-      <td><a href="https://www.lancaster.ac.uk/energy-lancaster/about-us/people/adrian-friday"Adrian Friday></a>, profesor računalništva in trajnosti na univerzi Lancaster</td>
+      <td><a href="https://www.lancaster.ac.uk/energy-lancaster/about-us/people/adrian-friday">Adrian Friday</a>, profesor računalništva in trajnosti na univerzi Lancaster</td>
     </tr>
     <tr>
       <td>9.30 - 10.00</td>
       <td>Unveiling the Hidden Costs: The Environmental Impact of Digitalization on the Road to Net-Zero Emissions</td>
-      <td><a href="https://www.lboro.ac.uk/schools/business-school/our-people/kate-broadhurst/>dr. Kate Broadhurst</a>, predavateljica za inovacije in strategijo ter članica skupine za digitalno razogličenje </td>
+      <td><a href="https://www.lboro.ac.uk/schools/business-school/our-people/kate-broadhurst/">dr. Kate Broadhurst</a>, predavateljica za inovacije in strategijo ter članica skupine za digitalno razogličenje </td>
     </tr>
     <tr>
       <td>10.00 - 10.45</td>
