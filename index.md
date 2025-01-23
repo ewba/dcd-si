@@ -26,7 +26,7 @@ Na lansko prvo pobudo Ekologov brez meja in o28 komunikacijske skupine se je odz
 Pridružite se nam na strokovni konferenci <a href="https://digital.ocistimo.si/konferenca.html">4. februarja</a>, spoznajte ozadje in globino problematike ter črpajte navdih iz dobrih praks organizacij, ki so se tega že lotile. 
 
 <div class="btnpad" style="text-align: center;">
-<a class="button" href="https://docs.google.com/forms/d/1xJwZeN-cQ3w48IuZ-ql0Znc1J3enJJf1BdAy9Awi2fE/edit">Prijavite se na strokovno konferenco</a>
+<a class="button" href="https://docs.google.com/forms/d/1xJwZeN-cQ3w48IuZ-ql0Znc1J3enJJf1BdAy9Awi2fE/edit">Prijava na konferenco</a>
 </div>
 
 <h3>Uradni dan digitalnega čiščenja je 15. marec in traja do 31. marca 2025.</h3> 
