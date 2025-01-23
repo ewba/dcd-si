@@ -9,10 +9,10 @@ co2: "0,03"
 Strokovna konferenca, namenjena predstavnikom podjetij, fakultet, medijev in splošni javnosti, bo potekala v **torek, 4. februarja, med 9.00 in 13.00 v Tehnološkem parku Ljubljana.**
 
 <div class="btnpad" style="text-align: center;">
-<a class="button" href="https://docs.google.com/forms/d/1xJwZeN-cQ3w48IuZ-ql0Znc1J3enJJf1BdAy9Awi2fE/edit">Prijavite se na strokovno konferenco</a>
+<a class="button" href="https://docs.google.com/forms/d/1xJwZeN-cQ3w48IuZ-ql0Znc1J3enJJf1BdAy9Awi2fE/edit">Prijava na konferenco</a>
 </div>
 
-Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolja. Pridružite se nam na naši strokovni konferenci, ki jo organiziramo v sklopu akcije Očistimo Slovenijo digitalnih odpadkov, spoznajte ozadje in globimo problematike ter črpajte navdih iz dobrih praks organizacij, ki so se tega že lotila. 
+Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolja. Pridružite se nam na naši strokovni konferenci, ki jo organiziramo v sklopu akcije Očistimo Slovenijo digitalnih odpadkov, spoznajte ozadje in globino problematike ter črpajte navdih iz dobrih praks organizacij, ki so se tega že lotile. 
 
 ### Program strokovne konference
 
