@@ -23,7 +23,7 @@ co2: "0,03"
 
 Na lansko prvo pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 1288 posameznikov, ki so iz svojih digitalnih naprav izbrisali <strong>26 tisoč GB podatkov ≈ 5 ton prihranka izpustov toplogrednih plinov</strong>. Letos nadaljujemo z večjimi cilji! Zdaj želimo širiti ozaveščenost o trajnostnih digitalnih navadah in še bolj zmanjšati digitalno onesnaževanje.
 
-<h3>Uradni dan digitalnega čiščenja je <strong>15. marec in traja do 31. marca 2025.</h3> 
+<h3>Uradni dan digitalnega čiščenja je 15. marec in traja do 31. marca 2025.</h3> 
 
 Kako sodelujete? Preprosto! Sledite navodilom za čiščenje svojih naprav, in ko zaključite, sporočite svoje rezultate. Vsak izbrisani GB šteje!
 
