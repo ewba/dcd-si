@@ -166,7 +166,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
     </div>
   </div>
   <div class="govorec">
-    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 11" tabindex="-1" aria-hidden="true">
+    <img src="assets/img/Tina Cipot.webp" height="288" width="288" alt="slika govorca 11" tabindex="-1" aria-hidden="true">
     <div>
       <div class="ime">Tina Cipot</div>
       <div class="naziv">o28</div>
