@@ -25,7 +25,9 @@ Na lansko prvo pobudo Ekologov brez meja in o28 komunikacijske skupine se je odz
 
 <h3>Uradni dan digitalnega čiščenja je 15. marec in traja do 31. marca 2025.</h3> 
 
-Kako sodelujete? Preprosto! Sledite navodilom za čiščenje svojih naprav, in ko zaključite, sporočite svoje rezultate. Vsak izbrisani GB šteje!
+Pridružite se nam na strokovni konferenci <a href="https://digital.ocistimo.si/konferenca.html">4. februarja</a>, spoznajte ozadje in globino problematike ter črpajte navdih iz dobrih praks organizacij, ki so se tega že lotile. 
+
+Kako sodelujete na akciji? Preprosto! Sledite navodilom za čiščenje svojih naprav in sporočite svoje rezultate. Vsak izbrisani GB šteje!
 
 <br><br>
 {% include sodeluj.html %}
