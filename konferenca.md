@@ -6,7 +6,9 @@ meta-description: Pridružite se nam na naši strokovni konferenci, ki jo organi
 title: Podatki = odpadki?
 co2: "0,03"
 ---
-Strokovna konferenca, namenjena predstavnikom podjetij, fakultet, medijev in splošni javnosti, bo potekala v **torek, 4. februarja, med 9.00 in 13.00 v Tehnološkem parku Ljubljana.**
+<div style="text-align: center;">
+Strokovna konferenca, namenjena predstavnikom podjetij, fakultet, medijev in splošni javnosti, bo potekala v <strong>torek, 4. februarja, med 9.00 in 13.00 v Tehnološkem parku Ljubljana.</strong>
+</div>
 
 <div class="btnpad" style="text-align: center;">
 <a class="button" href="https://docs.google.com/forms/d/1xJwZeN-cQ3w48IuZ-ql0Znc1J3enJJf1BdAy9Awi2fE/edit">Prijava na konferenco</a>
