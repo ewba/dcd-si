@@ -67,7 +67,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
      </tr> 
     <tr>
         <td>11.20 - 11.40</td>
-        <td>TBA*</td>
+        <td>The Opt Green campaign and the power of FOSS to prevent waste*</td>
         <td>Joseph P. De Veaugh-Geiss, KDE Eco Project & Community Manager</td>
       </tr>
       <tr>
@@ -138,7 +138,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
     </div>
   </div>
   <div class="govorec">
-    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 7" tabindex="-1" aria-hidden="true">
+    <img src="assets/img/josegeiss.webp" height="288" width="288" alt="slika govorca 7" tabindex="-1" aria-hidden="true">
     <div>
       <div class="ime">Joseph P. De Veaugh-Geiss</div>
       <div class="naziv">KDE Eco Project & Community Manager</div>
