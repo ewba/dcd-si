@@ -16,7 +16,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
 
 ### Program strokovne konference
 
-<table style="text-align: center">
+<table id="program-konfe" style="text-align: center">
   <tbody>
     <tr>
       <th>Ura</th>
@@ -92,6 +92,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
   </tbody>
 </table>
 *Predavanje bo potekalo preko platforme Zoom in bo v angleščini. 
+
 ### Sodelujoči
 
 <div id="sodelujoci-flex">
