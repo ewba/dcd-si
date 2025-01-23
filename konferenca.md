@@ -35,12 +35,12 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
     </tr>
     <tr>
       <td>9.00 - 9.30</td>
-      <td>TBA</td>
+      <td>TBA*</td>
       <td><a href="https://www.lancaster.ac.uk/energy-lancaster/about-us/people/adrian-friday">Adrian Friday</a>, profesor računalništva in trajnosti na univerzi Lancaster</td>
     </tr>
     <tr>
       <td>9.30 - 10.00</td>
-      <td>Unveiling the Hidden Costs: The Environmental Impact of Digitalization on the Road to Net-Zero Emissions</td>
+      <td>Unveiling the Hidden Costs: The Environmental Impact of Digitalization on the Road to Net-Zero Emissions*</td>
       <td><a href="https://www.lboro.ac.uk/schools/business-school/our-people/kate-broadhurst/">dr. Kate Broadhurst</a>, predavateljica za inovacije in strategijo ter članica skupine za digitalno razogličenje </td>
     </tr>
     <tr>
@@ -62,12 +62,12 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
     </tr>
      <tr>
        <td>11.10 - 11.20</td>
-       <td>Kako je globalna digitalna čistilna akcija povezala 1,1 milijona ljudi?</td>
+       <td>Kako je globalna digitalna čistilna akcija povezala 1,1 milijona ljudi?*</td>
        <td>Anett Linno, članica upravnega odbora Let’s do it!</td>
      </tr> 
     <tr>
         <td>11.20 - 11.40</td>
-        <td>TBA</td>
+        <td>TBA*</td>
         <td>Joseph P. De Veaugh-Geiss, KDE Eco Project & Community Manager</td>
       </tr>
       <tr>
@@ -91,7 +91,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
       
   </tbody>
 </table>
-
+*Predavanje bo potekalo preko platforme Zoom in bo v angleščini. 
 ### Sodelujoči
 
 <div id="sodelujoci-flex">
