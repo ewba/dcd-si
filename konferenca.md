@@ -4,7 +4,7 @@ meta-image: assets/img/thumb/konferenca.webp
 meta-title: Strokovna konferenca o digitalnih odpadkih
 meta-description: Pridružite se nam na naši strokovni konferenci, ki jo organiziramo v sklopu akcije Očistimo Slovenijo digitalnih odpadkov, spoznajte ozadje in globimo problematike ter črpajte navdih iz dobrih praks organizacij, ki so se tega že lotila.
 title: Podatki = odpadki?
-co2: "0,03"
+co2: "0,4"
 ---
 <div style="text-align: center;">
 Strokovna konferenca, namenjena predstavnikom podjetij, fakultet, medijev in splošni javnosti, bo potekala v <strong>torek, 4. februarja, med 9.00 in 13.00 v Tehnološkem parku Ljubljana.</strong>
