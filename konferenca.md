@@ -182,4 +182,17 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
       <div class="naziv">Ekologi brez meja</div>
     </div>
   </div>
-<div>
+</div>
+
+### Podporniki
+
+Konferenco podpirajo:
+
+<div style="display: flex; justify-content: space-evenly; align-items: center; max-width: 500px;">
+  <div style="max-width:150px">
+		<img height="100" src="assets/img/podporniki/hofer.svg" alt="Logo Hofer">
+	</div>
+  <div style="max-width:260px">
+		<img height="80" src="assets/img/podporniki/tplj-logo-f1.webp" alt="Logo TP LJ">
+	</div>
+</div>
