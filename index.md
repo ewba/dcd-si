@@ -21,9 +21,9 @@ co2: "0,03"
 <div class="block" style="min-height: 14.5rem;">
 <h2>Pridružite se akciji!</h2>
 
-Na lansko prvo pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 1288 posameznikov, ki so izbrisali <strong>26 tisoč GB podatkov</strong>. Letos želimo širiti ozaveščenost o trajnostnih digitalnih navadah in še bolj zmanjšati digitalno onesnaževanje.
+Na lansko pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 1288 posameznikov, ki so izbrisali <strong>26 tisoč GB podatkov</strong>. Letos želimo širiti ozaveščenost o trajnostnih digitalnih navadah in še bolj zmanjšati digitalno onesnaževanje.
 
-Pridružite se nam na strokovni konferenci <a href="https://digital.ocistimo.si/konferenca.html">4. februarja</a>, spoznajte ozadje in globino problematike ter črpajte navdih iz dobrih praks organizacij, ki so se tega že lotile. 
+Pridružite se nam na strokovni konferenci <a href="https://digital.ocistimo.si/konferenca.html">4. februarja</a>, spoznajte globino problematike ter črpajte navdih iz dobrih praks. 
 
 <div class="btnpad" style="text-align: center;">
 <a class="button" href="https://docs.google.com/forms/d/1xJwZeN-cQ3w48IuZ-ql0Znc1J3enJJf1BdAy9Awi2fE/edit">Prijava na konferenco</a>
