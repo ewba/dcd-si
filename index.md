@@ -21,7 +21,7 @@ co2: "0,03"
 <div class="block" style="min-height: 14.5rem;">
 <h2>Pridružite se akciji!</h2>
 
-Na lansko prvo pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 1288 posameznikov, ki so iz svojih digitalnih naprav izbrisali <strong>26 tisoč GB podatkov ≈ 5 ton prihranka izpustov toplogrednih plinov</strong>. Letos nadaljujemo z večjimi cilji! Zdaj želimo širiti ozaveščenost o trajnostnih digitalnih navadah in še bolj zmanjšati digitalno onesnaževanje.
+Na lansko prvo pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 1288 posameznikov, ki so izbrisali <strong>26 tisoč GB podatkov</strong>. Letos želimo širiti ozaveščenost o trajnostnih digitalnih navadah in še bolj zmanjšati digitalno onesnaževanje.
 
 Pridružite se nam na strokovni konferenci <a href="https://digital.ocistimo.si/konferenca.html">4. februarja</a>, spoznajte ozadje in globino problematike ter črpajte navdih iz dobrih praks organizacij, ki so se tega že lotile. 
 
