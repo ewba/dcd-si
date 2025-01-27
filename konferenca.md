@@ -113,7 +113,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
     </div>
   </div>
   <div class="govorec">
-    <img src="https://imageplaceholder.net/288x288/aaaaaa/ffffff?text=@" height="288" width="288" alt="slika govorca 3" tabindex="-1" aria-hidden="true">
+    <img src="ssets/img/Veljko-Pejovic.webp" height="288" width="288" alt="slika govorca 3" tabindex="-1" aria-hidden="true">
     <div>
       <div class="ime">izr. prof. dr. Veljko Pejović</div>
       <div class="naziv nazivek">Fakulteta za računalništvo in informatiko UL</div>
