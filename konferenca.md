@@ -73,7 +73,7 @@ Odkrijte pomen nadzora nad digitalno navlako pri ustvarjanju bolj čistega okolj
         <td>Joseph P. De Veaugh-Geiss, KDE Eco Project & Community Manager</td>
       </tr>
       <tr>
-        <td>11.40 - 12.00</td>
+        <td>11.40 - 12.40</td>
           <td>Predstavitev dobrih praks</td>
           <td style="text-align:left">
         <ul>
