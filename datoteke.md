@@ -49,4 +49,4 @@ Ko končaš, si zapiši končno stanje, da boš vedel/a, koliko si izbrisal/a.
 - Gmail in Outlook: Navodila za preverjanje stanja so opisana v koraku 1: Ugotovi in si zapiši izhodiščno stanje.
 
 ### 8: Sporoči nam, koliko si izbrisal/a!
-Imaš več računalnikov oziroma poleg računalnika še zunanji disk ali Drive? Ponovi korake na vseh napravah, seštej izbrisane GB in oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}) najkasneje do 16. marca do 16. ure. Ne pozabi na čiščenje datotek tudi na <a href="eposta.html" target="_blank" rel="noopener">e-pošti</a> <a href="telefon.html" target="_blank" rel="noopener">telefonu in tablici.</a> 
+Imaš več računalnikov oziroma poleg računalnika še zunanji disk ali Drive? Ponovi korake na vseh napravah, seštej izbrisane GB in oddaj rezultate [v obrazec na spletni strani]({{ site.submitURL }}) najkasneje do 31. marca. Ne pozabi na čiščenje datotek tudi na <a href="eposta.html" target="_blank" rel="noopener">e-pošti</a> <a href="telefon.html" target="_blank" rel="noopener">telefonu in tablici.</a> 
