@@ -68,9 +68,9 @@ Seveda! Pripravili smo brezplačna podrobna video in tekstovna [navodila](navodi
 Zapomni si prvi korak: preden karkoli izbrišeš, vedno najprej preveri in si zapiši začetno stanje! V ta namen smo pripravili [natančna tekstovna in video navodila](navodila-za-ciscenje.html). Logičen zadnji korak pa je ponovno preverjanje količine pomnilnika. Podatke [vnesi v obrazec na spletni strani]({{ site.submitURL }}), kjer izveš še nekaj zanimivih primerjav.
 
 ### Izbrisal/a sem 150 GB. Kako in kdaj naj sporočim svoje rezultate? 
-Najprej, čestitke, takšne rabimo! Tvoj rezultat nam sporoči z oddajo rezultatov na [spletni strani]({{ site.submitURL }}) do 16. marca do 16. ure - v tem primeru bo tvoj prispevek prištet kolektivnemu rezultatu, ki ga bomo javno objavili po zaključku letošnje akcije. 
+Najprej, čestitke, takšne rabimo! Tvoj rezultat nam sporoči z oddajo rezultatov na [spletni strani]({{ site.submitURL }}) do 31. marca - v tem primeru bo tvoj prispevek prištet kolektivnemu rezultatu, ki ga bomo javno objavili po zaključku letošnje akcije. 
 
-### Ojoj, zamudil/a sem rok: 16. marec do 16. ure. Naj vseeno sporočim rezultate?
+### Ojoj, zamudil/a sem rok: 31. marec. Naj vseeno sporočim rezultate?
 Da. Za digitalno higieno je smiselno skrbeti ves čas. Skupni rezultati bodo objavljeni pomladi, če pa svoje rezultate sporočiš po roku, bodo upoštevani v naslednjem letu.
 
 
