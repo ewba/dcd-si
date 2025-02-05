@@ -23,11 +23,12 @@ co2: "0,03"
 
 Na lansko pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 1288 posameznikov, ki so izbrisali <strong>26 tisoč GB podatkov</strong>. Letos želimo širiti ozaveščenost o trajnostnih digitalnih navadah in še bolj zmanjšati digitalno onesnaževanje.
 
-</div>
+
 
 <h3>Uradni dan digitalnega čiščenja je 15. marec in traja do 31. marca 2025.</h3> 
 
 Kako sodelujete na akciji? Preprosto! Sledite navodilom za čiščenje svojih naprav in sporočite svoje rezultate. Vsak izbrisani GB šteje!
+</div>
 
 <br><br>
 {% include sodeluj.html %}
