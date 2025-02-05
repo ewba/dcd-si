@@ -10,9 +10,6 @@ co2: "0,4"
 Strokovna konferenca, namenjena predstavnikom podjetij, fakultet, medijev in splošni javnosti, je potekala v <strong>torek, 4. februarja, med 9.00 in 13.00 v Tehnološkem parku Ljubljana.</strong>
 </div>
 
-<div class="btnpad" style="text-align: center;">
-<a class="button" href="https://docs.google.com/forms/d/1xJwZeN-cQ3w48IuZ-ql0Znc1J3enJJf1BdAy9Awi2fE/edit">Prijava na konferenco</a>
-</div>
 
 
 ### Program strokovne konference
