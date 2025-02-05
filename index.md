@@ -42,7 +42,7 @@ Kako sodelujete na akciji? Preprosto! Sledite navodilom za čiščenje svojih na
 	</div>
 	<div style="justify-self: start">
 		<h3>Odstraniti čim več odvečnih podatkov</h3>
-		Do zaključka akcije 16. marca 2024 <strong>počistiti čim več odvečnih gigabajtov</strong> in okolje <a href="https://digital.ocistimo.si/o-akciji.html">razbremeniti digitalnih odpadkov</a>. Z enostavnim ukrepom lahko zmanjšaš emisije CO<sub>2</sub> ter podaljšaš življenjsko dobo elektronske opreme.
+		Do zaključka akcije 31. marca 2025 <strong>počistiti čim več odvečnih gigabajtov</strong> in okolje <a href="https://digital.ocistimo.si/o-akciji.html">razbremeniti digitalnih odpadkov</a>. Z enostavnim ukrepom lahko zmanjšaš emisije CO<sub>2</sub> ter podaljšaš življenjsko dobo elektronske opreme.
 	</div>
 
 	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
