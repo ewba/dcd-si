@@ -6,7 +6,7 @@ meta-description: Lani so vsi udeleženci akcije digitalnega čiščenja izbrisa
 title: Kako sodelujem?
 ---
 
-Pomlad ni čas samo za tradicionalne čistilne akcije v naravi, temveč tudi čiščenje naših digitalnih smeti – to akcijo lahko opravimo kar v udobju domačega naslonjača, zato je za mnoge to najlažja čistilna akcija na svetu. Pridružite se čiščenju, ki ga 16. marca pod okriljem mreže *Let’s do it* v Sloveniji organiziramo Ekologi brez meja.
+Pomlad ni čas samo za tradicionalne čistilne akcije v naravi, temveč tudi čiščenje naših digitalnih smeti – to akcijo lahko opravimo kar v udobju domačega naslonjača, zato je za mnoge to najlažja čistilna akcija na svetu. Pridružite se čiščenju, ki ga med 15. in 31. marcem 2025 pod okriljem mreže *Let’s do it* v Sloveniji organiziramo Ekologi brez meja.
 
 V digitalnem svetu je, podobno kot v našem okolju, ogromno odpadkov. Digitalni odpadki so nepotrebna e-pošta, datoteke, aplikacije, dvojniki fotografij in videoposnetkov. Četudi smo na te stare digitalne odpadke že zdavnaj pozabili, njihove varnostne kopije na strežnikih še vedno porabljajo energijo. 
 
