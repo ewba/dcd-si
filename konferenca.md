@@ -33,7 +33,7 @@ Strokovna konferenca, namenjena predstavnikom podjetij, fakultet, medijev in spl
     </tr>
     <tr>
       <td>9.00 - 9.30</td>
-      <td>TBA*</td>
+      <td>Building digital solutions for the Anthropocene: avoiding digital wastefulness*</td>
       <td><a href="https://www.lancaster.ac.uk/energy-lancaster/about-us/people/adrian-friday">Adrian Friday</a>, profesor računalništva in trajnosti na univerzi Lancaster</td>
     </tr>
     <tr>
