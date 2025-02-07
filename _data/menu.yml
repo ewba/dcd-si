@@ -12,8 +12,8 @@ entries:
         url: odtis-strani.html
       - title: Akcija leta 2024
         url: akcija2024.html
-  - title: Konferenca
-    url: konferenca.html
+      - title: Konferenca
+        url: konferenca.html
   - title: Navodila
     url: navodila-za-ciscenje.html
     entries:
