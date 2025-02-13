@@ -31,7 +31,7 @@ Ker je to enostaven ukrep, s katerim lahko okrepite svoja trajnostna prizadevanj
 
 - **Vključitev IT oddelka:** Bi šli pri čiščenju korak dlje in se lotili tudi strežnikov šole, sistemskih datotek in kanalov komuniciranja šole? Vključite vse zaposlene, ki jih tovrstno čiščenje vključuje, predvsem predstavnika IT, komunikatorja ter vodstvo šole. Če se boste odločili za poglobljeno čiščenje, ne pozabite podatkov o količini zbrisanih datotek prišteti zbranim rezultatom čiščenja zaposlenih, ki nam jih boste sporočili.
   
-- **Eksterno ozaveščanje:** Želite čiščenje nadgraditi z ozaveščevalnimi aktivnostmi za vaše zaposlene, učitelje, starše učencev? Pripravili smo predlog komunikacije za vaše <a href="https://drive.google.com/drive/folders/19ytboXVn0K0x_8I5yswVORrym4YmccMH?usp=sharing" target="_blank" rel="noopener">digitalne kanale komuniciranja</a>.
+- **Eksterno ozaveščanje:** Želite čiščenje nadgraditi z ozaveščevalnimi aktivnostmi za vaše zaposlene, učitelje, starše učencev? Pripravili smo predlog komunikacije za vaše <a href="https://docs.google.com/spreadsheets/d/1USGkIJBBgYG89XoRHAYafkR8t0BgVzmO/edit?usp=sharing&ouid=114108924900487138297&rtpof=true&sd=true" target="_blank" rel="noopener">digitalne kanale komuniciranja</a>.
 
 
 
