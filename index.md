@@ -94,5 +94,6 @@ Kako sodelujete na akciji? Preprosto! Sledite navodilom za čiščenje svojih na
 		<img src="assets/img/podporniki/mdp.svg" id="mdplogo" alt="logo MDP" height="40">
 		<img src="assets/img/podporniki/MKL-logo.webp" alt="Logo MKL" height="60">
 		<img src="assets/img/podporniki/tplj-logo-f1.webp" alt="Logo TP LJ" height="70">
+		<img src="assets/img/podporniki/knjmb.svg" alt="Logo Knjižnjice Maribor" height="70">
 	</div>
 </div>
