@@ -78,6 +78,9 @@ Kako sodelujete na akciji? Preprosto! Sledite navodilom za čiščenje svojih na
 		<div>
 			<img height="120" src="assets/img/podporniki/hofer.svg" alt="Logo Hofer">
 		</div>
+		<div>
+			<img height="70" src="assets/img/podporniki/gremzvlakom.webp" alt="Logo SŽ">
+		</div>
 	</div>
 	<h3 style="margin: 2rem 0">Kilo</h3>
 	<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0; gap: 2.5rem 1.5rem; align-items: center">
