@@ -27,7 +27,7 @@ Uradni dan digitalnega čiščenja je bil 15. marec 2025, akcija pa je potekala 
 
 <h3>26 tisoč GB podatkov ≈ 5 ton prihranka izpustov toplogrednih plinov</h3> 
 
-Več v <a href="https://ebm.si/glavna/web/prispevki/slovenija-ocistila-23-terabajtov-digitalnih-odpadkov">sporočilu Ekologov brez meja<a>. Čistiš in oddaš rezultate pa lahko še naprej - tvoji rezultati bodo prišteti k rezultatom akcije 2026.
+Več v <a href="https://ebm.si/glavna/web/prispevki/slovenija-ocistila-23-terabajtov-digitalnih-odpadkov" target="_blank" rel="noopener">sporočilu Ekologov brez meja</a>. Čistiš in oddaš rezultate pa lahko še naprej - tvoji rezultati bodo prišteti k rezultatom akcije 2026.
 <br><br>
 {% include sodeluj.html %}
 </div>
