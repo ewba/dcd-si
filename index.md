@@ -19,15 +19,15 @@ co2: "0,03"
 </div>
 
 <div class="block" style="min-height: 14.5rem;">
-<h2>Pridružite se akciji!</h2>
+<h2>Rezultati akcije 2025</h2>
 
-Na lansko pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 1288 posameznikov, ki so izbrisali <strong>26 tisoč GB podatkov</strong>. Letos želimo širiti ozaveščenost o trajnostnih digitalnih navadah in še bolj zmanjšati digitalno onesnaževanje.
+Uradni dan digitalnega čiščenja je bil 15. marec 2025, akcija pa je potekala do 31. marca. Na pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 9471 posameznikov, ki so iz svojih digitalnih naprav izbrisali:
 
 
 
-<h3>Uradni dan digitalnega čiščenja je 15. marec in traja do 31. marca 2025.</h3> 
+<h3>26 tisoč GB podatkov ≈ 5 ton prihranka izpustov toplogrednih plinov</h3> 
 
-Kako sodelujete na akciji? Preprosto! Sledite navodilom za čiščenje svojih naprav in sporočite svoje rezultate. Vsak izbrisani GB šteje!
+Več v <a href="https://ebm.si/glavna/web/prispevki/slovenija-ocistila-23-terabajtov-digitalnih-odpadkov">sporočilu Ekologov brez meja<(a>. Čistiš in oddaš rezultate pa lahko še naprej - tvoji rezultati bodo prišteti k rezultatom akcije 2026.
 <br><br>
 {% include sodeluj.html %}
 </div>
