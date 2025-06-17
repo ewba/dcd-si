@@ -28,6 +28,7 @@ https://greenspector.com/en/what-is-the-environmental-footprint-of-social-networ
 https://o-sta.si/26776/minimalna-potreba-po-energiji-za-gospodinjstva
 https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech are higher than thought! 600-700%
 https://arxiv.org/pdf/2304.03271 water footprint of ai prompt up to 500ml, depending on the location, up to 50% from direct use
+https://clune.org/posts/environmental-impact-of-ai/ dober članek o različnih AI in porabi energije
 https://arxiv.org/pdf/2410.05460 a more comprehensive footprint of different programming languages: the choice of programming language has no significant impact on energy consumption beyond runtime
 https://www.asianometry.com/p/the-big-data-center-water-problem podatki in rešitve o podatkovnih centrih
 https://www.zora.uzh.ch/id/eprint/110766/1/Limits_2015_Lorenz_Hilty.pdf Computing Efficiency, Sufficiency, and Self-sufficiency: A Model for Sustainability?
@@ -37,8 +38,6 @@ summer school - osnove green ict: https://www.youtube.com/playlist?list=PLo9UcAk
 Permacomputing: https://permacomputing.net/
 dober slide (guiding princip. for sust. digitalization): https://youtu.be/DGEHsuMMWU4?si=ABTESjZGJh2dRfdv&t=1785
   ODLIČEN ČLANEK: https://link.springer.com/content/pdf/10.1007/s12243-022-00914-x.pdf
-
-odlične konference: https://conf.researchr.org/series/ict4s
   
 poglej v 2025:
 https://www.youtube.com/live/p7eMRggZl1k?si=GnD-R3WETnZYAo_5&t=2104
@@ -65,6 +64,12 @@ The world ships too much code, most of it by third parties, sometimes unintended
 https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/
 
 as John Carmack put it: “If you give developers a 486, they will write code that requires a 486.” (Context: Getting DOOM to run on 386) 
+What Andy (IBM) giveth, Bill taketh away
+aka "Andy and Bill's" law
+"New software will always consume any increase in computing power that new hardware can provide"
+
+Wirth's law
+"Software is getting slower more rapidly than the hardware is becoming faster"
 
 • Some plain scientific facts
 • A new laptop + screen costs 691kg CO2e/year, on a 4 year renewal policy (source oxford https://www.it.ox.ac.uk/article/environment-and-it)
