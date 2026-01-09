@@ -16,6 +16,10 @@ Kasneje:
 
 Lighthouse: isti rezultat za ghp in naš host, samo da ima ghp slabši cache policy
 
+kalkulatorji:
+- https://carbonneutralwebsite.org/calculate upošteva tudi return visits (torej cached state)
+- https://www.ecoindex.fr - a je to fr original? Ja in čeprav ni očitne omembe hw, je to to, rezultati so precej slabši
+
 
 zanimive statistike vplivov med proizvodnjo, rabo, eol (ločeno mujo, laptop, vrsto popravil)
 https://www.sustainabilitylab.uio.no/projects/circular-energy/the-life-cycle-of-electronic-devices_converted_screen(1).pdf
@@ -38,7 +42,9 @@ summer school - osnove green ict: https://www.youtube.com/playlist?list=PLo9UcAk
 Permacomputing: https://permacomputing.net/
 dober slide (guiding princip. for sust. digitalization): https://youtu.be/DGEHsuMMWU4?si=ABTESjZGJh2dRfdv&t=1785
   ODLIČEN ČLANEK: https://link.springer.com/content/pdf/10.1007/s12243-022-00914-x.pdf
+odličen inštitut in pregled širših ai problemov: https://ainowinstitute.org/publications/research/ai-now-2025-landscape-report
   
+
 poglej v 2025:
 https://www.youtube.com/live/p7eMRggZl1k?si=GnD-R3WETnZYAo_5&t=2104
 
@@ -95,3 +101,5 @@ glasijo:
 
 My colleague Manuel shared this spreadsheet by Refurbed with smartphone footprints and their assumption of how much e-waste is saved by refurbishing for different devices.
 The download of the spreadsheet can be found on refurbed's sustainability page: https://nachhaltigkeit.refurbed.de/clkn/https/pub.refurbed.com/Sustainabilitypage/Produktfu%C3%9Fabdr%C3%BCcke%202023_Website%20(1).xlsx (see link “Produktfußabdrücke entdecken” on https://nachhaltigkeit.refurbed.de/)
+
+Automated threats are rising at an unprecedented rate, with bad bots now making up 37% of all internet traffic. AI is not only being used by attackers to create more advanced, evasive bots that target APIs, exploit business logic, and fuel fraud, but it is also lowering the barrier to entry for attackers resulting in an increase in volumes of simple bot attacks. For the first time in a decade, automated traffic has surpassed human activity, accounting for 51% of all web traffic.  

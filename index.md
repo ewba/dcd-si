@@ -19,15 +19,12 @@ co2: "0,03"
 </div>
 
 <div class="block" style="min-height: 14.5rem;">
-<h2>Rezultati akcije 2025</h2>
+<h2>Akcija 2026</h2>
 
-Uradni dan digitalnega čiščenja je bil 15. marec 2025, akcija pa je potekala do 31. marca. Na pobudo Ekologov brez meja in o28 komunikacijske skupine se je odzvalo 9471 posameznikov, ki so iz svojih digitalnih naprav izbrisali:
+Začetek letošnje akcije digitalnega čiščenja bo 14. marec 2026! Ker pa se spremembe ne dogajajo čez noč, lahko z nami čistite vse do vključno 31. marca!<br><br>
+Čistiš in oddaš rezultate pa lahko kadarkoli - tvoji rezultati bodo prišteti k rezultatom celotne akcije 2026.
 
 
-
-<h3>24 tisoč GB podatkov ≈ 5 ton prihranka izpustov toplogrednih plinov</h3> 
-
-Več v <a href="https://ebm.si/glavna/web/prispevki/slovenija-ocistila-23-terabajtov-digitalnih-odpadkov" target="_blank" rel="noopener">sporočilu Ekologov brez meja</a>. Čistiš in oddaš rezultate pa lahko še naprej - tvoji rezultati bodo prišteti k rezultatom akcije 2026.
 <br><br>
 {% include sodeluj.html %}
 </div>
@@ -41,7 +38,7 @@ Več v <a href="https://ebm.si/glavna/web/prispevki/slovenija-ocistila-23-teraba
 	</div>
 	<div style="justify-self: start">
 		<h3>Odstraniti čim več odvečnih podatkov</h3>
-		Do zaključka akcije 31. marca 2025 <strong>počistiti čim več odvečnih gigabajtov</strong> in okolje <a href="https://digital.ocistimo.si/o-akciji.html">razbremeniti digitalnih odpadkov</a>. Z enostavnim ukrepom lahko zmanjšaš emisije CO<sub>2</sub> ter podaljšaš življenjsko dobo elektronske opreme.
+		Do zaključka akcije 31. marca 2026 <strong>počistiti čim več odvečnih gigabajtov</strong> in okolje <a href="https://digital.ocistimo.si/o-akciji.html">razbremeniti digitalnih odpadkov</a>. Z enostavnim ukrepom lahko zmanjšaš emisije CO<sub>2</sub> ter podaljšaš življenjsko dobo elektronske opreme.
 	</div>
 
 	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
@@ -71,6 +68,7 @@ Več v <a href="https://ebm.si/glavna/web/prispevki/slovenija-ocistila-23-teraba
 
 </div>
 
+<!--
 <div class="block para" style="text-align: center" aria-hidden="true">
 	<h2>Podporniki akcije</h2>
 	<h3 style="margin: 2rem 0">Mega</h3>
@@ -100,3 +98,4 @@ Več v <a href="https://ebm.si/glavna/web/prispevki/slovenija-ocistila-23-teraba
 		<img src="assets/img/podporniki/knjmb.svg" alt="Logo Knjižnjice Maribor" height="70">
 	</div>
 </div>
+-->
