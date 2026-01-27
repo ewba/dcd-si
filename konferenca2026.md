@@ -8,22 +8,11 @@ co2: "0,4"
 css: yt.css
 ---
 <div style="text-align: center;">
-Strokovna konferenca, ki ji bo sledila še delavnica primerna za vse, bo potekala v <strong>sredo, 11. februarja, med 9.00 in 14.30 v Računalniškem muzeju v Ljubljani.</strong>
+Strokovna konferenca, ki ji bo sledila še delavnica primerna za vse, bo potekalav <br><strong>sredo, 11. februarja</strong>,<br> med <strong>9.00 in 14.30</strong> v<br> <strong>Računalniškem muzeju</strong> v Ljubljani.
 </div>
 
-V preteklem letu smo naslovili širši okvir digitalnega odtisa, tokrat pa želimo skonkretizirati povezavo med digitalnimi praksami, strojno opremo in oprijemljivimi posledicami – od rasti digitalnih odpadkov do izgube krožnosti in povečane tehnološke odvisnosti. Cilj dogodka je spodbuditi strokoven, trezen razmislek o tem, kako digitalne rešitve zasnovati tako, da bodo dolgoročno vzdržne – tehnološko, okoljsko in družbeno – ter odpreti prostor za izmenjavo pogledov med različnimi disciplinami.
+V preteklem letu smo naslovili širši okvir digitalnega odtisa, tokrat pa želimo skonkretizirati povezavo med digitalnimi praksami, strojno opremo in oprijemljivimi posledicami – od e-odpadkov do slabše uporabniške izkušnje in povečane tehnološke odvisnosti. Cilj dogodka je spodbuditi strokoven, trezen razmislek o tem, kako digitalne rešitve zasnovati tako, da bodo dolgoročno vzdržne – tehnološko, okoljsko in družbeno – ter odpreti prostor za izmenjavo pogledov med različnimi disciplinami.
 
-
-<!--
-Oglejte si posnetke predavanj tujih gostov:
-
-<div style="display:flex;flex-wrap: wrap;justify-content: space-around; row-gap: 1rem;">
-	{% include youtube.html video="NwWcXwn5ZTQ" %}
-	{% include youtube.html video="taPZor8B07k" %}
-	{% include youtube.html video="-lYEmg6AfI0" %}
-	{% include youtube.html video="z-04n5A_OYc" %}
-</div>
--->
 
 ### Program strokovne konference
 
@@ -51,7 +40,7 @@ Oglejte si posnetke predavanj tujih gostov:
     </tr>
     <tr>
       <td>10.25 - 10.45</td>
-      <td>Digital sufficiency (digitalna zadostnost)*</td>
+      <td><i>Digital sufficiency (digitalna zadostnost)</i>*</td>
       <td>prof. Geoffrey Aerts FARI Academic Director - Vrije Universiteit Brussel (VUB)</td>
     </tr>
     <tr>
