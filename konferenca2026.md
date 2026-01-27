@@ -8,7 +8,7 @@ co2: "0,4"
 css: yt.css
 ---
 <div style="text-align: center;">
-Strokovna konferenca, ki ji bo sledila še delavnica primerna za vse, bo potekalav <br><strong>sredo, 11. februarja</strong>,<br> med <strong>9.00 in 14.30</strong> v<br> <strong>Računalniškem muzeju</strong> v Ljubljani.
+Strokovna konferenca, ki ji bo sledila še delavnica primerna za vse, bo potekalav <br><strong>sredo, 11. februarja</strong>,<br> med <strong>9.00 in 14.30</strong> v<br> <strong><a href="https://www.racunalniski-muzej.si/" target="_blank" rel="noopener">Računalniškem muzeju</a></strong> v Ljubljani.
 </div>
 
 V preteklem letu smo naslovili širši okvir digitalnega odtisa, tokrat pa želimo skonkretizirati povezavo med digitalnimi praksami, strojno opremo in oprijemljivimi posledicami – od e-odpadkov do slabše uporabniške izkušnje in povečane tehnološke odvisnosti. Cilj dogodka je spodbuditi strokoven, trezen razmislek o tem, kako digitalne rešitve zasnovati tako, da bodo dolgoročno vzdržne – tehnološko, okoljsko in družbeno – ter odpreti prostor za izmenjavo pogledov med različnimi disciplinami.
