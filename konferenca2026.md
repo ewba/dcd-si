@@ -101,10 +101,12 @@ Oglejte si posnetke predavanj tujih gostov:
     </tr>
   </tbody>
 </table>
+
 *Predavanje bo potekalo preko spleta. 
 
 <!--
-### Sodelujoči
+
+\#\#\# Sodelujoči
 
 <div id="sodelujoci-flex">
   <div class="govorec">
@@ -192,6 +194,7 @@ Oglejte si posnetke predavanj tujih gostov:
     </div>
   </div>
 </div>
+
 -->
 
 ### Podporniki
