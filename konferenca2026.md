@@ -8,8 +8,11 @@ co2: "0,4"
 css: yt.css
 ---
 <div style="text-align: center;">
-Strokovna konferenca, namenjena predstavnikom podjetij, fakultet, medijev in splošni javnosti, bo potekala v <strong>sredo, 11. februarja, med 9.00 in 14.30 v Računalniškem muzeju v Ljubljani.</strong>
+Strokovna konferenca, ki ji bo sledila še delavnica primerna za vse, bo potekala v <strong>sredo, 11. februarja, med 9.00 in 14.30 v Računalniškem muzeju v Ljubljani.</strong>
 </div>
+
+V preteklem letu smo naslovili širši okvir digitalnega odtisa, tokrat pa želimo skonkretizirati povezavo med digitalnimi praksami, strojno opremo in oprijemljivimi posledicami – od rasti digitalnih odpadkov do izgube krožnosti in povečane tehnološke odvisnosti. Cilj dogodka je spodbuditi strokoven, trezen razmislek o tem, kako digitalne rešitve zasnovati tako, da bodo dolgoročno vzdržne – tehnološko, okoljsko in družbeno – ter odpreti prostor za izmenjavo pogledov med različnimi disciplinami.
+
 
 <!--
 Oglejte si posnetke predavanj tujih gostov:
@@ -53,12 +56,12 @@ Oglejte si posnetke predavanj tujih gostov:
     </tr>
     <tr>
       <td>10.45 - 11.05</td>
-      <td><i>Prekomerna digitalizacija kot gonilo nastajanja e-odpadkov</a>*</td>
+      <td><i>Prekomerna digitalizacija kot gonilo nastajanja e-odpadkov</i>*</td>
       <td>Izr. prof. dr. Urban Sedlar, UL FE</td>
     </tr>
     <tr>
       <td>11.05 - 11.25</td>
-      <td><i>Prekomerna digitalizacija — skozi oči varstva potrošnikov</a>*</td>
+      <td><i>Prekomerna digitalizacija — skozi oči varstva potrošnikov</i></td>
       <td>Boštjan Okorn, Zveza potrošnikov Slovenije</td>
     </tr>
     <tr>
@@ -104,98 +107,6 @@ Oglejte si posnetke predavanj tujih gostov:
 
 *Predavanje bo potekalo preko spleta. 
 
-<!--
-
-\#\#\# Sodelujoči
-
-<div id="sodelujoci-flex">
-  <div class="govorec">
-    <img src="assets/img/Adrian-Friday.webp" height="288" width="288" alt="slika govorca 1" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">dr. Adrian Friday</div>
-      <div class="naziv nazivek">Profesor računalništva in trajnosti na Univerzi Lancaster</div>
-    </div>
-  </div>
-  <div class="govorec">
-    <img src="assets/img/Kate-Broadhurst.webp" height="288" width="288" alt="slika govorca 2" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">dr. Kate Broadhurst</div>
-      <div class="naziv nazivek">Predavateljica za inovacije in strategijo ter članica skupine za digitalno razogličenje</div>
-    </div>
-  </div>
-  <div class="govorec">
-    <img src="assets/img/Veljko-Pejovic.webp" height="288" width="288" alt="slika govorca 3" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">izr. prof. dr. Veljko Pejović</div>
-      <div class="naziv nazivek">Fakulteta za računalništvo in informatiko UL</div>
-    </div>
-  </div>
-  <div class="govorec">
-    <img src="assets/img/Ales-Pevc.webp" height="288" width="288" alt="slika govorca 4" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">Aleš Pevc</div>
-      <div class="naziv">Tehnološki park</div>
-    </div>
-  </div>
-  <div class="govorec">
-    <img src="assets/img/Borut-Socan.webp" height="288" width="288" alt="slika govorca 5" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">Borut Sočan</div>
-      <div class="naziv">ReebaXR</div>
-    </div>
-  </div>
-  <div class="govorec">
-    <img src="assets/img/Anett-Linno.webp" height="288" width="288" alt="slika govorca 6" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">Anett Linno</div>
-      <div class="naziv">Članica uprave Let’s do it World!</div>
-    </div>
-  </div>
-  <div class="govorec">
-    <img src="assets/img/josegeiss.webp" height="288" width="288" alt="slika govorca 7" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">Joseph P. De Veaugh-Geiss</div>
-      <div class="naziv">KDE Eco Project & Community Manager</div>
-    </div>
-  </div>
-    <div class="govorec">
-    <img src="assets/img/Maja-Kalan.webp" height="288" width="288" alt="slika govorca 8" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">Maja Kalan</div>
-      <div class="naziv">Ljubljanske mlekarne</div>
-    </div>
-  </div>
-    <div class="govorec">
-    <img src="assets/img/Ana-Borsic.webp" height="288" width="288" alt="slika govorca 9" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">Ana Boršić</div>
-      <div class="naziv">A1</div>
-    </div>
-  </div>
-    <div class="govorec">
-    <img src="assets/img/Tanja-Tersar.webp" height="288" width="288" alt="slika govorca 10" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">Tanja Teršar</div>
-      <div class="naziv">GEN-I</div>
-    </div>
-  </div>
-  <div class="govorec">
-    <img src="assets/img/Tina Cipot.webp" height="288" width="288" alt="slika govorca 11" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">Tina Cipot</div>
-      <div class="naziv">o28</div>
-    </div>
-  </div>
-  <div class="govorec">
-    <img src="assets/img/Jaka-Kranjc.webp" height="288" width="288" alt="slika govorca 12" tabindex="-1" aria-hidden="true">
-    <div>
-      <div class="ime">Jaka Kranjc</div>
-      <div class="naziv">Ekologi brez meja</div>
-    </div>
-  </div>
-</div>
-
--->
 
 ### Podporniki
 
