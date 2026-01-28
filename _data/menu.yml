@@ -16,6 +16,8 @@ entries:
         url: akcija2025.html
       - title: Konferenca 2025
         url: konferenca.html
+      - title: Konferenca 2026
+        url: konferenca2026.html
   - title: Navodila
     url: navodila-za-ciscenje.html
     entries:

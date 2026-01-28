@@ -13,8 +13,9 @@ Strokovna konferenca, ki ji bo sledila še delavnica primerna za vse, bo potekal
 
 V preteklem letu smo naslovili širši okvir digitalnega odtisa, tokrat pa želimo skonkretizirati povezavo med digitalnimi praksami, strojno opremo in oprijemljivimi posledicami – od e-odpadkov do slabše uporabniške izkušnje in povečane tehnološke odvisnosti. Cilj dogodka je spodbuditi strokoven, trezen razmislek o tem, kako digitalne rešitve zasnovati tako, da bodo dolgoročno vzdržne – tehnološko, okoljsko in družbeno – ter odpreti prostor za izmenjavo pogledov med različnimi disciplinami.
 
+<!--
 Za lažjo organizacijo dogodka vas prosimo, da se prijavite preko [prijavnega obrazca]().
-
+-->
 
 ### Program strokovne konference
 
