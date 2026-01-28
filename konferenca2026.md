@@ -13,6 +13,8 @@ Strokovna konferenca, ki ji bo sledila še delavnica primerna za vse, bo potekal
 
 V preteklem letu smo naslovili širši okvir digitalnega odtisa, tokrat pa želimo skonkretizirati povezavo med digitalnimi praksami, strojno opremo in oprijemljivimi posledicami – od e-odpadkov do slabše uporabniške izkušnje in povečane tehnološke odvisnosti. Cilj dogodka je spodbuditi strokoven, trezen razmislek o tem, kako digitalne rešitve zasnovati tako, da bodo dolgoročno vzdržne – tehnološko, okoljsko in družbeno – ter odpreti prostor za izmenjavo pogledov med različnimi disciplinami.
 
+Za lažjo organizacijo dogodka vas prosimo, da se prijavite preko [prijavnega obrazca]().
+
 
 ### Program strokovne konference
 
@@ -40,12 +42,12 @@ V preteklem letu smo naslovili širši okvir digitalnega odtisa, tokrat pa želi
     </tr>
     <tr>
       <td>10.25 - 10.45</td>
-      <td><i>Digital sufficiency (digitalna zadostnost)</i>*</td>
+      <td><i>Digital sufficiency (vklop prek spleta)</i></td>
       <td>prof. Geoffrey Aerts FARI Academic Director - Vrije Universiteit Brussel (VUB)</td>
     </tr>
     <tr>
       <td>10.45 - 11.05</td>
-      <td><i>Prekomerna digitalizacija kot gonilo nastajanja e-odpadkov</i>*</td>
+      <td><i>Prekomerna digitalizacija kot gonilo nastajanja e-odpadkov</i></td>
       <td>Izr. prof. dr. Urban Sedlar, UL FE</td>
     </tr>
     <tr>
@@ -94,18 +96,12 @@ V preteklem letu smo naslovili širši okvir digitalnega odtisa, tokrat pa želi
   </tbody>
 </table>
 
-*Predavanje bo potekalo preko spleta. 
-
-
 ### Podporniki
 
 Konferenco podpirajo:
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; max-width: 500px;">
   <div style="max-width:150px">
-		<img height="100" src="assets/img/podporniki/hofer.svg" alt="Logo Hofer">
+		<img height="50" src="assets/img/podporniki/radenska_adriatic.webp" alt="Logo Radenska">
 	</div>
-<!--  <div style="max-width:260px">
-		<img height="80" src="assets/img/podporniki/tplj-logo-f1.webp" alt="Logo TP LJ">
-	</div>-->
 </div>
