@@ -29,6 +29,13 @@ Začetek letošnje akcije digitalnega čiščenja bo 14. marec 2026! Ker pa se s
 {% include sodeluj.html %}
 </div>
 
+<div class="block" style="min-height: 14.5rem;">
+<h2>Strokovna konferenca: Kako je digitalno lahko fizično?</h2>
+<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0">
+	<a class="button" href="konferenca2026.html">Vabljeni na konferenco in praktično delavnico</a>
+</div>
+</div>
+
 <div class="block para" style="padding-bottom: 2.5rem">
 <h2>Cilji akcije</h2>
 
