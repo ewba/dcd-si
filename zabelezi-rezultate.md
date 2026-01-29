@@ -8,7 +8,7 @@ css: form.css
 nebelezi: 1
 ---
 
-Hvala, ker čistiš z nami! Da bomo vedeli, kakšen je naš skupni učinek, te prosimo za vnos rezultatov **najkasneje do 31. marca 2025 do polnoči** - v tem primeru bo tvoj prispevek prištet h kolektivnemu rezultatu, ki ga bomo javno komunicirali po zaključku letošnje akcije.
+Hvala, ker čistiš z nami! Da bomo vedeli, kakšen je naš skupni učinek, te prosimo za vnos rezultatov **najkasneje do 31. marca 2026 do polnoči** - v tem primeru bo tvoj prispevek prištet h kolektivnemu rezultatu, ki ga bomo javno komunicirali po zaključku letošnje akcije.
 
 <div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0">
 	<button id="osub-btn">Obrazec za posameznike</button>
