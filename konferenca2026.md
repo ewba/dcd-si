@@ -101,8 +101,7 @@ Za lažjo organizacijo dogodka vas prosimo, da se prijavite preko [prijavnega ob
 
 Konferenco podpirajo:
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; max-width: 500px;">
-  <div style="max-width:150px">
-		<img height="50" src="assets/img/podporniki/radenska_adriatic.webp" alt="Logo Radenska">
-	</div>
+<div style="display: flex; justify-content: space-evenly; align-items: center; max-width: 800px;">
+	<img height="50" src="assets/img/podporniki/radenska_adriatic.webp" alt="Logo Radenska">
+	<img height="50" src="assets/img/podporniki/spar.svg" alt="Logo Spar">
 </div>
