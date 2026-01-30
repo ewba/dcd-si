@@ -69,8 +69,8 @@ Za lažjo organizacijo dogodka vas prosimo, da se prijavite preko [prijavnega ob
     </tr>
     <tr>
       <td>12.00 - 12.20</td>
-      <td><i>Strojne omejitve kot gonilo boljše programske opreme skozi čas</i></td>
-      <td>Računalniški muzej</td>
+      <td>Odgovorne prakse iz časa tehnoloških omejitev kot osnova za trajnostni premislek</td>
+      <td>Gaja Zornada, direktorica Računalniškega muzeja</td>
     </tr>
     <tr>
       <td>12.20 - 12.40</td>
