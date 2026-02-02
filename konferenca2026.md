@@ -104,5 +104,5 @@ Konferenco podpirajo:
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; max-width: 800px;">
 	<img height="50" src="assets/img/podporniki/radenska_adriatic.webp" alt="Logo Radenska">
-	<!-- <img height="50" src="assets/img/podporniki/spar.svg" alt="Logo Spar"> -->
+	<img height="50" src="https://klimaatverbond.nl/wp-content/uploads/2023/12/ClimatePact-VisualHook-emerald-251x300.png" alt="Logo Podnebni pakt">
 </div>
