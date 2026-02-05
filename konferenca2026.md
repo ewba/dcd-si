@@ -75,7 +75,7 @@ Za lažjo organizacijo dogodka vas prosimo, da se prijavite preko [prijavnega ob
     <tr>
       <td>12.20 - 12.40</td>
       <td><i>Pregled aktivnosti in uspehov kampanje EndOf10</i></td>
-      <td>Lio Novelli, Kompot</td>
+      <td>Lio Novelli, član samogostiteljskega kolektiva Kompot in soavtor oddaje Tehno klistir na Radiu Študent</td>
     </tr>
     <tr>
       <td>12.40 - 13.00</td>
