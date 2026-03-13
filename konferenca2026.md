@@ -8,14 +8,12 @@ co2: "0,4"
 css: yt.css
 ---
 <div style="text-align: center;">
-Strokovna konferenca, ki ji bo sledila še delavnica primerna za vse, bo potekala v <br><strong>sredo, 11. februarja</strong>,<br> med <strong>10.00 in 14.30</strong> v<br> <strong><a href="https://www.racunalniski-muzej.si/" target="_blank" rel="noopener">Računalniškem muzeju</a></strong> v Ljubljani.
+Strokovna konferenca, ki ji je sledila še delavnica primerna za vse, je potekala v <br><strong>sredo, 11. februarja</strong>,<br> med <strong>10.00 in 14.30</strong> v<br> <strong><a href="https://www.racunalniski-muzej.si/" target="_blank" rel="noopener">Računalniškem muzeju</a></strong> v Ljubljani.
 </div>
 
-V preteklem letu smo naslovili širši okvir digitalnega odtisa, tokrat pa želimo skonkretizirati povezavo med digitalnimi praksami, strojno opremo in oprijemljivimi posledicami – od e-odpadkov do slabše uporabniške izkušnje in povečane tehnološke odvisnosti. Cilj dogodka je spodbuditi strokoven, trezen razmislek o tem, kako digitalne rešitve zasnovati tako, da bodo dolgoročno vzdržne – tehnološko, okoljsko in družbeno – ter odpreti prostor za izmenjavo pogledov med različnimi disciplinami.
+V preteklem letu smo naslovili širši okvir digitalnega odtisa, tokrat pa smo želeli skonkretizirati povezavo med digitalnimi praksami, strojno opremo in oprijemljivimi posledicami – od e-odpadkov do slabše uporabniške izkušnje in povečane tehnološke odvisnosti. Cilj dogodka je bil spodbuditi strokoven, trezen razmislek o tem, kako digitalne rešitve zasnovati tako, da bodo dolgoročno vzdržne – tehnološko, okoljsko in družbeno – ter odpreti prostor za izmenjavo pogledov med različnimi disciplinami.
 
-Po konferenčnem delu pa vas vabimo, da se pridružite digitalnemu čistilnemu servisu z ambasadorji [Evropskega podnebnega pakta](https://climate-pact.europa.eu/). Delavnica je primerna za vse starosti in ne zahteva posebnega tehničnega znanja. 
-
-Za lažjo organizacijo dogodka vas prosimo, da se prijavite preko [prijavnega obrazca](https://docs.google.com/forms/d/e/1FAIpQLSefc6Rv4mWrjRKsnl1CMpiS0UM4wM4gCSYWikzJn2qQGiuoyA/viewform).
+Po konferenčnem delu so se udeleženci pridružili digitalnemu čistilnemu servisu z ambasadorji [Evropskega podnebnega pakta](https://climate-pact.europa.eu/). Delavnica je primerna za vse starosti in ne zahteva posebnega tehničnega znanja. 
 
 
 ### Program strokovne konference
