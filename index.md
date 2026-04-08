@@ -70,7 +70,6 @@ Začetek letošnje akcije digitalnega čiščenja bo 14. marec 2026! Ker pa se s
 
 <div class="block para" style="text-align: center" aria-hidden="true">
 	<h2>Podporniki akcije</h2>
-	<h3 style="margin: 2rem 0">Kilo</h3>
 	<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; margin: 1em 0; gap: 2.5rem 1.5rem; align-items: center">
 		<div>
 			<img src="assets/img/podporniki/A1_Logo_Red_Smpl_Pos_3.svg" alt="logo A1" width="68" height="70">
@@ -80,6 +79,9 @@ Začetek letošnje akcije digitalnega čiščenja bo 14. marec 2026! Ker pa se s
 		</div>
 		<div>
 			<img src="assets/img/podporniki/spar.svg" alt="logo spar" width="234" height="38">
+		</div>
+		<div>
+			<img src="assets/img/podporniki/ul.webp" alt="logo spar" width="183" height="100">
 		</div>
 	</div>
 </div>
