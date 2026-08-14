@@ -43,5 +43,8 @@ Več v <a href="https://ebm.si/prispevki/zakljucek-akcije-ocistimo-slovenijo-dig
 		<div>
 			<img src="assets/img/podporniki/spar.svg" alt="logo spar" width="234" height="38">
 		</div>
+		<div>
+			<img src="assets/img/podporniki/ul.webp" alt="logo UL" width="183" height="100">
+		</div>
 	</div>
 </div>
