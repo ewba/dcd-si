@@ -18,6 +18,45 @@ Tudi v 2026 bomo množično čistili naše elektronske naprave, diske in e-pošt
 Zdaj potrebujemo tebe in vse vas, da Slovenija pri čiščenju ponovno prevzame primat in postavi tudi digitalni rekord.
 </div>
 
+<div class="block para" style="padding-bottom: 2.5rem">
+<h2>Cilji akcije</h2>
+
+<div id="cilji" style="display:grid; justify-content: center;">
+	<div style="justify-self: end; align-self: center;margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px;">
+		<img src="assets/img/ff/png.webp" alt="okras seznama 0" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
+	</div>
+	<div style="justify-self: start">
+		<h3>Odstraniti čim več odvečnih podatkov</h3>
+		Do zaključka akcije 31. marca 2026 <strong>počistiti čim več odvečnih gigabajtov</strong> in okolje <a href="https://digital.ocistimo.si/o-akciji.html">razbremeniti digitalnih odpadkov</a>. Z enostavnim ukrepom lahko zmanjšaš emisije CO<sub>2</sub> ter podaljšaš življenjsko dobo elektronske opreme.
+	</div>
+
+	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
+		<img src="assets/img/ff/jpg.webp" alt="okras seznama 1" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
+	</div>
+	<div style="justify-self: start">
+		<h3>Dvigniti ozaveščenost</h3>
+		Poskrbeti za nacionalno <strong>ozaveščenost</strong> o trajnostnem življenju <strong>s poudarkom na digitalnih odpadkih</strong>.
+	</div>
+
+	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
+		<img src="assets/img/ff/eml.webp" alt="okras seznama 2" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
+	</div>
+	<div style="justify-self: start">
+		<h3>Preprečiti kopičenje digitalnih odpadkov</h3>
+		Posameznike opolnomočiti, da bodo s pridobljenimi dobrimi digitalnimi navadami lahko <strong>preprečili kopičenje digitalnih odpadkov</strong>.
+	</div>
+
+	<div style="justify-self: end; align-self: center; margin-top: 1rem; box-shadow: 0px 3px 6px #00000029; background: #80808070; border-radius: 25px">
+		<img src="assets/img/ff/png.webp" alt="okras seznama 3" aria-hidden="true" width="55" height="100" style="margin: 0 auto; padding: 10px 30px">
+	</div>
+	<div style="justify-self: start">
+		<h3>Navdihniti Slovence</h3>
+		<strong>Navdihniti Slovence</strong>, da svoje skrbno ravnanje do okolja prenesejo v digitalni svet, za to navdušijo svoje družine, prijatelje, znance, poslovne partnerje in druge, ki jih obkrožajo ter s svojim zgledom navdihujejo vse generacije, ki jim sledijo!
+	</div>
+</div>
+
+</div>
+
 <div class="block" markdown="1">
 ## Kaj je digitalni odtis in zakaj se tega lotevamo?
 
